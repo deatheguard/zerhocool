@@ -3,7 +3,6 @@
  >
   <head>
     <meta charset="UTF-8"/>
-    <title>Zerho COOL - Developer</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta name="DC.Language" scheme="RFC1766" content="Spanish">
     <meta name="autor" content="Andres Antonio Cardoso">
@@ -15,13 +14,11 @@
     <meta name="Resource-type" content="Index">
     <meta name="Revisit-after" content="1 days">
     <meta name="robots" content="all">
-    <link rel="stylesheet" href="./css/normalize.css">
-    <link rel="stylesheet" href="./css/style.css" />
-   </head>
+  </head>
    
   <body>
 <!-- INICIO INTRO -->
-Hola, ZERHO COOL esta AQUI!<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="50px">
+<h2>Hola, ZERHO COOL esta AQUI!⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="40px"></h2>
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090074450499743794/Banner_-ZERHO-2.png">
 
@@ -45,6 +42,7 @@ Hola, ZERHO COOL esta AQUI!<img src="https://cdn.discordapp.com/attachments/1072
   SOY!! <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960893612092/right.webp" width="50px">
   
   <br>
+  <br>
   
   <em> 📌- Soy un Developer **Full STACK** Freelancer de la vieja escuela, que desde que descubri UNIX quede fascinado,
     con el poder del **CODIGO Y MANEJO DE CONSOLA** con más de una década de experiencia trabajo con agencias en Girona,
@@ -52,7 +50,7 @@ Hola, ZERHO COOL esta AQUI!<img src="https://cdn.discordapp.com/attachments/1072
     dispositivos.</em>
   
   <em> 📌- Aunque estoy muy familiarizado con el uso de framework, mis sitios web están codificados principalmente a mano
-    con **HTML5, CSS3, JavaScript y Next.Js.**</em> 
+    con **HTML5, CSS3, JavaScript y NEXT.JS.**</em> 
   
    <em> 📌- Con un fuerte énfasis en la "Mejora progresiva", busco formas creativas de ampliar los límites del código
     front-end del sitio web sin comprometer el soporte y el rendimiento del navegador.</em> 
@@ -82,7 +80,7 @@ Hola, ZERHO COOL esta AQUI!<img src="https://cdn.discordapp.com/attachments/1072
   </summary>   
 
  
-- ↣｜🍀｜<em>En Argentina funde mi empresa © ZERHO COOL en 1999, 2022 emigre a España donde actualmente trabajo como Autonomo - Freelancer en diferentes empresas.</em>
+- ↣｜🍀｜<em>En Argentina funde mi empresa © ZERHO COOL en 1999, luego en 2022 emigre a España donde actualmente trabajo como Autonomo - Freelancer en diferentes empresas.</em>
   
 - ↣｜🍀｜<em>Busco colaborar en proyectos de código abierto/comerciales.</em>
   
@@ -106,18 +104,79 @@ Hola, ZERHO COOL esta AQUI!<img src="https://cdn.discordapp.com/attachments/1072
 
 - ↣｜💎｜<em>Viajar y conocer nuevas culturas.</em>
 
+- ↣｜💎｜<em>Mejorando mi nivel de Ingles y algo de Catalan.</em>
+
 </details>
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL SOBRE MI -->
+<!-- INICIO SERVICIOS -->
+<details>
+  <summary>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089908094093504562/fire-dynamic-premium.png" width="80px">⠀SERVICIOS</h2>
+  </summary>
+ 
+ `NUESTROS SERVICIOS.`
+
+<details>
+  <summary>
+<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Diseño:</h4> 
+  </summary>
+  
+
+`GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.` 
+
+✔ Manual de Marca, Logotipo y Sistema gráfico.
+
+✔ Brochure institucional, Catálogos.
+
+✔ Afiches y Folletos.
+
+✔  Packaging y Etiquetas.  
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
+
+</details>
+  
+<details>
+  <summary>
+<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Programacion:</h4> 
+  </summary>   
+
+ 
+`SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.`
+
+✔ Todos los website son testeados en un entorno real. 
+
+✔ Diseño de Sitios Web Institucionales. 
+
+✔ Diseño de Landing Pages y Newsletters.
+
+✔ E-commerce para venta de servicios o productos.
+
+✔ E-Learning
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
+
+</details>
+  
+✔ Nuestro servicios estan expresados en Euros ⭐
+
+✔ Puedes solicitar un presupuesto personalizado SIN CARGO ⭐
+<br>
+
+</details>
+
+<img src="https://i.imgur.com/BsT3Qux.gif">
+<!-- FINAL SERVICIOS -->
 <!-- INICIO TECNOLOGIA -->
 <details>
   <summary>
    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089900074747838464/computer-dynamic-premium.png" width="80px">⠀TECNOLOGIAS</h2>
   </summary>
 
-`Estos son los programas con los cuales trabajo en mi dia.`<img
+`ESTOS SON LOS PROGRAMAS CON LOS CUALES TRABAJO EN MIS PROYECTOS.`<img
   src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
 
@@ -166,9 +225,7 @@ logo"></p>
 
 <br>
 
-<p><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobeillustrator" alt="techstack logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobephotoshop" alt="techstack
-logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobeindesign" alt="techstack
-logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobepremierepro" alt="techstack
+<p><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobeillustrator" alt="techstack logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobephotoshop" alt="techstack logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobeindesign" alt="techstack logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=adobepremierepro" alt="techstack
 logo"></p>
 </p>
 
@@ -182,7 +239,7 @@ logo"></p>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089896602799456256/locker-dynamic-premium.png" width="80px">⠀REPOSITORIOS</h2>
   </summary>
 
-`Los repositorios se van actualizando de forma automatica.`<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
+`LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA.`<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
 
 <a href="https://github.com/zerhocool/github-readme-statc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=github-readme-statc" />
@@ -191,14 +248,16 @@ logo"></p>
 <a href="https://github.com/zerhocool/NEXT.JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS" />
 </a>
-⠀
+
 <a href="https://github.com/zerhocool/MODULOS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS" />
 </a>
 ⠀
 <a href="https://github.com/zerhocool/PORFOLIO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=PORFOLIO" />
-</a><a href="https://github.com/zerhocool/JAVASCRIPT">
+</a>
+
+<a href="https://github.com/zerhocool/JAVASCRIPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=JAVASCRIPT" />
 </a>
 ⠀
@@ -216,7 +275,7 @@ logo"></p>
      <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089901613851889715/headphone-dynamic-premium.png" width="80px">⠀MUSICA</h2>
   </summary>
 
-`Musica que me gusta escuchar cuando estoy programando.`<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif" width="70px" height="25px">
+`MUSICA QUE ME GUSTA ESCUCHAR CUANDO ESTOY PROGRAMANDO.`<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif" width="70px" height="25px">
 
 <p align="center"><a href="https://www.youtube.com/watch?v=or047P2NOjc" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/or047P2NOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=RbJg7YLqJk8" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/RbJg7YLqJk8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
@@ -233,7 +292,7 @@ logo"></p>
      <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀ESTADISTICAS</h2>
   </summary>
 
-`¡Obtén tus estadísticas de GitHub generadas dinámicamente en tu README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+`¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
 
 ![Horas de Codigo](http://img.shields.io/badge/Horas%20de%20Codigo-157.625%20hrs%2017%20mins%20-blue)⠀⠀⠀![Lineas de codigo](https://img.shields.io/badge/Lineas%20de%20codigo%20-40.3%20million%20lineas%20de%20codigo-blue)⠀⠀⠀[![wakatime](https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg)](https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5)
 
@@ -270,7 +329,7 @@ logo"></p>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089903368316661760/megaphone-dynamic-premium.png" width="80px">⠀MENCIONES</h2>
   </summary>
 
-`Muchas gracias de las personas que hicieron referencia a este repositorio aquí.`<img
+`MUCHAS GRACIAS A LAS PERSONAS QUE HICIERON REFERENCIA A ESTE REPOSITORIO AQUI.`<img
   src="https://cdn.discordapp.com/emojis/1054895060610728006.gif?size=44&quality=lossless" width="30px">
 <!-- MENTIONS-LIST:START -->
 <a href="https://github.com/zerhocool"><img src="https://github.com/zerhocool.png?size=96" alt="zerhocool" width="96px" height="96px" /></a>
@@ -285,22 +344,23 @@ logo"></p>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀CONTACTO</h2>
   </summary>
 
-`Unicos medios de contacto.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> 
+`UNICOS MEDIOS DE CONTACTO.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> 
 
 <br/>
 
 <p align="center">
-  <a href="https://discord.gg/wsTRGjteJ5"><img width="50px" alt="Discord" title="https://https://discord.gg/wsTRGjteJ5" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914364959654072/target-dynamic-premium.png"/></a>
+  <a href="https://discord.gg/wsTRGjteJ5"><img width="90px" alt="Discord" title="https://https://discord.gg/wsTRGjteJ5" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914364959654072/target-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/zerhocool"><img width="50px" alt="Github" title="https://github.com/zerhocool" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914843194208296/medal-dynamic-premium.png"/></a>
+  <a href="https://github.com/zerhocool"><img width="90px" alt="Github" title="https://github.com/zerhocool" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914843194208296/medal-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="50px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
+  <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="90px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?"><img width="50px" alt="Whatsaap" title="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912838971203785/mobile-dynamic-premium.png"></a>
+  <a href="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?"><img width="90px" alt="Whatsaap" title="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912838971203785/mobile-dynamic-premium.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="zerhocool@gmail.com"><img width="50px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
+  <a href="zerhocool@gmail.com"><img width="90px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://zerhocool.com"><img width="50px" alt="Website" title="http://zerhocool.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090424324873269328/bulb-dynamic-premium.png"/></a>
+  <a href="http://zerhocool.com"><img width="90px" alt="Website" title="http://zerhocool.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090424324873269328/bulb-dynamic-premium.png"/></a>
+  <a href="#"><img width="90px" alt="Ubicacion" title="España,Girona" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
 </p>
 <br/>
 
@@ -347,38 +407,7 @@ En el mundo:
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL CREDITOS -->
-<!-- INICIO FAQ -->
-<details>
-  <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089908094093504562/fire-dynamic-premium.png" width="80px">⠀FAQ</h2>
-  </summary>
 
-`Preguntas Frecuentes.`
-  
-✔ Nuestro servicios estan expresados en Euros ⭐
-
-✔ Puedes solicitar un presupuesto sin cargo ⭐
-<br>
-
-<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Diseño:</h4> 
-
-✔ Todos nuestro trabajos se entregan en archivos originales Adobe Ilustrator, Photoshop.
-
-<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Code:</h4>  
-
-✔ Todos los website son testeados en un entorno real. 
-
-✔ Se incluyen los permisos ROOT. 
-
-✔ Certificado SSL - Bases de datos.
-
-✔ Medios de pagos on line.
-
-✔ Garantia 12 meses.
-</details>
-  
-<img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL FAQ -->
 <!-- INICIO FOOTER -->
 <footer>
 <p>Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> © 1999-2023 ZERHO COOL - Todos los derechos reservados.</p>
