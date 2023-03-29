@@ -1,0 +1,70 @@
+Documentacion Mi perfil de Github
+
+Nombre **ANDRES ANTONIO CARDOSO**
+Cargo: Developer
+Usuario Github: zerhocool
+Rama de trabajo: MASTER
+Email: zerhocool@icloud.com / zerhocool@gmail.com
+Fecha:29/03/2023
+GIT: ACTIVADO
+
+---
+TAREAS REALIZADAS:
+
+Se modifico la estructura del perfil a un sistema de menu desplegable mas claro.
+
+Diseño de nuevos banner PRINCIPAL, en la seccion SOBRE MI / EDUCACION.
+
+Diseño de nuevos iconos 3d en menu.
+
+Diseño de iconos en la seccion TECNOLOGIA - CONTACTO
+
+Se actualizo informacion general.
+
+Se modificaron las estadistica Github con un nuevo estilo.
+
+Se actualizo foto de perfil.
+
+Resta terminar banner 2 para la seccion SERVICIOS.
+
+---
+NOTA:
+
+Quisas sea algo viejo con esto, realizen los comentarios en el codigo para que otra persona pueda entender lo que quisieron hacer.
+
+Espero que les sirva como inspiracion, o lo puedan mejorar.  
+
+✔  Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
+
+✔  Dándole una estrella (starring) y compartiendo el proyecto 🚀
+
+---
+SOFTWARE:
+
+**Markdown** es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
+
+**HTML** es un markup language, lo que significa que está escrito con códigos que puede leer una persona sin que sea necesario compilarlo primero. En otras palabras, el texto en una página web está «marcado» con estos códigos para dar instrucciones al navegador web sobre cómo mostrar el texto.
+
+---
+LICENCIA:
+
+Proyecto de código abierto con licencia del MIT. EVALUANDO CAMBIAR LICENCIA A GNU V3.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
