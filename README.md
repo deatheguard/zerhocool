@@ -19,14 +19,22 @@
   <body>
 <!-- INICIO INTRO -->
 <h2>Hola, ZERHO COOL esta AQUI!⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="40px"></h2>
-
+   
+   ---
+ 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090074450499743794/Banner_-ZERHO-2.png">
 
 ---
 <br>
 <!-- FINAL INTRO -->
 <!-- INICIO FRASE -->
-
+   
+<p><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">⠀<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">⠀<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch">⠀<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">⠀<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></p>
+ 
+<br>
+ 
+<p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
+   
 `Tercera ley de Clarke; Cualquier tecnología lo suficientemente avanzada es indistinguible de la magia.`
   
 `No hagas lo que los demas hacen, haz lo que quisieran hacer pero no se atreven.`<br>
@@ -38,8 +46,8 @@
   <summary>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089907560846467112/magic-trick-dynamic-premium.png" width="80px">⠀SOBRE MI</h2>
   </summary>
-  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960667140236/left.webp" width="50px"> QUIEN
-  SOY!! <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960893612092/right.webp" width="50px">
+  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960667140236/left.webp" width="50px"> <b>QUIEN
+  SOY⠀!!!</b> <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960893612092/right.webp" width="50px">
   
   <br>
   <br>
@@ -67,7 +75,6 @@
   
 - ↣｜🔮｜ Developer en Python / Google Cloud / AWS<br/>
 - ↣｜🔮｜ Diseñador Grafico<br/>
-- ↣｜🔮｜ Trofeos<br/>  
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
 
@@ -80,7 +87,7 @@
   </summary>   
 
  
-- ↣｜🍀｜<em>En Argentina funde mi empresa © ZERHO COOL en 1999, luego en 2022 emigre a España donde actualmente trabajo como Autonomo - Freelancer en diferentes empresas.</em>
+- ↣｜🍀｜<em>En Argentina funde mi empresa **Copyrigh © ZERHO COOL en 1999,** luego en 2022 emigre a España donde actualmente trabajo como Autonomo - Freelancer en diferentes empresas.</em>
   
 - ↣｜🍀｜<em>Busco colaborar en proyectos de código abierto/comerciales.</em>
   
@@ -117,15 +124,16 @@
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089908094093504562/fire-dynamic-premium.png" width="80px">⠀SERVICIOS</h2>
   </summary>
  
- `NUESTROS SERVICIOS.`
-
+ ## `NUESTROS SERVICIOS.`
+ 
+ 
 <details>
   <summary>
-<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Diseño:</h4> 
+<h3>💫⠀Area Diseño:</h3> 
   </summary>
   
 
-`GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.` 
+### `GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.` 
 
 ✔ Manual de Marca, Logotipo y Sistema gráfico.
 
@@ -135,17 +143,17 @@
 
 ✔  Packaging y Etiquetas.  
 
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
+---
 
 </details>
   
 <details>
   <summary>
-<h4><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090435408954929252/1054981658442477639.gif" width="20px">⠀Area Programacion:</h4> 
+<h3>🪐⠀Area Programacion:</h3> 
   </summary>   
 
  
-`SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.`
+### `SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.`
 
 ✔ Todos los website son testeados en un entorno real. 
 
@@ -157,13 +165,8 @@
 
 ✔ E-Learning
 
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
-
 </details>
   
-✔ Nuestro servicios estan expresados en Euros ⭐
-
-✔ Puedes solicitar un presupuesto personalizado SIN CARGO ⭐
 <br>
 
 </details>
@@ -176,8 +179,8 @@
    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089900074747838464/computer-dynamic-premium.png" width="80px">⠀TECNOLOGIAS</h2>
   </summary>
 
-`ESTOS SON LOS PROGRAMAS CON LOS CUALES TRABAJO EN MIS PROYECTOS.`<img
-  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+## `ESTOS SON LOS PROGRAMAS CON LOS CUALES TRABAJO EN MIS PROYECTOS.`
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
 
 <br>
@@ -239,31 +242,15 @@ logo"></p>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089896602799456256/locker-dynamic-premium.png" width="80px">⠀REPOSITORIOS</h2>
   </summary>
 
-`LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA.`<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
+## `LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA.`<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
 
-<a href="https://github.com/zerhocool/github-readme-statc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=github-readme-statc" />
-</a>
-⠀
-<a href="https://github.com/zerhocool/NEXT.JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS" />
-</a>
+ 
+ <p align="center"><a href="https://github.com/zerhocool/github-readme-statc" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=github-readme-statc"/></a>&nbsp;&nbsp;
 
-<a href="https://github.com/zerhocool/MODULOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS" />
-</a>
-⠀
-<a href="https://github.com/zerhocool/PORFOLIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=PORFOLIO" />
-</a>
+<p align="center"><a href="https://github.com/zerhocool/NEXT.JS" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS"/></a>&nbsp;&nbsp;
 
-<a href="https://github.com/zerhocool/JAVASCRIPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=JAVASCRIPT" />
-</a>
-⠀
-<a href="https://github.com/zerhocool/FOTOGRAFIA1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=FOTOGRAFIA1" />
-</a>
+<p align="center"><a href="https://github.com/zerhocool/MODULO" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS"/></a>&nbsp;&nbsp;
+</p>
 
 </details>
 
@@ -275,7 +262,9 @@ logo"></p>
      <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089901613851889715/headphone-dynamic-premium.png" width="80px">⠀MUSICA</h2>
   </summary>
 
-`MUSICA QUE ME GUSTA ESCUCHAR CUANDO ESTOY PROGRAMANDO.`<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif" width="70px" height="25px">
+## `MUSICA QUE ME GUSTA ESCUCHAR CUANDO ESTOY PROGRAMANDO.`
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif" width="70px" height="25px"> 
 
 <p align="center"><a href="https://www.youtube.com/watch?v=or047P2NOjc" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/or047P2NOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=RbJg7YLqJk8" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/RbJg7YLqJk8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
@@ -292,7 +281,7 @@ logo"></p>
      <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀ESTADISTICAS</h2>
   </summary>
 
-`¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+## `¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
 
 ![Horas de Codigo](http://img.shields.io/badge/Horas%20de%20Codigo-157.625%20hrs%2017%20mins%20-blue)⠀⠀⠀![Lineas de codigo](https://img.shields.io/badge/Lineas%20de%20codigo%20-40.3%20million%20lineas%20de%20codigo-blue)⠀⠀⠀[![wakatime](https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg)](https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5)
 
@@ -308,13 +297,13 @@ logo"></p>
 <a href="https://www.zerhocool.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zerhocool&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />⠀⠀<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerhocool&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 200px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 220px"  />
 </div>  
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 200px"  />    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 220px"  />    
 </div>  
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=zerhocool&theme=react-dark&hide_border=true" /></a>
@@ -326,11 +315,13 @@ logo"></p>
 <!-- INICIO MENCIONES -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089903368316661760/megaphone-dynamic-premium.png" width="80px">⠀MENCIONES</h2>
+    <h3><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089903368316661760/megaphone-dynamic-premium.png" width="80px">⠀MENCIONES</h3>
   </summary>
 
-`MUCHAS GRACIAS A LAS PERSONAS QUE HICIERON REFERENCIA A ESTE REPOSITORIO AQUI.`<img
-  src="https://cdn.discordapp.com/emojis/1054895060610728006.gif?size=44&quality=lossless" width="30px">
+## `MUCHAS GRACIAS A LAS PERSONAS QUE HICIERON REFERENCIA A ESTE REPOSITORIO AQUI.`
+
+<img  src="https://cdn.discordapp.com/emojis/1054895060610728006.gif?size=44&quality=lossless" width="30px">
+
 <!-- MENTIONS-LIST:START -->
 <a href="https://github.com/zerhocool"><img src="https://github.com/zerhocool.png?size=96" alt="zerhocool" width="96px" height="96px" /></a>
 
@@ -344,7 +335,11 @@ logo"></p>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀CONTACTO</h2>
   </summary>
 
-`UNICOS MEDIOS DE CONTACTO.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> 
+## `UNICOS MEDIOS DE CONTACTO.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> 
+ 
+ ✔ Nuestro servicios estan expresados en Euros ⭐
+
+✔ Puedes solicitar un presupuesto personalizado SIN CARGO ⭐
 
 <br/>
 
@@ -360,7 +355,7 @@ logo"></p>
   <a href="zerhocool@gmail.com"><img width="90px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://zerhocool.com"><img width="90px" alt="Website" title="http://zerhocool.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090424324873269328/bulb-dynamic-premium.png"/></a>
-  <a href="#"><img width="90px" alt="Ubicacion" title="España,Girona" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
+  <a href="#"><img width="90px" alt="Ubicacion" title="España, Girona" src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
 </p>
 <br/>
 
@@ -376,9 +371,9 @@ logo"></p>
 
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-Casi todos mis proyectos son código-abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
+> Casi todos mis proyectos son código-abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
 
-No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
+> No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
 
 ✔  Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
@@ -386,7 +381,7 @@ No obstante, si estás utilizando este proyecto y estás feliz con él o simplem
 
 ✔  Dándole una estrella (starring) y compartiendo el proyecto 🚀 
 
-<p><a href="https://github.com/zerhocool?tab=starsl"><img src="https://readme-components.vercel.app/api?component=star-rating&amp;skill=python&amp;text=4" alt="StarRating Component"></a></p>
+<p>Danos una estrella ⭐!!!!⠀<a href="https://github.com/zerhocool?tab=starsl"><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092202580223987754/python-powered-w-100x40.png" alt="StarRating Component"></a></p>
 
 
 En Argentina: Transferencia Bancaria.
@@ -410,13 +405,14 @@ En el mundo:
 
 <!-- INICIO FOOTER -->
 <footer>
-<p>Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> © 1999-2023 ZERHO COOL - Todos los derechos reservados.</p>
+<p><b>Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.<b></p>
 
 <br>
+ 
+ <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0)</a>.
 
-<p><img src="https://img.shields.io/badge/HTML5-MARKDOWN-0690fa.svg?style=flat" alt="StackShare"> <img src="https://img.shields.io/badge/LICENCIA-MIT-0690fa.svg?style=flat" alt="StackShare"> <img src="https://img.shields.io/badge/WORFLOW-AUTO-0690fa.svg?style=flat" alt="StackShare"> </p>
-<p><a href="https://github.com/zerhocool?tab=starsl"><img src="https://readme-components.vercel.app/api?component=star-rating&amp;skill=python&amp;text=4" alt="StarRating Component"></a>⠀<a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=Sigueme!" alt="Button Component"></a></p>
 </footer>
 <!-- FINAL FOOTER -->
   </body>
 </html>
+
