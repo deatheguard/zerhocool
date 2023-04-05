@@ -115,16 +115,12 @@
   </summary>
 
 <h3>📕⠀Latest Blog Posts</h3> 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5wNA3QcGtv8"><img width="140px" src="https://i.ytimg.com/vi/5wNA3QcGtv8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5wNA3QcGtv8">IBIZA SUMMER MIX 2023 ↠ 4K Paradise, Ireland, Hawaii, Netherlands, ISLANDS 🌴 Summer Lounge #120</a><br/>Apr 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jS89IRgPB7I"><img width="140px" src="https://i.ytimg.com/vi/jS89IRgPB7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jS89IRgPB7I">IBIZA SUMMER MIX 2023 ↠ 4K Paradise, Spain, Norway, Iceland, ISLANDS 🌴 Summer Lounge #119</a><br/>Apr 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-jCC-lYG6e0"><img width="140px" src="https://i.ytimg.com/vi/-jCC-lYG6e0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-jCC-lYG6e0">4K Canada Summer Mix 2023 🍓 Best Of Tropical Deep House Music Chill Out Mix By The Deep Sound</a><br/>Apr 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=edzg4yqcM0M"><img width="140px" src="https://i.ytimg.com/vi/edzg4yqcM0M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=edzg4yqcM0M">4K Dubai Summer Mix 2023 🍓 Best Of Tropical Deep House Music Chill Out Mix By The Deep Sound #4</a><br/>Apr 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=akn9zhSmQ6o"><img width="140px" src="https://i.ytimg.com/vi/akn9zhSmQ6o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=akn9zhSmQ6o">IBIZA SUMMER MIX 2023 ↠ 4K Paradise, Croatia, Greece, Bali, ISLANDS 🌴 Summer Lounge #118</a><br/>Apr 3, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [The 2030 Self-Driving Car Bet](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
+- [Updating The Single Most Influential Book of the BASIC Era](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/)
+- [Building a PC, Part IX: Downsizing](https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/)
+- [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
+- [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 
