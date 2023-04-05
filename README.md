@@ -115,7 +115,16 @@
   </summary>
 
 <h3>📕⠀Latest Blog Posts</h3> 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jS89IRgPB7I"><img width="140px" src="https://i.ytimg.com/vi/jS89IRgPB7I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jS89IRgPB7I">IBIZA SUMMER MIX 2023 ↠ 4K Paradise, Spain, Norway, Iceland, ISLANDS 🌴 Summer Lounge #119</a><br/>Apr 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-jCC-lYG6e0"><img width="140px" src="https://i.ytimg.com/vi/-jCC-lYG6e0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-jCC-lYG6e0">4K Canada Summer Mix 2023 🍓 Best Of Tropical Deep House Music Chill Out Mix By The Deep Sound</a><br/>Apr 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=edzg4yqcM0M"><img width="140px" src="https://i.ytimg.com/vi/edzg4yqcM0M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=edzg4yqcM0M">4K Dubai Summer Mix 2023 🍓 Best Of Tropical Deep House Music Chill Out Mix By The Deep Sound #4</a><br/>Apr 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=akn9zhSmQ6o"><img width="140px" src="https://i.ytimg.com/vi/akn9zhSmQ6o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=akn9zhSmQ6o">IBIZA SUMMER MIX 2023 ↠ 4K Paradise, Croatia, Greece, Bali, ISLANDS 🌴 Summer Lounge #118</a><br/>Apr 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6j9kDXsg7jM"><img width="140px" src="https://i.ytimg.com/vi/6j9kDXsg7jM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6j9kDXsg7jM">4K Caribbean Summer Mix 2023 🍓 Best Of Tropical Deep House Music Chill Out Mix By The Deep Sound #2</a><br/>Apr 2, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END --> 
 
 </details>
