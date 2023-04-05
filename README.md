@@ -111,18 +111,18 @@
 </details>
 <details>
   <summary>
-  <h3> 📚 Blog Posts</h3>
+  <h3> 📚 Website de mi interes</h3>
   </summary>
 
-<h3>📕⠀Latest Blog Posts</h3> 
-<!-- BLOG-POST-LIST:START -->
-- [The 2030 Self-Driving Car Bet](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
-- [Updating The Single Most Influential Book of the BASIC Era](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/)
-- [Building a PC, Part IX: Downsizing](https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/)
-- [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
-- [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/)
-<!-- BLOG-POST-LIST:END -->
-
+<p>- ↣｜📕｜ Ha llegado al sitio web de Arch Linux , una distribución de Linux® liviana y flexible que intenta mantenerlo simple. <a href="https://archlinux.org/">Arch Linuxr</a></p> 
+ 
+<p>- ↣｜📕｜ Read the Docs simplifica la documentación del software al automatizar la creación, el control de versiones y el alojamiento de sus documentaciones por usted. <a href="https://readthedocs.org/">Read the Docs</a></p> 
+ 
+<p>- ↣｜📕｜ Transforme su texto sin formato en sitios web y blogs estáticos. <a href="https://jekyllrb.com/">Jekyll</a></p> 
+ 
+<p>- ↣｜📕｜ Utilizado por algunas de las empresas más grandes del mundo, Next.js le permite crear aplicaciones web completas mediante la ampliación de las funciones más recientes de React y la integración de potentes herramientas de JavaScript basadas en Rust para compilaciones más rápidas. <a href="https://nextjs.org/">NEXT.JS</a></p> 
+ 
+<p>- ↣｜📕｜ Vercel es la plataforma para desarrolladores frontend, que brinda la velocidad y la confiabilidad que los innovadores necesitan para crear en el momento de la inspiración. <a href="https://vercel.com/">Vercel</a></p> 
 
 </details>
 </details>
@@ -447,11 +447,10 @@ No obstante, si estás utilizando este proyecto y estás feliz con él o simplem
 <!-- FINAL CREDITOS -->
 <!-- INICIO FOOTER -->
 <footer>
-<p>💯Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.</p>
+<h4>💯Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.</h4>
 
 
-<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0) y</a><br /> <a rel="license" href="http://next.copyleft.org/pages/current-release.html">License
-Copyletf.</a>
+<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0) y</a><br /> <a rel="license" href="http://next.copyleft.org/pages/current-release.html">License Copyletf.</a>
 
 </footer>
 <!-- FINAL FOOTER -->
