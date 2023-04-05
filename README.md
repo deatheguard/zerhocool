@@ -114,7 +114,9 @@
   <h3> 📚 Blog Posts</h3>
   </summary>
 
-<h3>📕⠀Latest Blog Posts</h3> 
+<h3>📕⠀Blog Posts</h3> 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 </details>
