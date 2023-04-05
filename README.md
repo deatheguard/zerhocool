@@ -14,25 +14,21 @@
     <meta name="Resource-type" content="Index">
     <meta name="Revisit-after" content="1 days">
     <meta name="robots" content="all">
+    <title>ZERHO COOL</title>
   </head>
    
   <body>
 <!-- INICIO INTRO -->
-<h2>Hola, ZERHO COOL esta AQUI!⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="40px"></h2>
+<h4>Hola, ZERHO COOL esta AQUI!⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="40px"></h4>
    
    ---
  
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090074450499743794/Banner_-ZERHO-2.png">
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531363791503370/Banner_-ZERHO-1.png">
 
----
 <br>
+
 <!-- FINAL INTRO -->
 <!-- INICIO FRASE -->
-   
-<p><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">⠀<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">⠀<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">⠀<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">⠀<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch">⠀<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">⠀<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></p>
- 
-<br>
- 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
    
 `Tercera ley de Clarke; Cualquier tecnología lo suficientemente avanzada es indistinguible de la magia.`
@@ -44,7 +40,7 @@
 <!-- INICIO SOBRE MI -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089907560846467112/magic-trick-dynamic-premium.png" width="80px">⠀SOBRE MI</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092767687417024512/sobremi2.png" width="300px">⠀</h2>
   </summary>
   <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960667140236/left.webp" width="50px"> <b>QUIEN
   SOY⠀!!!</b> <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089633960893612092/right.webp" width="50px">
@@ -76,7 +72,7 @@
 - ↣｜🔮｜ Developer en Python / Google Cloud / AWS<br/>
 - ↣｜🔮｜ Diseñador Grafico<br/>
 
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1090101712565583902/Banner_-ZERHO-3.png">
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531682852212867/Banner_-ZERHO-2.png">
 
 
 </details>
@@ -98,7 +94,7 @@
   
 <details>
   <summary>
-  <h3> 📚 Hobbies </h3>
+  <h3> ❤ Hobbies </h3>
   </summary>
 
 - ↣｜💎｜<em>Sistema operativo favorito: ARCH Linux personalizado.</em>
@@ -114,6 +110,16 @@
 - ↣｜💎｜<em>Mejorando mi nivel de Ingles y algo de Catalan.</em>
 
 </details>
+<details>
+  <summary>
+  <h3> 📚 Blog Posts</h3>
+  </summary>
+
+<h3>📕⠀Latest Blog Posts</h3> 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
+
+</details>
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
@@ -121,7 +127,7 @@
 <!-- INICIO SERVICIOS -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089908094093504562/fire-dynamic-premium.png" width="80px">⠀SERVICIOS</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092769113434234941/servicios.png" width="300px">⠀</h2>
   </summary>
  
  ## `NUESTROS SERVICIOS.`
@@ -165,18 +171,20 @@
 
 ✔ E-Learning
 
+
 </details>
-  
+
+  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092580759551881266/Welccome_Arcane_Style.png">
 <br>
 
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL SERVICIOS -->
-<!-- INICIO TECNOLOGIA -->
+<!-- INICIO SOFTWARE -->
 <details>
   <summary>
-   <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089900074747838464/computer-dynamic-premium.png" width="80px">⠀TECNOLOGIAS</h2>
+   <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092771589147332679/software.png" width="300px">⠀</h2>
   </summary>
 
 ## `ESTOS SON LOS PROGRAMAS CON LOS CUALES TRABAJO EN MIS PROYECTOS.`
@@ -200,7 +208,7 @@ logo"></p>
 <br>
 
 <p><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=html5" alt="techstack logo"><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=css3" alt="techstack
-logo">
+logo"><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=JavaScript" alt="techstack logo">
 <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=bootstrap" alt="techstack logo"><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=sass" alt="techstack
 logo"> <img src="https://readme-components.vercel.app/api?component=logo&amp;logo=tailwindcss" alt="techstack
 logo"><img src="https://readme-components.vercel.app/api?component=logo&amp;logo=vue.js" alt="techstack
@@ -235,31 +243,35 @@ logo"></p>
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL TECNOLOGIA -->
-<!-- INICIO REPOSITORIOS -->
+<!-- FINAL SOFTWARE -->
+<!-- INICIO CARPETAS -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089896602799456256/locker-dynamic-premium.png" width="80px">⠀REPOSITORIOS</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092776559900884992/carpetas.png" width="300px">⠀</h2>
   </summary>
 
-## `LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA.`<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
+## `LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA.`
+
+<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100px">
 
  
- <p align="center"><a href="https://github.com/zerhocool/github-readme-statc" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=github-readme-statc"/></a>&nbsp;&nbsp;
+ <p align="center">
 
-<p align="center"><a href="https://github.com/zerhocool/NEXT.JS" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/zerhocool/github-readme-statc" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=github-readme-statc"/></a>
 
-<p align="center"><a href="https://github.com/zerhocool/MODULO" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS"/></a>&nbsp;&nbsp;
+ <a href="https://github.com/zerhocool/NEXT.JS" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS"/></a>
+
+ <a href="https://github.com/zerhocool/MODULO" target="blank"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS"/></a>
 </p>
 
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL REPOSITORIOS -->
+<!-- FINAL CARPETAS -->
 <!-- INICIO MUSICA -->
 <details>
   <summary>
-     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089901613851889715/headphone-dynamic-premium.png" width="80px">⠀MUSICA</h2>
+     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092778107909455894/musica.png" width="300px">⠀</h2>
   </summary>
 
 ## `MUSICA QUE ME GUSTA ESCUCHAR CUANDO ESTOY PROGRAMANDO.`
@@ -271,14 +283,18 @@ logo"></p>
 <a href="https://www.youtube.com/watch?v=P80jClbpHZg" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/P80jClbpHZg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew"/></a>&nbsp;&nbsp;
 </p>
 
+  <h3>📺⠀Latest YouTube Videos</h3>  
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL MUSICA -->
-<!-- INICIO ESTADISTICAS -->
+<!-- INICIO ANALITICA -->
 <details>
   <summary>
-     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀ESTADISTICAS</h2>
+     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092779306264047636/analitica.png" width="300px">⠀</h2>
   </summary>
 
 ## `¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
@@ -311,11 +327,11 @@ logo"></p>
  </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL ESTADISTICAS -->
+<!-- FINAL ANALITICA -->
 <!-- INICIO MENCIONES -->
 <details>
   <summary>
-    <h3><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089903368316661760/megaphone-dynamic-premium.png" width="80px">⠀MENCIONES</h3>
+    <h3><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092781269663895593/menciones.png" width="300px">⠀</h3>
   </summary>
 
 ## `MUCHAS GRACIAS A LAS PERSONAS QUE HICIERON REFERENCIA A ESTE REPOSITORIO AQUI.`
@@ -324,6 +340,7 @@ logo"></p>
 
 <!-- MENTIONS-LIST:START -->
 <a href="https://github.com/zerhocool"><img src="https://github.com/zerhocool.png?size=96" alt="zerhocool" width="96px" height="96px" /></a>
+<!-- MENTIONS-LIST:END -->
 
 </details>
 
@@ -332,7 +349,7 @@ logo"></p>
 <!-- INICIO CONTACTO -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089902948231950346/chart-dynamic-premium.png" width="80px">⠀CONTACTO</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092782676508934184/contacto.png" width="300px">⠀</h2>
   </summary>
 
 ## `UNICOS MEDIOS DE CONTACTO.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> 
@@ -366,14 +383,14 @@ logo"></p>
 <!-- INICIO CREDITOS -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089905211759411240/lock-dynamic-premium.png" width="80px">⠀CREDITOS</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092784035002077374/creditos.png" width="300px">⠀</h2>
   </summary>
 
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img align="right" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-> Casi todos mis proyectos son código-abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
+Casi todos mis proyectos son código-abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
 
-> No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
+No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
 
 ✔  Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
@@ -383,18 +400,30 @@ logo"></p>
 
 <p>Danos una estrella ⭐!!!!⠀<a href="https://github.com/zerhocool?tab=starsl"><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092202580223987754/python-powered-w-100x40.png" alt="StarRating Component"></a></p>
 
+---
+<h4>🎁CONTRIBUCIONES AL PROYECTO🎁</h4>
 
-En Argentina: Transferencia Bancaria.
+<p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092652935118344272/flag-argentina_1f1e6-1f1f7.png" alt="Argentina" width="50">⠀⠀
   <a href="#"><img width="50px" alt="Pesos ARG" title="Pesos ARG" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926243060809728/money-dynamic-premium.png"/></a>
+</p>
 
 [![Mercado Pago](https://img.shields.io/badge/zerhocool.mp%20-ffdd00?style=for-the-badge&logo=ko-fi&fee&logoColor=black)](https://mercadopago.com.ar) [![BANCO GALICIA](https://img.shields.io/badge/DIBUJO.DRAGA.PRIMO-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://galicia.es)
 
-En el mundo: 
-  <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926243769647135/dollar-dynamic-premium.png"/></a>⠀<a href="#"><img width="50px" alt="Euros" title="Euros" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926243538964581/euro-dynamic-premium.png"/></a>⠀<a href="#"><img width="50px" alt="Tarjeta de Credito" title="Tarjeta de Credito" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926244004548780/card-dynamic-premium.png"/></a>  
 
+<p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092655245684920340/globe-showing-asia-australia_1f30f.png" alt="Argentina" width="50">⠀⠀ 
+  <a href="#"><img width="50px" alt="Bitcoin" title="Bitcoin" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926243769647135/dollar-dynamic-premium.png"/></a>⠀<a href="#"><img width="50px" alt="Euros" title="Euros" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926243538964581/euro-dynamic-premium.png"/></a>⠀<a href="#"><img width="50px" alt="Tarjeta de Credito" title="Tarjeta de Credito" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089926244004548780/card-dynamic-premium.png"/></a>  
+</p>
 
 [![Mercado Pago](https://img.shields.io/badge/3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20-ffdd00?style=for-the-badge&logo=ko-fi&fee&logoColor=black)](https://astropay.com) 
 
+---
+
+<p>⠀⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092796384803041370/auspiciantes.png" alt="Nsolid" >
+</p>
+
+<p>📢 Ayudamos a las organizaciones y los desarrolladores a utilizar Node al máximo a través de N|Solid , la mejor herramienta de seguridad y observabilidad de Node.js del mundo. <a href="https://nodesource.com/zerhocool">N Solid</a></p>
+  
+<p>📢 Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas. <a href="https://www.docker.com/">Docker</a></p>
 
 ¡GRACIAS! ❤️
 
@@ -402,17 +431,16 @@ En el mundo:
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL CREDITOS -->
-
 <!-- INICIO FOOTER -->
 <footer>
-<p><b>Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.<b></p>
+<p>💯Diseño y Desarrollo por: <a href="https://github.com/zerhocool">zerhocool</a> Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.</p>
 
-<br>
- 
- <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0)</a>.
+
+<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0) y</a><br /> <a rel="license" href="http://next.copyleft.org/pages/current-release.html">License
+Copyletf.</a>
 
 </footer>
 <!-- FINAL FOOTER -->
-  </body>
+</body>
 </html>
 
