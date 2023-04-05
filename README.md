@@ -14,8 +14,7 @@
     <meta name="Resource-type" content="Index">
     <meta name="Revisit-after" content="1 days">
     <meta name="robots" content="all">
-    <title>ZERHO COOL</title>
-  </head>
+ </head>
    
   <body>
 <!-- INICIO INTRO -->
