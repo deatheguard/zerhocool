@@ -114,7 +114,7 @@
   <h3> 📚 Blog Posts</h3>
   </summary>
 
-<h3>📕⠀Blog Posts</h3> 
+<h3>📕⠀Latest Blog Posts</h3> 
 <!-- BLOG-POST-LIST:START -->
 - [The 2030 Self-Driving Car Bet](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
 - [Updating The Single Most Influential Book of the BASIC Era](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/)
