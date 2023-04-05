@@ -1,4 +1,4 @@
-ame: Latest blog post workflow
+ame: Blog Post workflow
 on:
   schedule:
     # Runs every hour
