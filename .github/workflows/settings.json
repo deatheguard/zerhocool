@@ -1,4 +1,46 @@
 {
+  "token": "GITHUB_TOKEN",
+}
+{
+  "restricted": ["user1", "user2", "user3"],
+  "maxusers": 2,
+  "ratelimiter": {
+    "windowMs": 900000,
+	  "max": 100
+  }
+}
+{
+  "cached": 3600000,
+  "port": 3000,
+  "templates": {
+    "default": "classic",
+    "enabled": ["classic", "terminal"],
+  },
+  "community": {
+    "templates": ["user/repo@main:custom-theme"],
+  },
+  "hosted": {
+    "by": "me",
+    "link": "https://user.me",
+  },
+  "plugins": {
+    "isocalendar":{
+      "enabled": false
+    }
+  }
+}
+{
+  "extras": {
+    "features": [
+      "metrics.setup.community.templates",
+      "metrics.api.github.overuse",
+      "metrics.cpu.overuse",
+      "metrics.run.puppeteer.scrapping",
+    ]
+  }
+}
+
+{
   "//": "Example of configuration for metrics web instance",
   "//": "====================================================================",
 
