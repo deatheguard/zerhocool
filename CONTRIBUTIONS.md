@@ -1,4 +1,4 @@
-# Primeras Contribuciones
+# ⚜ Primeras Contribuciones
 
 Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable.
 
@@ -10,13 +10,13 @@ Es complicado. Resulta difícil la primera vez que haces algo, especialmente cua
 
 - Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
-## Si no estás familiarizado con la línea de comandos
+## ⚜ Si no estás familiarizado con la línea de comandos
 
 Aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI) / (Tutoriales con otras herramientas)
 
 - Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace](https://docs.github.com/es/get-started/quickstart/set-up-git)
 
-## Bifurca (Fork) este repositorio
+## ⚜ Bifurca (Fork) este repositorio
 
 Haz un *fork* de este repositorio haciendo click en el botón " *Fork*" en la parte superior derecha en esta página.
 ![fork de este repositorio](https://firstcontributions.github.io/assets/Readme/fork.png)
@@ -25,7 +25,7 @@ Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en
 
 - Esto creará una copia de este repositorio en tu cuenta.
 
-## Clona (*Clone*) el repositorio bifurcado ![clonar este repositorio](https://firstcontributions.github.io/assets/Readme/clone.png)
+## ⚜ Clona (*Clone*) el repositorio bifurcado ![clonar este repositorio](https://firstcontributions.github.io/assets/Readme/clone.png)
 
 - Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón " *clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
 
@@ -39,7 +39,7 @@ La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub.
 
 Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
 
-## Crea una rama (*Branch*)
+## ⚜ Crea una rama (*Branch*)
 
 - Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya). `cd first-contributions`
 
@@ -47,7 +47,7 @@ Aquí estás copiando los contenidos del repositorio *first-contributions* en Gi
 
 - El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.
 
-## Haz los cambios necesarios y confirma (*Commit*) esos cambios
+## ⚜ Haz los cambios necesarios y confirma (*Commit*) esos cambios
 
 - Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre
 
@@ -59,11 +59,11 @@ Aquí estás copiando los contenidos del repositorio *first-contributions* en Gi
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:`git commit -m "Add to Contributors list"` cambiando con tu nombre.
 
-## Sube (*Push*) tus cambios a GitHub
+## ⚜ Sube (*Push*) tus cambios a GitHub
 
 - Haz *push* de tus cambios usando el comando `git push`:`git push origin` `Reemplaza` con el nombre de la rama que creaste anteriormente
 
-## Envía (*Submit*) tus cambios para ser revisados
+## ⚜ Envía (*Submit*) tus cambios para ser revisados
 
 - Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`
 
@@ -73,8 +73,10 @@ Ahora envía la *pull request*. ![enviar la pull request](https://firstcontribut
 
 Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
-## ¿Cuáles son los siguientes pasos?
+## ⚜ ¿Cuáles son los siguientes pasos?
 
 - ¡Enhorabuena! ¡Has completado el flujo de trabajo fork -> clone -> edit -> PR que encontrarás habitualmente como contribuidor!
 
 - Celebra tu contribución y compártela con tus amigos y seguidores.
+
+Copyright (c) 2023 Andres Antonio Cardoso
