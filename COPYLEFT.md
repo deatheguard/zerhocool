@@ -1,5 +1,7 @@
 
-# Current License Release
+# 📚 Current License Release
+
+Copyleft (ɔ) 2023 Andres Antonio Cardoso
 
 copyleft-next 0.3.1 ("this License")
 Release date: 2016-04-29
