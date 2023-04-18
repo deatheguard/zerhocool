@@ -16,7 +16,6 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
-  <title>ZERHO COOL</title>
 </head>
 <body>
 
@@ -60,75 +59,6 @@
 
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-color: #0a0f24;
-    border-spacing: 0;
-  }
-
-  .tg td {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg th {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg .tg-hmp3 {
-    background-color: #e09ed3;
-    text-align: left;
-    vertical-align: top
-  }
-
-  .tg .tg-baqh {
-    text-align: center;
-    vertical-align: top
-  }
-
-  .tg .tg-mb3i {
-    background-color: #D2E4FC;
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-lqy6 {
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-0lax {
-    text-align: left;
-    vertical-align: top
-  }
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -195,110 +125,6 @@
 
    ## `NUESTROS SERVICIOS.`
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style> 
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-spacing: 0;
-  }
-
-  .tg td {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg th {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg .tg-0pky {
-    border-color: inherit;
-    text-align: left;
-    vertical-align: top
-  }
-</style>
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-color: #0a0f24;
-    border-spacing: 0;
-  }
-
-  .tg td {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg th {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg .tg-hmp3 {
-    background-color: #e09ed3;
-    text-align: left;
-    vertical-align: top
-  }
-
-  .tg .tg-baqh {
-    text-align: center;
-    vertical-align: top
-  }
-
-  .tg .tg-mb3i {
-    background-color: #D2E4FC;
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-lqy6 {
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-0lax {
-    text-align: left;
-    vertical-align: top
-  }
-</style>
 <table class="tg">
   <thead>
     <tr>
@@ -344,110 +170,7 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-spacing: 0;
-  }
 
-  .tg td {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg th {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg .tg-0pky {
-    border-color: inherit;
-    text-align: left;
-    vertical-align: top
-  }
-</style>
-<style type="text/css">
-  .tg {
-    border-collapse: collapse;
-    border-color: #0a0f24;
-    border-spacing: 0;
-  }
-
-  .tg td {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg th {
-    background-color: #3e4252;
-    border-color: #d7c738;
-    border-style: solid;
-    border-width: 1px;
-    color: rgb(247, 247, 250);
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-  }
-
-  .tg .tg-hmp3 {
-    background-color: #e09ed3;
-    text-align: left;
-    vertical-align: top
-  }
-
-  .tg .tg-baqh {
-    text-align: center;
-    vertical-align: top
-  }
-
-  .tg .tg-mb3i {
-    background-color: #D2E4FC;
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-lqy6 {
-    text-align: right;
-    vertical-align: top
-  }
-
-  .tg .tg-0lax {
-    text-align: left;
-    vertical-align: top
-  }
-</style>
 <table class="tg">
   <thead>
     <tr>
@@ -478,7 +201,6 @@
   </tr>
   </tbody>
 </table> 
-
 
 </details>
 
