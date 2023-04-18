@@ -61,20 +61,20 @@
 
 
 <br>
-<img align="right" alt="Coding" width="250" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif">
+<img align="right" alt="Coding" width="270" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif">
 
 <br>
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097357277167636510/sheild.png">BIO</h3>
 
 <br>
 
-📌Developer Full STACK. 
+📌 Developer Full STACK. 
 
-⚡Diseñador Grafico.
+⚡ Diseñador Grafico.
 
 💢 Experiencia: 17 años.
 
-🌏Ubicacion: España. 
+🌏 Ubicacion: España. 
   
 ⫸ ‖ 🚨 ‖ Como especialista en Arch Linux, tengo un conocimiento profundo del sistema operativo, incluida su instalación, configuración y personalización. 
 
@@ -83,8 +83,10 @@
 ⫸ ‖ 🚨 ‖ PYTHON lenguaje que utilizo para construir sistemas back-end robustos, escribir scripts para automatizar tareas y trabajar con datos en varios formatos.
     
 ⫸ ‖ 🚨 ‖ NEXT.JS un framewock de React para crear aplicaciones web renderizadas del lado del servidor (SSR), con experiencia en el desarrollo de interfaces de usuario front-end dinámicas y con capacidad de respuesta.
-    
+
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+<br>
 
 ⋙ ‖ 💠 ‖ Complemento con mi actividad con Diseño Grafico en una búsqueda por mantenerme siempre actualizado, leo libros, asisto a conferencias y reuniones. 
 
@@ -95,17 +97,21 @@
 ⋙ ‖ 💠 ‖ Complemento con mi actividad con Diseño Grafico en una búsqueda por mantenerme siempre actualizado, leo libros, asisto a conferencias y reuniones. 
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+<br>
     
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h3>
 
 <br>
     
-⋙ ‖🎓‖ Developer en Python - UBA / Google Cloud / AWS.
+⋙ ‖ 🎓 ‖ Developer en Python - UBA / Google Cloud / AWS.
     
-⋙ ‖ ✏‖ Diseñador Grafico, Editor de videos UBA.
+⋙ ‖ ✏ ‖ Diseñador Grafico, Editor de videos UBA.
 
- <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
-    
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+<br>
+
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL</h3>
 
 <br>
@@ -124,9 +130,9 @@
 
 <br>
 
-⋙ ‖🍀‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.
+⋙ ‖ 🍀 ‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.
 
-⋙ ‖🍀‖ Donde actualmente trabajo como Autonomo en diferentes empresas.
+⋙ ‖ 🍀 ‖ Donde actualmente trabajo como Autonomo en diferentes empresas.
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
 
@@ -134,17 +140,17 @@
 
 <br>
   
-⋙ ‖🪐‖ Sistema operativo: Arch Lunux personalizado.
+⋙ ‖ ↈ ‖ Sistema operativo: Arch Lunux personalizado.
 
-⋙ ‖🪐‖ Lenguaje de programacion: Python 3.
+⋙ ‖ ↈ ‖ Lenguaje de programacion: Python 3.
 
-⋙ ‖🪐‖ Seguridad informatica: Kali.
+⋙ ‖ ↈ ‖ Seguridad informatica: Kali.
 
-⋙ ‖🪐‖ Fotografia y Edicion de video.
+⋙ ‖ ↈ ‖ Fotografia y Edicion de video.
 
-⋙ ‖🪐‖ Viajar y conocer nuevas culturas.
+⋙ ‖ ↈ ‖ Viajar y conocer nuevas culturas.
 
-⋙ ‖🪐‖ Mejorando mi nivel de Ingles y algo de Catalan.
+⋙ ‖ ↈ ‖ Mejorando mi nivel de Ingles y algo de Catalan.
 
 </details>
 
@@ -200,7 +206,7 @@ SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS P
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
-<h3>⫸ ‖🧩‖ LENGUAJES y FRAMEWORKS</h3>
+<h4>⫸ ‖ 🐱‍👤‍ ‖ LENGUAJES y  FRAMEWORKS</h4>
 
 <p align="center">
   <a href="#">
@@ -208,7 +214,7 @@ SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS P
   </a>
   </p>
   <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
-  <h3>⫸ ‖🔮‖ SERVICIOS Y HERRAMIENTAS</h3>
+  <h4>⫸ ‖ 🔮 ‖ SERVICIOS Y HERRAMIENTAS</h4>
   
   <p align="center">
   <a href="#">
@@ -401,8 +407,9 @@ RECURSOS">
 ---
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097383617065402419/gift.png">CONTRIBUCIONES</h3>
 
-<br/>
 ※ ↣ ‖ Formas con las que puedes colaborar con el Developer:
+
+---
 
 ※ ↣ ‖ Solo Transferencia Bancaria. 
 
