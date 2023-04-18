@@ -1,4 +1,4 @@
-# NOTAS DEL DEVELOPER
+# 🌐 NOTAS DEL DEVELOPER
 
 Documentacion Mi perfil de Github
 
@@ -12,13 +12,13 @@ Rama de trabajo: MASTER
 
 Email: zerhocool@icloud.com / zerhocool@gmail.com
 
-Fecha: 04/04/2023
+Fecha: 17/04/2023
 
 GIT: ACTIVADO
 
 ---
 
-## MEJORAS REALIZADAS
+## 💢 MEJORAS REALIZADAS
 
 ✔ Se modifico la estructura del perfil a un sistema de menu desplegable mas claro.
 
@@ -50,7 +50,7 @@ GIT: ACTIVADO
 
 ---
 
-## NOTA
+## 💢 NOTA
 
 EL README.md esta escrito principalmente en HTTL en su editor de codigo seleccionen el modo de lenguaje HTML Y NO SALDRA ninguna Advertencia.
 
@@ -60,7 +60,7 @@ Quisas sea algo viejo con esto, realizen los comentarios en el codigo para que o
 
 Este software fue testeado estrictamente y funciona de forma perfectamete sin errores, esa libre de virus o archivo mal intencionado.
 
-Si usan parte de codigo de otro Developer FAVOR DEN LOS CREDITPS CORESPONDIENTE con su enlace.
+Si usan parte de codigo de otro Developer FAVOR DEN LOS CREDITOS CORESPONDIENTE con su enlace.
 
 **EL CODIGO ES LIMPIO Y DEBE PERMANECER ASI.**
 
@@ -72,7 +72,7 @@ Espero que les sirva como inspiracion, o lo puedan mejorar.
 
 ---
 
-## SOFTWARE
+## 💢 SOFTWARE
 
 **Markdown** es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 
@@ -80,13 +80,13 @@ Espero que les sirva como inspiracion, o lo puedan mejorar.
 
 ---
 
-## WOKFLOW
+## 💢 WOKFLOW
 
-Este readme cuenta con WORFLOW se actualiza automaticamente el canal de Youtube y Blog.
+Este readme cuenta con WORFLOW se actualiza automaticamente el canal de Youtube.
 
 ---
 
-## MI EQUIPO
+## 💢 MI EQUIPO
 
 Sistema Operativo: Arch Linux personalizado y Windows 10 PRO.
 
@@ -98,8 +98,10 @@ Codificado: HTML5, Markdown, UTF-8.
 
 ---
 
-## LICENCIA
+## 💢 LICENCIA
 
 LICENCIA GNU GLP V3.0 ultima actualizacion.
 
 LICENCIA COPYLEFT ultima actualizacion.
+
+Copyright (c) 2023 Andres Antonio Cardoso
