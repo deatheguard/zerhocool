@@ -61,7 +61,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="270" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif">
+<img align="right" alt="Coding" width="290" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif">
 
 <br>
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097357277167636510/sheild.png">BIO</h3>
@@ -206,7 +206,7 @@ SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS P
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
-<h4>⫸ ‖ 🐱‍👤‍ ‖ LENGUAJES y  FRAMEWORKS</h4>
+<h4>⫸ ‖  ‖ LENGUAJES y  FRAMEWORKS</h4>
 
 <p align="center">
   <a href="#">
@@ -407,9 +407,8 @@ RECURSOS">
 ---
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097383617065402419/gift.png">CONTRIBUCIONES</h3>
 
-※ ↣ ‖ Formas con las que puedes colaborar con el Developer:
 
----
+※ ↣ ‖ Formas con las que puedes colaborar con el Developer:
 
 ※ ↣ ‖ Solo Transferencia Bancaria. 
 
