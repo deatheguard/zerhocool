@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# ❗❗ Contributor Covenant Code of Conduct
 
-## Our Pledge
+## ✔ Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards
@@ -42,9 +42,9 @@ For answers to common questions about this code of conduct, see [FAQ](https://ww
 
 ---
 
-## Código de Conducta del Pacto del Contribuyente
+## ❗❗ Código de Conducta del Pacto del Contribuyente
 
-## Nuestro compromiso
+## ✔  Nuestro compromiso
 
 Con el interés de fomentar un entorno abierto y acogedor, nosotros, como colaboradores y mantenedores, nos comprometemos a hacer que la participación en nuestro proyecto y nuestra comunidad sea una experiencia libre de acoso para todos, independientemente de la edad, el tamaño del cuerpo, la discapacidad, el origen étnico, las características sexuales, la identidad de género. y expresión, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
 Nuestros Estándares
@@ -83,3 +83,5 @@ Atribución
 Este Código de Conducta es una adaptación del Contributor Covenant, versión 1.4, disponible en [Contributor Covenant versión 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm)
 
 Para obtener respuestas a preguntas comunes sobre este código de conducta, consulte [FAQ](https://www.contributor-covenant.org/faq)
+
+Copyright (c) 2023 Andres Antonio Cardoso
