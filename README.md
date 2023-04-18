@@ -16,6 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
+  
 </head>
 <body>
 
@@ -27,6 +28,7 @@
 
 <!-- FINAL INTRO -->
 <!-- INICIO SPONSOR -->
+
 ---
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
 
@@ -57,61 +59,92 @@
 
 <img align="right" alt="Coding" width="" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531363791503370/Banner_-ZERHO-1.png">
 
+
+<br>
+<img align="right" alt="Coding" width="250" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif">
+
+<br>
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097357277167636510/sheild.png">BIO</h3>
+
 <br>
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"><h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097357277167636510/sheild.png">BIO</h3>
-    <p>📌Developer Full STACK.</p>                  
-    <p>⚡Diseñador Grafico.</p>
-    <p>💢 Experiencia: 17 años.</p>
-    <p>🌏Ubicacion: España.</p><img aling="left" alt="Coding" width="140" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996864186728468/coder-pro.gif"></th>
-    <th class="tg-0pky"><p>Como especialista en Arch Linux, tengo un conocimiento profundo del sistema operativo, incluida su instalación, configuración y personalización.</p>
-    <p>Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Linux, así como en la gestión de los recursos del sistema y la garantía de la seguridad y la estabilidad del servidor.</p></th>
-    <th class="tg-0pky"><p>PYTHON lo utilizo para  construir sistemas back-end robustos, escribir scripts para automatizar tareas y trabajar con datos en varios formatos.</p><p> NEXT.JS un framewock de React para crear aplicaciones web renderizadas del lado del servidor (SSR), con experiencia en el desarrollo de interfaces de usuario front-end dinámicas y con capacidad de respuesta.</p></th>
+📌Developer Full STACK. 
+
+⚡Diseñador Grafico.
+
+💢 Experiencia: 17 años.
+
+🌏Ubicacion: España. 
+  
+⫸ ‖ 🚨 ‖ Como especialista en Arch Linux, tengo un conocimiento profundo del sistema operativo, incluida su instalación, configuración y personalización. 
+
+⫸ ‖ 🚨 ‖ Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Linux, así como en la gestión de los recursos del sistema y la garantía de la seguridad y la estabilidad del servidor.
+
+⫸ ‖ 🚨 ‖ PYTHON lenguaje que utilizo para construir sistemas back-end robustos, escribir scripts para automatizar tareas y trabajar con datos en varios formatos.
     
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">📌- Versátil con experiencia en el desarrollo de front-end y back-end, de  aplicaciones web robustas, escalables y seguras que satisfagan las necesidades de una amplia gama de clientes y usuarios.</td>
-    <td class="tg-0pky">📌- Con un fuerte énfasis en la "Mejora progresiva", busco formas creativas de ampliar los límites del código Front-End del sitio web sin comprometer el soporte y el rendimiento del navegador.</td>
-    <td class="tg-0pky">📌- Complemento con mi actividad con Diseño Grafico en una búsqueda por mantenerme siempre actualizado, leo libros, asisto a conferencias y reuniones. </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><h4><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h4></td>
-    <td class="tg-0pky">🎓 Developer en Python - UBA / Google Cloud / AWS.</td>
-    <td class="tg-0pky">✏ Diseñador Grafico, Editor de videos UBA.</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><h4><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL</h4></td>
-    <td class="tg-0pky">✔ Spark AU  
-      <p>✔ Ralarsa Holding Sl</p>
-      <p>✔ Staubli Española Sa</p> 
-      <p> ✔ Estabanell Impulsa S.a.</p></td>
-    <td class="tg-0pky">✔ Pruna Motor Sl
-     <p>✔ La Perla Del Valles Sa</p>
-     <p>✔ Saria Bio-industries España Sl</p>
-     <p>✔ Gralla Motors S.a.</p></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><h4><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097365056380993596/lab.png">EMPRESA</h4></td>
-    <td class="tg-0pky">🍀 En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.</td>
-    <td class="tg-0pky">🍀 Donde actualmente trabajo como Autonomo - Freelancer en diferentes empresas.</td>
-  </tr>
-   <tr>
-    <td class="tg-0pky"><h4><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097366311996243968/crow.png">HOBBIES</h4></td>
-    <td class="tg-0pky"> 💠Sistema operativo: Arch Lunux personalizado.
-    <p>💠Lenguaje de programacion: Python 3.</p>
-    <p>💠 Seguridad informatica: Kali.</p>
- </td>
-    <td class="tg-0pky">💠Fotografia y Edicion de video.
-    <p>💠Viajar y conocer nuevas culturas.</p>
-    <p>💠Mejorando mi nivel de Ingles y algo de Catalan.</p></td>
-  </tr>
-</tbody>
-</table>
+⫸ ‖ 🚨 ‖ NEXT.JS un framewock de React para crear aplicaciones web renderizadas del lado del servidor (SSR), con experiencia en el desarrollo de interfaces de usuario front-end dinámicas y con capacidad de respuesta.
+    
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+⋙ ‖ 💠 ‖ Complemento con mi actividad con Diseño Grafico en una búsqueda por mantenerme siempre actualizado, leo libros, asisto a conferencias y reuniones. 
+
+⋙ ‖ 💠 ‖ Versátil con experiencia en el desarrollo de front-end y back-end, de  aplicaciones web robustas, escalables y seguras que satisfagan las necesidades de una amplia gama de clientes y usuarios.
+    
+⋙ ‖ 💠 ‖ Con un fuerte énfasis en la "Mejora progresiva", busco formas creativas de ampliar los límites del código Front-End del sitio web sin comprometer el soporte y el rendimiento del navegador.
+    
+⋙ ‖ 💠 ‖ Complemento con mi actividad con Diseño Grafico en una búsqueda por mantenerme siempre actualizado, leo libros, asisto a conferencias y reuniones. 
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+    
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h3>
+
+<br>
+    
+⋙ ‖🎓‖ Developer en Python - UBA / Google Cloud / AWS.
+    
+⋙ ‖ ✏‖ Diseñador Grafico, Editor de videos UBA.
+
+ <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+    
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL</h3>
+
+<br>
+    
+✔ Spark AU ‖ ⩤⩥ ‖ ✔ Ralarsa Holding Sl
+  
+✔ Staubli Española Sa ‖ ⩤⩥ ‖ ✔ Estabanell Impulsa S.a.
+
+✔ Pruna Motor Sl ‖ ⩤⩥‖  ✔ La Perla Del Valles Sa.
+
+✔ Saria Bio-industries España Sl. ‖ ⩤⩥ ‖ ✔ Gralla Motors S.a.
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097365056380993596/lab.png">EMPRESA</h3>
+
+<br>
+
+⋙ ‖🍀‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.
+
+⋙ ‖🍀‖ Donde actualmente trabajo como Autonomo en diferentes empresas.
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097366311996243968/crow.png">HOBBIES</h3>
+
+<br>
+  
+⋙ ‖🪐‖ Sistema operativo: Arch Lunux personalizado.
+
+⋙ ‖🪐‖ Lenguaje de programacion: Python 3.
+
+⋙ ‖🪐‖ Seguridad informatica: Kali.
+
+⋙ ‖🪐‖ Fotografia y Edicion de video.
+
+⋙ ‖🪐‖ Viajar y conocer nuevas culturas.
+
+⋙ ‖🪐‖ Mejorando mi nivel de Ingles y algo de Catalan.
 
 </details>
 
@@ -125,39 +158,36 @@
 
    ## `NUESTROS SERVICIOS.`
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-0pky"><h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097370741336453170/paint.png">DISEÑO GRAFICO</h3></th>
-      <th class="tg-0pky"><h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097371515869212794/setting.png">PROGRAMACION</h3></th>
-          </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-0pky">GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.</td>
-      <td class="tg-0pky">SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">⭐ Caracteristicas ⭐</td>
-      <td class="tg-0pky">⭐ Caracteristicas ⭐</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">✔ Manual de Marca, Logotipo y Sistema gráfico.</td>
-      <td class="tg-0pky">✔ Todos los website son testeados en un entorno real.</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">✔ Brochure institucional, Catálogos.</td>
-      <td class="tg-0pky">✔ Diseño de Sitios Web Institucionales.</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">✔ Afiches y Folletos.</td>
-      <td class="tg-0pky">✔ E-commerce para venta de servicios o productos.</td>
-    </tr>
-  </tbody>
-</table> 
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097370741336453170/paint.png">DISEÑO GRAFICO</h3>
 
+<br>
+
+GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.
+
+⭐ Caracteristicas ⭐
+
+✔ Manual de Marca, Logotipo y Sistema gráfico.
+
+✔ Brochure institucional, Catálogos.
+
+✔ Afiches y Folletos.
+
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+      
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097371515869212794/setting.png">PROGRAMACION</h3>
+
+<br>
+
+SITIOS WEBS DESARROLLADOS, PENSADOS EN LA EXPERIENCIA DE USUARIO Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.
+
+⭐ Caracteristicas ⭐
+
+✔ Todos los website son testeados en un entorno real.
+
+✔ Diseño de Sitios Web Institucionales.
+
+✔ E-commerce para venta de servicios o productos.
 </details>
-
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- FINAL SERVICIOS -->
 <!-- INICIO SOFTWARE -->
@@ -170,37 +200,21 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
+<h3>⫸ ‖🧩‖ LENGUAJES y FRAMEWORKS</h3>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-0pky"><h3>🧩 LENGUAJES y  FRAMEWORKS</h3></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-0pky"><p align="center">
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=linux,python,flask,powershell,bash,java,typescript,swift,androidstudio,go,html,css,javascript,bootstrap,astro,sass,tailwindcss,vue,react,nextjs,nodejs,fastapi,webpack"/>
   </a>
-  </p></td>
-    </tr>
-    <tr>
-      <td class="tg-0pky"><h3>🔮 SERVICIOS Y HERRAMIENTAS</h3></td>
-      </tr>
-    <tr>
-      <td class="tg-0pky"><p align="center">
+  </p>
+  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097817527834390528/separador2.gif">
+  <h3>⫸ ‖🔮‖ SERVICIOS Y HERRAMIENTAS</h3>
+  
+  <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,webflow,kubernetes,docker,django,php,mysql,vercel,nginx,firebase,aws,googlecloud,azure,deno,ai,ps,pr,xd,ae,kalilinux,"/>
   </a>
-</p></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-  </tr>
-  </tbody>
-</table> 
+</p>
 
 </details>
 
@@ -216,18 +230,18 @@
 <p align="center">
 <a href="https://github.com/zerhocool/
 RECURSOS">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=RECURSOS&theme=vue-dark&hide_border=true" height="120"></a>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=RECURSOS&theme=vue-dark&hide_border=true" height="140"></a>
 <a href="https://github.com/zerhocool/METRICS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=METRICS&theme=vue-dark&hide_border=true" height="120"></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=METRICS&theme=vue-dark&hide_border=true" height="140"></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/zerhocool/MODULOS">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS&theme=vue-dark&hide_border=true" height="120">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS&theme=vue-dark&hide_border=true" height="140">
 </a><a href="https://github.com/zerhocool/NEXT.JS">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS&theme=vue-dark&hide_border=true"
-    height="120"></a>
+    height="140"></a>
 </p>
 
 </details>
@@ -281,7 +295,7 @@ RECURSOS">
 
   ![METRICS](https://metrics.lecoq.io/zerhocool?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
 </div>
-![Metrics](https://metrics.lecoq.io/zerhocool)
+
 ---
 <div align="center">
   <h2 align="left">⚡Actividad</h2>
@@ -370,6 +384,7 @@ RECURSOS">
 
   <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+
 ⋙ ‖ 🚨 ‖ Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
 
 
@@ -386,9 +401,8 @@ RECURSOS">
 ---
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097383617065402419/gift.png">CONTRIBUCIONES</h3>
 
+<br/>
 ※ ↣ ‖ Formas con las que puedes colaborar con el Developer:
-
----
 
 ※ ↣ ‖ Solo Transferencia Bancaria. 
 
@@ -423,39 +437,37 @@ RECURSOS">
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373228814581830/pencil.png">BLOG POST</h3>
   
 
-<h4><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Websites de mi interes</h4> 
+<br>
+
+ <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas. <a href="https://www.docker.com/">Docker</a></p>
 
 <br>
 
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas. <a href="https://www.docker.com/">Docker</a></p>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Comience a monitorear sus aplicaciones Node.js.<a href="https://nodesource.com/">Nsolid</a></p>
 
 <br>
 
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Comience a monitorear sus aplicaciones Node.js.<a href="https://nodesource.com/">Nsolid</a></p>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Utilizado por algunas de las empresas más grandes del mundo, Next.js le permite crear aplicaciones web completas mediante la ampliación de las últimas funciones de React y la integración de potentes herramientas de JavaScript basadas en Rust para compilaciones más rápidas.<a href="https://nextjs.org/">Next.Js</a></p>
 
-<br>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Ha llegado al sitio web de Arch Linux, una distribución de Linux® liviana y flexible que intenta mantenerlo simple. Actualmente contamos con paquetes oficiales.<a href="https://archlinux.org/">Docker</a></p>
 
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Utilizado por algunas de las empresas más grandes del mundo, Next.js le permite crear aplicaciones web completas mediante la ampliación de las últimas funciones de React y la integración de potentes herramientas de JavaScript basadas en Rust para compilaciones más rápidas.<a href="https://nextjs.org/">Next.Js</a></p>
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Ha llegado al sitio web de Arch Linux, una distribución de Linux® liviana y flexible que intenta mantenerlo simple. Actualmente contamos con paquetes oficiales.<a href="https://archlinux.org/">Docker</a></p>
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Vercel es la plataforma para desarrolladores frontend, que brinda la velocidad y la confiabilidad que los innovadores necesitan para crear en el momento de la inspiración. <a href="https://www.vercel.com/">Vercel</a></p>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Vercel es la plataforma para desarrolladores frontend, que brinda la velocidad y la confiabilidad que los innovadores necesitan para crear en el momento de la inspiración. <a href="https://www.vercel.com/">Vercel</a></p>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <p>⠀⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1095107369513517158/auspiciantes2.png"
     alt="Nsolid">
 </p>
 
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097376190395863121/megaphone.png"><p> Ayudamos a las organizaciones y los desarrolladores a utilizar Node al máximo a través de N|Solid , la mejor herramienta de seguridad y observabilidad de Node.js del mundo. <a href="https://nodesource.com/zerhocool">N Solid</a></p>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097376190395863121/megaphone.png"><p> Ayudamos a las organizaciones y los desarrolladores a utilizar Node al máximo a través de N|Solid , la mejor herramienta de seguridad y observabilidad de Node.js del mundo. <a href="https://nodesource.com/zerhocool">N Solid</a></p>
 
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097376190395863121/megaphone.png"><p>Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas. <a href="https://www.docker.com/">Docker</a></p>
+<img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097376190395863121/megaphone.png"><p>Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas. <a href="https://www.docker.com/">Docker</a></p>
 
 ## `GRACIAS !!!.`  <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097376841863536770/heart.png">
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
 
 
-![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20GOLD-1%20.0%20%20.0-brightgreen)⠀⠀![deno compatibility](https://shield.deno.dev/deno/1.32)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with Node.js](https://img.shields.io/badge/Node.js-%2018-yellow?logo=node.js&logoColor=white)⠀⠀![Made with Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)
+![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀![](http://img.shields.io/badge/✔%20VERSION%20%20GOLD-1%20.0%20%20.0-brightgreen)⠀![deno compatibility](https://shield.deno.dev/deno/1.32)⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀![Made with Node.js](https://img.shields.io/badge/Node.js-%2018-yellow?logo=node.js&logoColor=white)⠀![Made with Python](https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=white)⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)
 
 <a href="https://github.com/zerhocool"></a> **Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
 
