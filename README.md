@@ -23,7 +23,7 @@
 <!-- INICIO INTRO -->
 <h4>Hola, ZERHO COOL esta AQUI!⠀<img
     src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="20px"></h4>
-
+  
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097204159515730101/Principal.png">
 
 <!-- FINAL INTRO -->
@@ -294,33 +294,9 @@ RECURSOS">
 
 <div align="center">
   <h2 align="left">⚡Resumen</h2>
-<div align="center">
-  <a href="https://www.zerhocool.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=zerhocool&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/></a>
 
-  ---
-
-  ![METRICS](https://metrics.lecoq.io/zerhocool?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
-</div>
-
----
-<div align="center">
-  <h2 align="left">⚡Actividad</h2>
-  <a><img alt="Ajay Activity Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=zerhocool&theme=react-dark&hide_border=true" /></a>
-</div>
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 220px"  />    
-</div>  
-
----
- <h2 align="left">🏆Trofeos</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 220px"  />
-</div>  
-
----
-<div align="center">
-  <h2 align="left">⚡Contribución</h2>
-  <a href="https://github.com/zerhocool/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=zerhocool" alt="Contribution Stats"></a>
+  
+![Metrics](https://metrics.lecoq.io/zerhocool?template=classic&isocalendar=1&languages=1&lines=1&habits=1&achievements=1&people=1&followup=1&introduction=1&gists=1&leetcode=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&introduction=false&introduction.title=true&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Europa%2C%20Madrid%2C%20Girona)
 </div>
 
 </details>
