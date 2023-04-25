@@ -36,7 +36,7 @@
 ---
 <!-- FINAL SPONSOR --> 
 <!-- INICIO FRASE -->
-## Frace que me hizo reflexionar !! <img align="right" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif">
+## Frase que me hizo reflexionar !! <img align="right" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif">
 
 ## `No hagas lo que los demas hacen, haz lo que quisieran hacer pero no se atreven. ANONYMOUS`  
 
@@ -138,6 +138,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h3>
 
 <br>
+<br>  
   
 <p>⋙ ‖ 🎓 ‖ Developer en Python - UBA / Google Cloud / AWS.</p>
 
@@ -148,6 +149,7 @@
 
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL ESPAÑA</h3>
 
+<br>
 <br>
   
 <p> ✔ Spark AU ‖ ⩤⩥ ‖ ✔ Ralarsa Holding Sl.</p>
@@ -165,6 +167,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097365056380993596/lab.png">MI EMPRESA</h3>
 
 <br>
+<br>
   
 <p>⋙ ‖ 🍀 ‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.</p>
 
@@ -176,6 +179,7 @@
 
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097366311996243968/crow.png">HOBBIES</h3>
 
+<br>
 <br>
   
 <p> ⋙ ‖ ➰ ‖ Sistema operativo: Arch Lunux personalizado.</p>
