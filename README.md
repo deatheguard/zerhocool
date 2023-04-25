@@ -138,6 +138,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h3>
 
 <br>
+  
 <p>⋙ ‖ 🎓 ‖ Developer en Python - UBA / Google Cloud / AWS.</p>
 
 <p>⋙ ‖ ✏ ‖ Diseñador Grafico, Editor de videos UBA.</p>
@@ -148,6 +149,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL ESPAÑA</h3>
 
 <br>
+  
 <p> ✔ Spark AU ‖ ⩤⩥ ‖ ✔ Ralarsa Holding Sl.</p>
 
 <p>✔ Staubli Española Sa ‖ ⩤⩥ ‖ ✔ Estabanell Impulsa S.a.</p>
@@ -163,6 +165,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097365056380993596/lab.png">MI EMPRESA</h3>
 
 <br>
+  
 <p>⋙ ‖ 🍀 ‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.</p>
 
 <p>⋙ ‖ 🍀 ‖ Donde actualmente trabajo como Autonomo en diferentes empresas.</p>
@@ -174,6 +177,7 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097366311996243968/crow.png">HOBBIES</h3>
 
 <br>
+  
 <p> ⋙ ‖ ➰ ‖ Sistema operativo: Arch Lunux personalizado.</p>
 
 <p>⋙ ‖ ➰ ‖ Lenguaje de programacion: Python 3.</p>
@@ -208,26 +212,31 @@
   <p>Acelere la forma en que crea, comparte y ejecuta aplicaciones modernas.</p>
 
 <br>
+  
 <a href="https://nodesource.com" target="blank"><img align="left" width="150px"
       src="https://nodesource.com/assets/social-share/nodesource-home.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
 <p>Comience a monitorear sus aplicaciones Node.js</p>
 
 <br>
+  
 <a href="https://code.visualstudio.com" target="blank"><img align="left" width="150px"
       src="https://code.visualstudio.com/opengraphimg/opengraph-home.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
-<p>Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código</p>  
+<p>Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web.</p>  
 
 <br>
+  
 <a href="https://www.mozilla.org/es-AR/firefox/developer" target="blank"><img align="left" width="150px"
       src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/og.0e5d59686805.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
 <p>Bienvenido a su nuevo navegador favorito. Obtenga las últimas funciones, alto rendimiento y las herramientas de desarrollo que necesita para construir una web abierta.</p>  
 
 <br>
+  
 <a href="https://www.elmundo.es" target="blank"><img align="left" width="150px"
       src="https://e00-elmundo.uecdn.es/assets/v23/img/destacadas/elmundo__logo-generica.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
 <p>Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo.</p>
 
 <br>
+  
 <a href="https://www.abc.es" target="blank"><img align="left" width="150px"
       src="https://s2.abcstatics.com/assets/2.5.47/img/rrss/abc/facebook/avatar-facebook.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
 <p>El gran periódico español. Diario de referencia y decano de la prensa nacional. Líder en dispositivos móviles. Credibilidad e información al instante.</p>  
