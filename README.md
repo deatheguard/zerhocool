@@ -21,9 +21,7 @@
 <body>
 
 <!-- INICIO INTRO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=⚠ Hola, bienvenidos%20a mi profile !!⚠&fontSize=40"/>
 
-<br>
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1097204159515730101/Principal.png">
 
 <!-- FINAL INTRO -->
@@ -79,8 +77,10 @@
         <h3 class="modal-title">Mi Profesion</h3>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body">
-                
+  </div>
+ </div>
+</div> 
+<div class="modal-body">
 <p>📌 Developer Full STACK.</p> 
 
 <p>⚡ Diseñador Grafico.</p>
@@ -96,15 +96,11 @@
 <p>💢  Supervisar la velocidad y escalabilidad del software.</p>
 
 <p>🌏 Asesorar a otros departamentos.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">ARCH LINUX</button>
-        <button type="button" class="btn btn-primary">KALI</button>
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">PYTHON</button>
-         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">NEXT.JS</button>
-      </div>
-    </div>
-  </div>
+<p><a href="#"><img
+      src="https://readme-components.vercel.app/api?component=button&amp;text=Arch%20Linux" alt="Button Component"></a><a href="#">⠀⠀<img
+      src="https://readme-components.vercel.app/api?component=button&amp;text=Kali" alt="Button Component"></a><a href="#">⠀⠀<img
+      src="https://readme-components.vercel.app/api?component=button&amp;text=Python" alt="Button Component"></a><a href="#">⠀⠀<img
+      src="https://readme-components.vercel.app/api?component=button&amp;text=Next.Js" alt="Button Component"></a><a href="#"></p>  
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⫷⩤⩶⩶⩶⩶⩥%20⩤⩶⩶⩶⩶⩥⫸&fontSize=30)  
@@ -142,13 +138,9 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360100458504222/notebook.png">EDUCACION</h3>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ 🎓 ‖ Developer en Python - UBA / Google Cloud / AWS.</button></div>
+<p>⋙ ‖ 🎓 ‖ Developer en Python - UBA / Google Cloud / AWS.</p>
 
-<br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ✏ ‖ Diseñador Grafico, Editor de videos UBA.</button></div>
-
+<p>⋙ ‖ ✏ ‖ Diseñador Grafico, Editor de videos UBA.</p>
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
@@ -156,71 +148,44 @@
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097360791927259207/roll.png">LABORAL ESPAÑA</h3>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">✔ Spark AU ‖ ⩤⩥ ‖ ✔ Ralarsa Holding Sl</button></div>
+<p> ✔ Spark AU ‖ ⩤⩥ ‖ ✔ Ralarsa Holding Sl.</p>
+
+<p>✔ Staubli Española Sa ‖ ⩤⩥ ‖ ✔ Estabanell Impulsa S.a.</p>
+
+<p> ✔ Pruna Motor Sl ‖ ⩤⩥‖ ✔ La Perla Del Valles Sa.</p>
+
+<p> ✔ Staubli Española Sa ‖ ⩤⩥ ‖ ✔ Estabanell Impulsa S.a.</p>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">✔ Staubli Española Sa ‖ ⩤⩥ ‖ ✔ Estabanell Impulsa S.a.</button></div>
-
-<br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">✔ Pruna Motor Sl ‖ ⩤⩥‖  ✔ La Perla Del Valles Sa.</button></div>
-
-<br>
-<div class="bg-info clearfix">
-
-  <button type="button" class="btn btn-secondary float-start">✔ Saria Bio-industries España Sl. ‖ ⩤⩥ ‖ ✔ Gralla Motors S.a.</button>
-<br>
-</div>
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097365056380993596/lab.png">MI EMPRESA</h3>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ 🍀 ‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.</button>
+<p>⋙ ‖ 🍀 ‖ En Argentina funde mi empresa Copyrigh © ZERHO COOL en 1999, luego en 2022 emigre a España.</p>
+
+<p>⋙ ‖ 🍀 ‖ Donde actualmente trabajo como Autonomo en diferentes empresas.</p>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ 🍀 ‖ Donde actualmente trabajo como Autonomo en diferentes empresas.</button>
-
-<br>
-</div>
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 <h3><img align="left" alt="Coding" width="60" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097366311996243968/crow.png">HOBBIES</h3>
 
 <br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Sistema operativo: Arch Lunux personalizado.</button></div>
+<p> ⋙ ‖ ➰ ‖ Sistema operativo: Arch Lunux personalizado.</p>
 
-<br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Lenguaje de programacion: Python 3.</button></div>
+<p>⋙ ‖ ➰ ‖ Lenguaje de programacion: Python 3.</p>
 
-<br>
+<p>⋙ ‖ ➰ ‖ Seguridad informatica: Kali.</p>
 
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Seguridad informatica: Kali.</button></div>
+<p>⋙ ‖ ➰ ‖ Fotografia y Edicion de video.</p>
 
-<br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Fotografia y Edicion de video.</button></div>
+<p>⋙ ‖ ➰ ‖ Viajar y conocer nuevas culturas.</p>
 
-<br>
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Viajar y conocer nuevas culturas.</button></div>
+<p>⋙ ‖ ➰ ‖ Mejorando mi nivel de Ingles y algo de Catalan.</p>
 
-<br>
-
-<div class="bg-info clearfix">
-<button type="button" class="btn btn-secondary float-start">⋙ ‖ ➰ ‖ Mejorando mi nivel de Ingles y algo de Catalan.</button></div>
-
-<br>
-</div>
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
@@ -248,15 +213,24 @@
 <p>Comience a monitorear sus aplicaciones Node.js</p>
 
 <br>
-<a href="https://nextjs.org" target="blank"><img align="left" width="150px"
-      src="https://nextjs.org/static/favicon/apple-touch-icon.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
-<p>Utilizado por algunas de las empresas más grandes del mundo, Next.js le permite crear aplicaciones web completas mediante la ampliación de las últimas funciones de React y la integración de potentes herramientas de JavaScript basadas en Rust para compilaciones más rápidas.</p>
+<a href="https://code.visualstudio.com" target="blank"><img align="left" width="150px"
+      src="https://code.visualstudio.com/opengraphimg/opengraph-home.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
+<p>Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código</p>  
 
 <br>
-<a href="https://archlinux.org" target="blank"><img align="left" width="150px"
-      src="https://archlinux.org//static/logos/apple-touch-icon-114x114.343cca8f850e.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
-<p>Ha llegado al sitio web de Arch Linux, una distribución de Linux® liviana y flexible que intenta mantenerlo simple. Actualmente contamos con paquetes oficiales.</p>
+<a href="https://www.mozilla.org/es-AR/firefox/developer" target="blank"><img align="left" width="150px"
+      src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/og.0e5d59686805.png?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
+<p>Bienvenido a su nuevo navegador favorito. Obtenga las últimas funciones, alto rendimiento y las herramientas de desarrollo que necesita para construir una web abierta.</p>  
 
+<br>
+<a href="https://www.elmundo.es" target="blank"><img align="left" width="150px"
+      src="https://e00-elmundo.uecdn.es/assets/v23/img/destacadas/elmundo__logo-generica.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
+<p>Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo.</p>
+
+<br>
+<a href="https://www.abc.es" target="blank"><img align="left" width="150px"
+      src="https://s2.abcstatics.com/assets/2.5.47/img/rrss/abc/facebook/avatar-facebook.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADY3A6T0TqnvZMQEDgWRsCW9Uyew" /></a>&nbsp;&nbsp;
+<p>El gran periódico español. Diario de referencia y decano de la prensa nacional. Líder en dispositivos móviles. Credibilidad e información al instante.</p>  
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
@@ -273,7 +247,7 @@
 
 <br>
 <div class="card">
-  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1100116067428343890/adobe2.gif" width="200px">
+  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1100116067428343890/adobe2.gif" width="300px">
 
   <div class="card-body">
     <h5 class="card-title">GESTIONAMOS LA IDENTIDAD DE MARCA, DESDE SU CONSEPTO GRAFICO HASTA LA EXPERIENCIA QUE TENDRA EL POTENCIAL CLIENTE.</h5>
@@ -296,7 +270,7 @@
 <br>
 
 <div class="card">
-  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1100116465765589042/code3.gif" width="200px">
+  <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1100116465765589042/code3.gif" width="300px">
 
   <div class="card-body">
     <h5 class="card-title">SITIOS WEBS DESARROLLADOS A MEDIDA, PENSADOS EN LA EXPERIENCIA DE USUARIO (UX/UI) Y OPTIMIZADOS PARA SU RAPIDA VISUALIZACION EN DISPOSITIVOS.</h5>
@@ -521,6 +495,8 @@ RECURSOS">
 ![](http://img.shields.io/badge/💲%20MERCADO%20PAGO%20ALIAS-ZERHOCOOL.MP%20-yellow) ![](http://img.shields.io/badge/💲%20BANCO%20GALICIA%20ALIAS-DIBUJO.DRAGA.PRIMO%20-red)
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⫷⩤⩶⩶⩶⩶⩥%20⩤⩶⩶⩶⩶⩥⫸&fontSize=30)
+<br>
+  
 ※ ↣ ‖ Bitcoin (BTC), Euros y Tarjeta de credito. 
 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092655245684920340/globe-showing-asia-australia_1f30f.png" alt="Argentina" width="50">⠀⠀ 
@@ -559,7 +535,7 @@ RECURSOS">
 
 <a href="https://github.com/zerhocool"></a> **Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
 
-<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0).</a>
+<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<a rel="license" href="http://next.copyleft.org/"><img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" /></a><br />Esta obra está bajo una <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0).</a>
 <a rel="license" href="http://next.copyleft.org/pages/current-release.html">License Copyletf.</a>
 
 </footer>
