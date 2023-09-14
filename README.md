@@ -34,15 +34,15 @@
 ---
 
 <!-- INICIO MENSAJE -->
- <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="50px">
+ <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="30px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&multiline=true&width=435&lines=SOLO+PROYECTOS+QUE+SEAN+URGENTES+!!" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="90px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
+  <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="70px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?"><img width="90px" alt="Whatsaap" title="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912838971203785/mobile-dynamic-premium.png"></a>
+  <a href="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?"><img width="70px" alt="Whatsaap" title="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912838971203785/mobile-dynamic-premium.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="zerhocool@gmail.com"><img width="90px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
+  <a href="zerhocool@gmail.com"><img width="70px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
@@ -68,9 +68,7 @@
 
 <!-- INICIO PATROCINADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" src="https://cdn.discordapp.com/attachments/1072960128820715602/1095071167531982878/1054981082866532383.gif" width="10px">
 
-<img align="left" src="https://cdn.discordapp.com/attachments/1072960128820715602/1095071167531982878/1054981082866532383.gif" width="10px">
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=f75c7e&multiline=true&width=435&lines=PATROCINADORES+DE+ZERHO+COOL" alt="Typing SVG" /></a>
   
@@ -78,15 +76,15 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1151659104679501854/rayo.gif" width="150px">
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1073303767769960518/level-up-gif.gif" width="300">
 </p>
 <!-- INICIO SOCIAL  -->
 <p align="center">
-  <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="#"><img width="60px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://payment-link.astropay.com/pnt5"><img width="32px" alt="Ko-fi" title="Donacion de 20 dolares." src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://payment-link.astropay.com/pnt5"><img width="60px" alt="Ko-fi" title="Donacion de US$ 20." src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Free Stuff" title="Proximamente gifts para ti" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="#"><img width="60px" alt="Free Stuff" title="Por tu donacion de US$ 20. Gifts FREE para ti." src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 <!-- FINAL SOCIAL -->
 
@@ -108,35 +106,9 @@
 
 ### `📌- Soy un Developer Full Stack, Diseñador Grafico Independiente y creador de contenido que trabajo en diferentes empresas con 17 años de experiencia.`
 
-<br>
-
-<div align="center">
-
-
-```mermaid
-mindmap
-  root((Mapa))
-     🏢 Empresa<br/>ZERHO COOL OÜ 
-               
-    🌏 Ubicacion
-      Tallin<br/>Estonia
-      Girona<br/>España
-      Buenos Aires<br/>Argentina<br/>Eventual
-     
-    🖥️ Developer<br/>Full<br/>Stack
-     🧩Python<br/>Vue<br/>Javascript
-     📱 Developer<br/>App
-            
-     🖌️ Diseñador<br/>Grafico
-     
-      
- ```
-</div>
-
 ### `📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones útiles, desarrollando experiencias y aplicaciones web ricas.`
 
 ### `📌 Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, así como en la gestión de los recursos del sistema y la garantía de la seguridad y la estabilidad del servidor.`
-
 
 ### `📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.`
 
@@ -150,7 +122,7 @@ mindmap
 
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Estos son algunos de nuestros clientes.</h3>
 
-Empresas | Programacion | Diseño Grafico
+Empresas | Dev | Diseño Grafico
 | :--- | ---: | :---: 
 Spark NZ  | ✔ | 💢
 Staubli Española Sa  | ✔ |💢 
@@ -276,7 +248,7 @@ Se aceptan tanto patrocinios mensuales como donaciones de una sola vez. Los patr
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,python,flask,powershell,bash,java,typescript,swift,androidstudio,go,html,css,javascript,bootstrap,astro,sass,tailwindcss,vue,react,nextjs,nodejs,express,fastapi,webpack"/>
+    <img src="https://skillicons.dev/icons?i=linux,python,flask,powershell,bash,java,typescript,swift,androidstudio,go,html,css,javascript,bootstrap,astro,sass,tailwindcss,vue,react,nextjs,nodejs,express,fastapi,webpack" width="600px"/>
   </a>
 </p>
 
@@ -286,7 +258,7 @@ Se aceptan tanto patrocinios mensuales como donaciones de una sola vez. Los patr
   
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,webflow,kubernetes,docker,django,php,mysql,vercel,nginx,firebase,aws,googlecloud,azure,deno,ai,ps,pr,xd,ae"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,webflow,kubernetes,docker,django,php,mysql,vercel,nginx,firebase,aws,googlecloud,azure,deno,ai,ps,pr,xd,ae" width="600px"/>
   </a>
 </p>
 </details>
@@ -367,7 +339,9 @@ RECURSOS">
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092782676508934184/contacto.png" width="300px">⠀</h2>
   </summary>
 
-## `UNICOS MEDIOS DE CONTACTO.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+## `CONTACTAME.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+
+✔ Estos son los unicos medios de contacto ⭐
 
 ✔ Nuestro servicios estan expresados en Euros ⭐
 
@@ -441,7 +415,7 @@ RECURSOS">
 <!-- INICIO FOOTER -->
 <footer>
 
-![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20GOLD-1%20.0%20%20.0-brightgreen)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
+![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20MAIN-2%20.1%20%20.1-brightgreen)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
 <br>
 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
