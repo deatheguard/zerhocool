@@ -8,258 +8,217 @@
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta name="DC.Language" scheme="RFC1766" content="Spanish">
   <meta name="autor" content="Andres Antonio Cardoso">
-  <meta name="reply-to" content="info@zerhocool.com">
-  <link rev="made" href="mailto:info@zerhocool.com">
-  <meta name="description" content="Andres Antonio Cardoso, Developer full stack">
+  <meta name="reply-to" content="zerhocool@gmail.com">
+  <link rev="made" href="mailto:zerhocoolo@gmail.com">
+  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseñar Grafico.">
   <meta name="copyright" content="Propietario del copyright" />
   <meta name="keywords" contennt="desarrollo web, website, front end developer">
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- 
+  
 </head>
 <body>
 
 <!-- INICIO BANNER -->
+## ¡⠀HOLA BIENVENIDO A MI PERFIL⠀!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531363791503370/Banner_-ZERHO-1.png">
-<!-- TFINAL DE BANNER  -->
+<!-- FINAL DE BANNER  -->
 
 <!-- INICIO TYPING  -->
- <p align="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Experiencia%20UX%2FUI%20;10%2B%20años%20escribiendo%20codigo.;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;17+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
 </p>
 <!-- FINAL TYPING  -->
 
 ---
 
 <!-- INICIO MENSAJE -->
- <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="30px">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&multiline=true&width=435&lines=SOLO+PROYECTOS+QUE+SEAN+URGENTES+!!" alt="Typing SVG" /></a>
-
 <p align="center">
-  <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="70px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?"><img width="70px" alt="Whatsaap" title="https://api.whatsapp.com/send?phone=5491132578591&text=Hola,%20en%20qu%C3%A9%20podemos%20ayudarte?" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912838971203785/mobile-dynamic-premium.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="zerhocool@gmail.com"><img width="70px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+    <i>SERVCIO DE VENTAS Y CLIENTES:</i>⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1072966853812564079/sirena.gif" width="30px">
+    <br/><br/>
+    <a href="https://github.com/zerhocool" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+    </a>
+    <a href="https://t.me/zehocool" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="mailto:zerhocoolg@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-8B89CC?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
+    </a>
 </p>
 <!-- FINAL MENSAJE -->
 
 ---
 
 <!-- INICIO CONTADORES -->
+
+¡Obtén tus estadísticas de GitHub generadas dinámicamente en tu README!
 <p align="left">
-<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a> <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zerhocool&label=Profile%20Views&color=0&icon=8&pretty=false" /></a> <a href="https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5"><img src="https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg" alt="wakatime"></a>
+<img src="http://img.shields.io/badge/%F0%9F%92%8E%20ZERHO%20COOL%20-DEVELOPER%20<%20/%20>-blue"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>  <a href="https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5"><img src="https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg" alt="wakatime"></a>
 </p>
 <!-- FINAL DE CONTADORES -->
 
 ---
 
-<!-- INICIO METRICS -->
-<div align="center">
-    <h2 align="left">⚡Resumen y Estadisticas</h2>
-
-![Metrics](https://metrics.lecoq.io/zerhocool?template=classic&isocalendar=1&languages=1&stars=1&habits=1&people=1&followup=1&repositories=1&discussions=1&gists=1&introduction=1&posts=1&leetcode=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&gists=false&introduction=false&introduction.title=true&posts=false&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=America%2FArgentina%2FBuenos_Aires)
-<!-- FINAL METRICS -->
-
-<!-- INICIO PATROCINADOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=f75c7e&multiline=true&width=435&lines=PATROCINADORES+DE+ZERHO+COOL" alt="Typing SVG" /></a>
-  
-  ## `MIEMBROS PLATINO !!!.`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Bottle%20with%20Popping%20Cork.png" alt="Bottle with Popping Cork" width="35" height="35" />
-</p>
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1073303767769960518/level-up-gif.gif" width="300">
-</p>
-<!-- INICIO SOCIAL  -->
-<p align="center">
-  <a href="#"><img width="60px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://payment-link.astropay.com/pnt5"><img width="60px" alt="Ko-fi" title="Donacion de US$ 20." src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Free Stuff" title="Por tu donacion de US$ 20. Gifts FREE para ti." src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-<!-- FINAL SOCIAL -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-<!-- FINAL PATROCINADOR -->
 <!-- INICIO QUIEN SOY -->
- <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092767687417024512/sobremi2.png" width="300px">⠀</h2>
+<h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092767687417024512/sobremi2.png" width="500px">⠀</h2>
 
+## QUIEN SOY !!!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="35" height="35" />
 
-## `QUIEN SOY !!!.`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="35" height="35" />
-
-<br>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.discordapp.com/attachments/1072960128820715602/1100084136523346020/hacker2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1100084136523346020/hacker2.gif">
 
 <br>
 
-### `📌- Soy un Developer Full Stack, Diseñador Grafico Independiente y creador de contenido que trabajo en diferentes empresas con 17 años de experiencia.`
+<br>
 
-### `📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones útiles, desarrollando experiencias y aplicaciones web ricas.`
+### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España.
 
-### `📌 Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, así como en la gestión de los recursos del sistema y la garantía de la seguridad y la estabilidad del servidor.`
+### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="40" height="20" />
 
-### `📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.`
+
+ <h3 align="left">📌- Trabajo en diferentes empresas, me especializo en Python, Javascript, Vue, etc. con 17 años de experiencia.</h3>
+
+ <p align="center">
+  <a href="#"><img width="60px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://payment-link.astropay.com/pnt5"><img width="60px" alt="Ko-fi" title="Donacion de US$ 20." src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="Free Stuff" title="Por tu donacion de US$ 20. Gifts FREE para ti." src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="Free Stuff" title="Por tu donacion de US$ 20. Gifts FREE para ti." src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
+</p>
+
+  <h3 align="left">📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones utiles, desarrollando experiencias y aplicaciones web ricas.</h3>
+
+  <h3 align="left">📌- Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, Red Hat así como en la gestión de los recursos del sistema, la garantía de la seguridad y la estabilidad del servidor.</h3>
+
+  <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
 <!-- FINAL QUIEN SOY -->
 
 ---
+## ORGANIZACION ZERHOCOOL-DEV / Projectos ⚙️
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">THE-README</h3>
+        <br />
+        <a target="_blank" href="http://github.com/zerhocool">
+            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153725998873989130/readme.jpg" width="100%" alt="Github"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+<a target="_blank" href="http://github.com/zerhocool">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a target="_blank" href="http://github.com/zerhocool">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>⚡ Las herramientas open source o de código abierto y de software libre son softwares desarrollados y distribuidos con una licencia que permite que cualquier persona pueda ver el código y utilizarlo libremente, sin restricciones.</strong></p>
+        <p>🧩 En este repositorio no encontrarás todos los recursos para desarrolladores disponibles, si no que solo se incluyen los MEJORES.</p>
+        <p> 📌- PROXIMO A LANZAR</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ARCH-LINUX</h3>
+        <br />
+      <a target="_blank" href="http://github.com/zerhocool">
+            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153732049040060446/linux2.jpg" width="100%"  alt="Arch Linux"/>
+        </a>
+        <br />
+        <p align="center">
+  <br>
+  <a href="http://github.com/zerhocool" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://github.com/zerhocool" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>⚡ Arch Linux, con su diseño minimalista, opciones de personalización y flexibilidad, Arch Linux se ha convertido en una opción popular entre los entusiastas de Linux, particularmente aquellos que prefieren un enfoque de bricolaje y desean crear su sistema desde cero.</strong></p>
+        <p>🧩 El modelo de lanzamiento continuo del sistema operativo, que garantiza el acceso a las últimas aplicaciones y módulos, lo convierte en una opción atractiva tanto para desarrolladores, programadores y jugadores.</p>
+        <p>📌- PROXIMAMENTE</p>
+  </td>
+  </tr>
 
-<!-- INICIO CLIENTES Y FAQ -->
-<details>
-         <summary><h3> NUESTROS CLIENTES </h3> ⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="35" height="35" /></summary>
-
-<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Estos son algunos de nuestros clientes.</h3>
-
-Empresas | Dev | Diseño Grafico
-| :--- | ---: | :---: 
-Spark NZ  | ✔ | 💢
-Staubli Española Sa  | ✔ |💢 
-Pruna Motor Sl   | 💢 | ✔
-Staubli Española Sa  | ✔ | ✔
-Ralarsa Holding Sl  | ✔ | ✔
-Estabanell Impulsa S.a  | ✔ | ✔
-La Perla Del Valles Sa  | ✔ | 💢
-Estabanell Impulsa S.a  | 💢 | ✔
-</details>
-
-<details>
-         <summary> <h3> PATROCINADOR </h3>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Admission%20Tickets.png" alt="Admission Tickets" width="35" height="35" /></summary>
-
-<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097383617065402419/gift.png"> Formas con las que puedes colaborar con el Developer:</h3>
-
-<br>
-
-Se aceptan tanto patrocinios mensuales como donaciones de una sola vez. Los patrocinios recurrentes tienen derecho a colocaciones de logotipos según se especifica.
-
----
-
-## `Platino (USD$2.000/mo):` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-
-🎁 Destacada ubicación del logotipo en la portada de zerhocool.
-
-🎁 Destacada ubicación del logotipo en sidebar de todas las páginas de contenido.
-
-🎁 Destacada ubicación del logotipo en el README de zehocool.
-
----
-
-## `Oro (USD$500/mo):` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-
-🎁 Logotipo grande en la portada de zerhocool.
-
-🎁 Logotipo grande en el README de zerhocool.
-
----
-
-## `Plata (USD$250/mo):` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-
-🎁 Logotipo medio en el SPONSOR.md archivo de zerhocool.
-
----
-
-## `Bronce (USD$100/mo):` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-
-🎁 Pequeña colocación del logo en el SPONSOR.md archivo de zerhocool.
-
----
-
-## `Ataque generoso (USD$50/mo):` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-
-🎁 Nombre en la lista SPONSOR.md archivo de zerhocool, por encima de otros patrocinadores individuales.
-
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="25" height="25" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="25" height="25" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
-
-<br>
-
-![](http://img.shields.io/badge/💲%20MERCADO%20PAGO%20ALIAS-ZERHOCOOL.MP%20-blue) ![](http://img.shields.io/badge/💲%20BANCO%20GALICIA%20ALIAS-DIBUJO.DRAGA.PRIMO%20-red)⠀![](http://img.shields.io/badge/💶%20BITCOIN%20BTC%20ALIAS-3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20-blue)
-</details>
-
-<details>
-         <summary> <h3> F.A.Q </h3>⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bellhop%20Bell.png" alt="Bellhop Bell" width="35" height="35" /></summary>
-
-<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Algunas preguntas frecuentes</h3>
-
-<br>
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Es una empresa realizas facturacion?</p>
-
-✔ Somos una empresa radicada en Tallin, Estonia tememos sede en Girona, España.
-
-✔ Realizamos facturacion electronica.
-
----
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Cuales son las formas de pago vigentes?</p>
-
-✔ Las formas de pago varian segun el pais:
-
-✔ En Europa: Euros, Bitcoin, transferencia bancaria, tarjeta de credito o debito.
-
-✔ Argentina: Dolares segun cotizacion BLUE del dia.
-
----
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Tiempos de entrega de proyectos?</p>
-
-✔ Todos los proyectos que realizamos tienen garantia y son testeados en un entorno real verificando su funcionamiento.
-
-✔ Los tiempos de entregan varian segun el proyecto que requieras hacer, puedes solicitar una COTIZACION SIN CARGO.
-
----
-
-- <img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png"><p>Los proyectos de programacion y diseño grafico tienen garantia?</p>
-
-✔ Todos los proyectos que realizamos tienen garantia y son testeados en un entorno real verificando su funcionamiento.
-
-✔ Se entregan todos los permisos de acceso como super usuario, adicionalmente brindamos un mantenimiento por 30 dias SIN CARGO.
-
-✔ Los proyectos de diseño grafico en entregan documentos originales realizadosn en la suite Adobe.
-</details>
+</table>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL CLIENTES Y FAQ -->
-
 <!-- INICIO SOFTWARE -->
 <details>
   <summary>
-   <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092771589147332679/software.png" width="300px">⠀</h2>
+  <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092771589147332679/software.png" width="300px">⠀</h2>
   </summary>
-
-## `LENGUAJES Y FRAMEWORKS.`
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,python,flask,powershell,bash,java,typescript,swift,androidstudio,go,html,css,javascript,bootstrap,astro,sass,tailwindcss,vue,react,nextjs,nodejs,express,fastapi,webpack" width="600px"/>
-  </a>
+## Programacion y Marcado de Lenguaje.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="35" height="35"/>
+
+<p>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+  <img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
----
+## Frameworks y Librerias.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" />
 
-## `SERVICIOS Y  HERRAMIENTAS.`
-  
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,webflow,kubernetes,docker,django,php,mysql,vercel,nginx,firebase,aws,googlecloud,azure,deno,ai,ps,pr,xd,ae" width="600px"/>
-  </a>
+<p>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+  <img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white">
+  <img alt="Praw" src="https://custom-icon-badges.demolab.com/badge/Praw-ff3c0c.svg?logo=praw">
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white">
+</p>
+
+## Bases de datos y Cloud Hosting.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="35" height="35" />
+
+<p>
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
+  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
+  <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white">
+  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+</p>
+
+## Software.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="35" height="35" />
+
+<p>
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
+  <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">
+  <img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 </details>
 
@@ -268,26 +227,26 @@ Se aceptan tanto patrocinios mensuales como donaciones de una sola vez. Los patr
 <!-- INICIO CARPETAS -->
 <details>
   <summary>
-    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092776559900884992/carpetas.png" width="300px">⠀</h2>
+    <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092778107909455894/musica.png" width="300px">⠀</h2>
   </summary>
 
-## `LOS REPOSITORIOS SE VAN ACTUALIZANDO DE FORMA AUTOMATICA ⏱.`
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="70">
 
-<p align="center">
-<a href="https://github.com/zerhocool/
-RECURSOS">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=RECURSOS&theme=vue-dark&hide_border=true" height="120"></a>
-<a href="https://github.com/zerhocool/METRICS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=METRICS&theme=vue-dark&hide_border=true" height="120"></a>
+## SE ACTUALIZA DE FORMA AUTOMATICA ⏱.
+
+## MUSICA QUE ME INSPIRA 📺
+<p align="center"><a href="https://www.youtube.com/watch?v=or047P2NOjc" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/or047P2NOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=o9sB6QI11Z8" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/o9sB6QI11Z8/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/KoT6vkb5W90/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<a href="https://github.com/zerhocool/MODULOS">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=MODULOS&theme=vue-dark&hide_border=true" height="120">
-</a><a href="https://github.com/zerhocool/NEXT.JS">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=zerhocool&repo=NEXT.JS&theme=vue-dark&hide_border=true"
-    height="120"></a>
+### ULTIMOS LANZAMIENTOS 📺
+<p>
+  <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
 </p>
 
 </details>
@@ -297,10 +256,10 @@ RECURSOS">
 <!-- INICIO ANALITICA -->
 <details>
   <summary>
-     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092779306264047636/analitica.png" width="300px">⠀</h2>
+      <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092779306264047636/analitica.png" width="300px">⠀</h2>
   </summary>
 
-## `¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.`<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
+## ¡OBTEN TUS ESTADISTICAS DE GITHUB GENERADAS DIARIAMENTE EN TU README!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
 
 <p><img src="https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png" alt="banner"></p>
 
@@ -322,8 +281,20 @@ RECURSOS">
 </div>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 150px"  /><img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 150px"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 180px"  />
 </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 180px"  />
+</div>
+
+---
+
+<h3>⚡ Update WakaTime</h3>
+
+<!-- https://github.com/zerhocool -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -339,11 +310,13 @@ RECURSOS">
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092782676508934184/contacto.png" width="300px">⠀</h2>
   </summary>
 
-## `CONTACTAME.`<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+## Póngase en contacto con ZERHO COOL.<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
+
+Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
 
 ✔ Estos son los unicos medios de contacto ⭐
 
-✔ Nuestro servicios estan expresados en Euros ⭐
+✔ Nuestros servicios estan expresados en Euros ⭐
 
 ✔ Puedes solicitar un presupuesto personalizado SIN CARGO ⭐
 
@@ -397,9 +370,9 @@ RECURSOS">
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="25" height="25" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="25" height="25" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
 <br>
 
@@ -431,14 +404,19 @@ RECURSOS">
 
 <a href="https://github.com/zerhocool"></a>
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/zerhocool)
+
+---
+
 <a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" />⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" /></a><br />Esta obra está bajo <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0).</a>
 <a rel="license" href="http://next.copyleft.org/pages/current-release.html">License Copyletf.</a>
 <a rel="license" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
+
+---
 
 </footer>
 <!-- FINAL FOOTER -->
 </body>
 </html>
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/zerhocool/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/zerhocool/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/zerhocool/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
