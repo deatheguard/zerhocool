@@ -16,7 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
-  
+ 
 </head>
 <body>
 
@@ -76,7 +76,7 @@
 
 ### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España.
 
-### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="40" height="20" />
+### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="90" height="30" />
 
 
  <h3 align="left">📌- Trabajo en diferentes empresas, me especializo en Python, Javascript, Vue, etc. con 17 años de experiencia.</h3>
@@ -121,9 +121,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>⚡ Las herramientas open source o de código abierto y de software libre son softwares desarrollados y distribuidos con una licencia que permite que cualquier persona pueda ver el código y utilizarlo libremente, sin restricciones.</strong></p>
-        <p>🧩 En este repositorio no encontrarás todos los recursos para desarrolladores disponibles, si no que solo se incluyen los MEJORES.</p>
-        <p> 📌- PROXIMO A LANZAR</p>
+        <p><strong>📌- PROXIMO A LANZAR.</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">ARCH-LINUX</h3>
@@ -141,9 +139,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>⚡ Arch Linux, con su diseño minimalista, opciones de personalización y flexibilidad, Arch Linux se ha convertido en una opción popular entre los entusiastas de Linux, particularmente aquellos que prefieren un enfoque de bricolaje y desean crear su sistema desde cero.</strong></p>
-        <p>🧩 El modelo de lanzamiento continuo del sistema operativo, que garantiza el acceso a las últimas aplicaciones y módulos, lo convierte en una opción atractiva tanto para desarrolladores, programadores y jugadores.</p>
-        <p>📌- PROXIMAMENTE</p>
+        <p><strong>📌- PROXIMAMENTE.</strong></p>
   </td>
   </tr>
 
@@ -235,19 +231,18 @@
 ## SE ACTUALIZA DE FORMA AUTOMATICA ⏱.
 
 ## MUSICA QUE ME INSPIRA 📺
-<p align="center"><a href="https://www.youtube.com/watch?v=or047P2NOjc" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/or047P2NOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=o9sB6QI11Z8" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/o9sB6QI11Z8/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/KoT6vkb5W90/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
+<p align="center"><a href="https://www.youtube.com/watch?v=or047P2NOjc" target="blank"><img align="center" width="270px" src="https://i.ytimg.com/vi/or047P2NOjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBn-SLFQ2CqC2-qzl5daHS-Mu2AZA"/>⠀</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="270px" src="https://i.ytimg.com/vi/KoT6vkb5W90/maxresdefault_live.jpg"/>⠀</a>&nbsp;&nbsp;
 </p>
 
 ### ULTIMOS LANZAMIENTOS 📺
-<p>
-  <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
 </p>
+
 
 </details>
 
@@ -265,23 +260,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <h2 align="left">⚡Resumen</h2>
-
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zerhocool&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" height="120">⠀⠀
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerhocool&layout=compact&theme=radical&card_width=382px" height="120">
-</p>
-</div>
-
----
 
 <div align="center">
-  <h2 align="left">⚡Actividad y Trofeos</h2>
-</div>
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerhocool&theme=2077" style="height: 180px"  />
+  <h2 align="left">🎀 Premios</h2>
 </div>
 
 <div align="center">
@@ -290,82 +271,16 @@
 
 ---
 
-<h3>⚡ Update WakaTime</h3>
+<h3>🧩 Actividad Reciente</h3>
+
+<!--START_SECTION:activity-->
+
+---
+
+<h3>⚡ Metricas WakaTime</h3>
 
 <!-- https://github.com/zerhocool -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.3%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 37.3 kB Used in GitHub's Storage 
- > 
-> 🏆 146 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   41.61 % 
-🌃 Evening                62 commits          ██████████░░░░░░░░░░░░░░░   41.61 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Tuesday                  83 commits          ██████████████░░░░░░░░░░░   55.70 % 
-Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Thursday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-Markdown                 27 hrs 31 mins      █████████████████████████   99.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 32 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-zerhocool-main           27 hrs 32 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  27 hrs 32 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/zerhocool/zerhocool/main/assets/bar_graph.png)
-
-
- Last Updated on 20/09/2023 03:22:51 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -460,7 +375,7 @@ Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacit
 <!-- INICIO FOOTER -->
 <footer>
 
-![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20MAIN-2%20.1%20%20.1-brightgreen)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
+![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20MAIN-2%20.0%20%20.0-brightgreen)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
 <br>
 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
