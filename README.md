@@ -54,11 +54,10 @@
 ---
 
 <!-- INICIO CONTADORES -->
-
-¡Obtén tus estadísticas de GitHub generadas dinámicamente en tu README!
 <p align="left">
-<img src="http://img.shields.io/badge/%F0%9F%92%8E%20ZERHO%20COOL%20-DEVELOPER%20<%20/%20>-blue"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>  <a href="https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5"><img src="https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg" alt="wakatime"></a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>  <a href="https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5"><img src="https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg" alt="wakatime"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" /></a>
 </p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="35" height="35" />v2.0.0
 <!-- FINAL DE CONTADORES -->
 
 ---
@@ -269,13 +268,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 180px"  />
 </div>
 
----
-
-<h3>🧩 Actividad Reciente</h3>
-
-<!--START_SECTION:activity-->
-
----
 
 <h3>⚡ Metricas WakaTime</h3>
 
@@ -371,18 +363,18 @@ HTML                     1 repo              ███████████�
 
 ## Póngase en contacto con ZERHO COOL.<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px">
 
-Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
+### Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
 
-✔ Estos son los unicos medios de contacto ⭐
+### ✔ Estos son los unicos medios de contacto
 
-✔ Nuestros servicios estan expresados en Euros ⭐
+### ✔ Nuestros servicios estan expresados en Euros 
 
-✔ Puedes solicitar un presupuesto personalizado SIN CARGO ⭐
+### ✔ Presupuesto personalizado SIN CARGO ⭐
 
 
-⭐ Ubicacion 1: España. Barcelona, Girona - CP: 17458
+### ⭐ Ubicacion 1: España. Barcelona, Girona - CP: 17458
 
-⭐ Ubicacion 2: Estonia, Tallin, Condado de Harju - CP: 10111
+### ⭐ Ubicacion 2: Estonia, Tallin, Condado de Harju - CP: 10111
 
 <br/>
 
@@ -413,19 +405,19 @@ Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacit
 
   <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-⋙ ‖ 🚨 ‖ Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
+### ⋙ ‖ 🚨 ‖ Casi todos mis proyectos son código abierto e intento responder a todos los usuarios que necesiten ayuda con alguno de estos proyectos, obviamente, esto toma tiempo.
 
-⋙ ‖ 🚨 ‖ No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
+### ⋙ ‖ 🚨 ‖ No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
 
-✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
+### ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
-✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
+### ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
 
 <p><a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=Sigueme!" alt="Button Component"></a></p>
 
 ---
 
-  ## 💰 Puedes ayudarme invitandome un cafe.
+## 💰 Puedes ayudarme invitandome un cafe.
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
@@ -433,9 +425,10 @@ Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacit
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
-<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> Transferencia Bancaria Alias: DIBUJO.DRAGA.PRIMO
 
-![](http://img.shields.io/badge/💲%20MERCADO%20PAGO%20ALIAS-ZERHOCOOL.MP%20-blue) ![](http://img.shields.io/badge/💲%20BANCO%20GALICIA%20ALIAS-DIBUJO.DRAGA.PRIMO%20-red)⠀![](http://img.shields.io/badge/💶%20BITCOIN%20BTC%20ALIAS-3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20-blue)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> BITCOIN-BTC: 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+
 
 </details>
 
@@ -447,7 +440,7 @@ Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacit
 <!-- INICIO FOOTER -->
 <footer>
 
-![](http://img.shields.io/badge/💠%20DISEÑO%20Y%20DESARROLLO-ZERHO%20COOL%20-blue)⠀⠀![](http://img.shields.io/badge/✔%20VERSION%20%20MAIN-2%20.0%20%20.0-brightgreen)⠀⠀![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
+![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white)⠀![Made with love in](https://madewithlove.now.sh/es?heart=true&text=España)⠀![Made with love in Estonia](https://madewithlove.now.sh/ee?heart=true&colorA=%23400000)
 <br>
 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
@@ -479,3 +472,4 @@ Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacit
 <!-- FINAL FOOTER -->
 </body>
 </html>
+
