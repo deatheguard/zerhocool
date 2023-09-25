@@ -103,8 +103,10 @@
 
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
-  <details>
-        <summary><h3> NUESTROS CLIENTES </h3> ⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="35" height="35" /></summary>
+<details>
+    <summary>
+        <h3> NUESTROS CLIENTES </h3> ⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="35" height="35" />
+      </summary>
 
 <h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Estos son algunos de nuestros clientes.</h3>
 
