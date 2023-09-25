@@ -55,7 +55,7 @@
 
 <!-- INICIO CONTADORES -->
 <p align="left">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>  <a href="https://wakatime.com/@2cd63de2-230b-4e9f-88d4-54d9ea9b43a5"><img src="https://wakatime.com/badge/user/2cd63de2-230b-4e9f-88d4-54d9ea9b43a5.svg" alt="wakatime"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia"><a href="https://stand-with-ukraine.pp.ua">⠀<img src="https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7" alt="Made in Ukraine"></a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia">⠀<a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>
 </p>
 
 ### v2.0.0⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="35" height="35" />
@@ -81,7 +81,7 @@
 ### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="90" height="30" />
 
 
- <h3 align="left">📌- Trabajo en diferentes empresas, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia.</h3>
+ <h3 align="left">📌- Funde mi propia empresa, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
 
  <p align="center">
   <a href="#"><img width="60px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
@@ -89,7 +89,11 @@
   <a href="#"><img width="60px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="60px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="60px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
 </p>
 
@@ -98,6 +102,24 @@
   <h3 align="left">📌- Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, Red Hat así como en la gestión de los recursos del sistema, la garantía de la seguridad y la estabilidad del servidor.</h3>
 
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
+
+  <details>
+        <summary><h3> NUESTROS CLIENTES </h3> ⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="35" height="35" /></summary>
+
+<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Estos son algunos de nuestros clientes.</h3>
+
+Empresas | Dev | Diseño Grafico
+| :--- | ---: | :---:
+Spark NZ  | ✔ | 💢
+Staubli Española Sa  | ✔ |💢
+Pruna Motor Sl   | 💢 | ✔
+Staubli Española Sa  | ✔ | ✔
+Ralarsa Holding Sl  | ✔ | ✔
+Estabanell Impulsa S.a  | ✔ | ✔
+La Perla Del Valles Sa  | ✔ | 💢
+Estabanell Impulsa S.a  | 💢 | ✔
+</details>
+
 
 <!-- FINAL QUIEN SOY -->
 
@@ -227,8 +249,6 @@
   </summary>
 
 <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="70">
-
-## SE ACTUALIZA DE FORMA AUTOMATICA ⏱.
 
 ## MUSICA QUE ME INSPIRA 📺
 <p align="center"><a href="https://www.youtube.com/watch?v=JZ-uoYrXLGw" target="blank"><img align="center" width="270px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155182225248231566/youtube.jpg"/>⠀</a>&nbsp;&nbsp;
@@ -427,21 +447,20 @@ MDX                      1 repo              ██████░░░░░�
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia. 
 
-- No se ACEPTAN Pesos Argentinos. ‼️
-
-- No aceptamos Mercado Pago. ‼️
+- No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> Transferencia Bancaria Alias: DIBUJO.DRAGA.PRIMO
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> Transferencia Bancaria:
+ - Alias: DIBUJO.DRAGA.PRIMO
+ - CBU:  0070067230004033073612
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> AstroPay-BITCOIN-BTC: 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> AstroPay:
+ - BTC: 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
 
 </details>
 
 <img src="https://i.imgur.com/BsT3Qux.gif">
-
-<br>
 
 <!-- FINAL CREDITOS -->
 <!-- INICIO FOOTER -->
@@ -451,7 +470,7 @@ MDX                      1 repo              ██████░░░░░�
 
 <p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
 
-**Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
+**Diseño y Desarrollo ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
 
 <br>
 
