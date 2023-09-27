@@ -18,36 +18,36 @@ Aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI) / (Tutorial
 
 ## ⚜ Bifurca (Fork) este repositorio
 
-Haz un *fork* de este repositorio haciendo click en el botón " *Fork*" en la parte superior derecha en esta página.
+Haz un _fork_ de este repositorio haciendo click en el botón " _Fork_" en la parte superior derecha en esta página.
 ![fork de este repositorio](https://firstcontributions.github.io/assets/Readme/fork.png)
 
-Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://docs.github.com/es/get-started/quickstart/set-up-git).
+Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace](https://docs.github.com/es/get-started/quickstart/set-up-git).
 
 - Esto creará una copia de este repositorio en tu cuenta.
 
-## ⚜ Clona (*Clone*) el repositorio bifurcado ![clonar este repositorio](https://firstcontributions.github.io/assets/Readme/clone.png)
+## ⚜ Clona (_Clone_) el repositorio bifurcado ![clonar este repositorio](https://firstcontributions.github.io/assets/Readme/clone.png)
 
-- Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón " *clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
+- Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón " _clone or download_" y luego haz click en el icono para _copiar al portapapeles_.
 
 - Abre tu consola o terminal y ejecuta el siguiente comando de git: `git clone "url que acabas de copiar"`
 
-- Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto).
+- Donde pone "url que acabas de copiar" (sin las comillas dobles) es la _url_ a este repositorio (tu _fork_ a este proyecto).
 
-Mira los pasos previos para obtener la *url*. ![copiar URL al portapapeles](https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png)
+Mira los pasos previos para obtener la _url_. ![copiar URL al portapapeles](https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png)
 
 La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub.
 
-Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
+Aquí estás copiando los contenidos del repositorio _first-contributions_ en GitHub a tu equipo.
 
-## ⚜ Crea una rama (*Branch*)
+## ⚜ Crea una rama (_Branch_)
 
 - Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya). `cd first-contributions`
 
-- Ahora crea una rama (*branch*) usando el comando `git checkout`: `git checkout -b` Por ejemplo: `git checkout -b add-alonzo-church`
+- Ahora crea una rama (_branch_) usando el comando `git checkout`: `git checkout -b` Por ejemplo: `git checkout -b add-alonzo-church`
 
-- El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.
+- El nombre de la rama no tiene por qué contener la palabra _add_, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.
 
-## ⚜ Haz los cambios necesarios y confirma (*Commit*) esos cambios
+## ⚜ Haz los cambios necesarios y confirma (_Commit_) esos cambios
 
 - Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre
 
@@ -55,23 +55,23 @@ Aquí estás copiando los contenidos del repositorio *first-contributions* en Gi
 
 - Si vas al directorio del proyecto y ejecutas el comando `git status`, verás que hay cambios.
 
-- Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:`git add Contributors.md`
+- Agrega esos cambios a la rama (_branch_) que creaste anteriormente usando el comando `git add`:`git add Contributors.md`
 
-Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:`git commit -m "Add to Contributors list"` cambiando con tu nombre.
+Ahora haz un _commit_ sobre estos cambios ejecutando el comando `git commit`:`git commit -m "Add to Contributors list"` cambiando con tu nombre.
 
-## ⚜ Sube (*Push*) tus cambios a GitHub
+## ⚜ Sube (_Push_) tus cambios a GitHub
 
-- Haz *push* de tus cambios usando el comando `git push`:`git push origin` `Reemplaza` con el nombre de la rama que creaste anteriormente
+- Haz _push_ de tus cambios usando el comando `git push`:`git push origin` `Reemplaza` con el nombre de la rama que creaste anteriormente
 
-## ⚜ Envía (*Submit*) tus cambios para ser revisados
+## ⚜ Envía (_Submit_) tus cambios para ser revisados
 
 - Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`
 
 Haz click sobre este botón. ![crea una pull request](https://firstcontributions.github.io/assets/Readme/compare-and-pull.png)
 
-Ahora envía la *pull request*. ![enviar la pull request](https://firstcontributions.github.io/assets/Readme/submit-pull-request.png)
+Ahora envía la _pull request_. ![enviar la pull request](https://firstcontributions.github.io/assets/Readme/submit-pull-request.png)
 
-Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+Pronto estaré fusionando tus cambios (haciendo _merge_) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
 ## ⚜ ¿Cuáles son los siguientes pasos?
 
@@ -79,4 +79,27 @@ Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de e
 
 - Celebra tu contribución y compártela con tus amigos y seguidores.
 
-Copyright (c) 2023 Andres Antonio Cardoso
+## Licencia 📄
+
+- Licencia GNU GPL V.3 Copyright (c) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
+- Licencia Copyleft Copyright (c) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
+- Licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional Copyright (c) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
+
+**Diseño y Desarrollo ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
+
+**Copyrigh © 2022 ZERHO COOL OÜ, Empresa en Tallin, Estonia - Todos los derechos reservados.**
+
+---
+
+<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" />⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0)-</a>
+<a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Licencia Copyletf-</a>
+<a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.</a>
+
+<a rel="licencia" href="https://opensource.org//"><img alt="Open Source" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156244833363566716/os5.png?ex=6514446a&is=6512f2ea&hm=8e7ac1e9d3a95477e0c058cf8b83b9f98b9b84a87f6669c556673483d828c320&" width="100" />⠀⠀⠀<img alt="Clearly Licensed " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156319005875896411/ClearlyLicensed_color_h.png?ex=6514897e&is=651337fe&hm=e52082d0d4d77a6c6dfc4d0786a39a5d2db817ebd766a65b460f6f4cf975b8f0&" width="250" />⠀⠀⠀</a><br />Brindamos nuestro apoyo a: <a rel="licencia" href="https://opensource.org/programs/">Open Source Iniative-</a>
+<a rel="licencia" href="https://clearlydefined.io/about">Clearly Defined.</a>
+
+<p align="right">
+  <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156311180692951170/geotrust-trust-seal1.png?ex=65148234&is=651330b4&hm=d0a8894085f01ef224318775176625b2b644b0b254991f927576dade460c800f&" width="90" /></a>
+</p>

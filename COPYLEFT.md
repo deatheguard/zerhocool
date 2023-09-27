@@ -1,7 +1,6 @@
-
 # 📚 Current License Release
 
-Copyleft (ɔ) 2023 Andres Antonio Cardoso
+Copyleft (ɔ) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
 
 copyleft-next 0.3.1 ("this License")
 Release date: 2016-04-29
@@ -11,12 +10,12 @@ Release date: 2016-04-29
    Subject to the terms of this License, I grant You:
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      copyright license, to reproduce, Distribute, prepare derivative works
-      of, publicly perform and publicly display My Work.
+   copyright license, to reproduce, Distribute, prepare derivative works
+   of, publicly perform and publicly display My Work.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents to make, have made, use, sell,
-      offer for sale, and import Covered Works.
+   patent license under Licensed Patents to make, have made, use, sell,
+   offer for sale, and import Covered Works.
 
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
@@ -107,12 +106,12 @@ Release date: 2016-04-29
     Your license grants under section 1 are automatically terminated if You
 
     a) fail to comply with the conditions of this License, unless You cure
-       such noncompliance within thirty days after becoming aware of it, or
+    such noncompliance within thirty days after becoming aware of it, or
 
     b) initiate a patent infringement litigation claim (excluding
-       declaratory judgment actions, counterclaims, and cross-claims)
-       alleging that any part of My Work directly or indirectly infringes
-       any patent.
+    declaratory judgment actions, counterclaims, and cross-claims)
+    alleging that any part of My Work directly or indirectly infringes
+    any patent.
 
     Termination of Your license grants extends to all copies of Covered
     Works You subsequently obtain. Termination does not terminate the
@@ -132,20 +131,20 @@ Release date: 2016-04-29
 
 12.No Warranty
 
-     My Work is provided "as-is", without warranty. You bear the risk 
-     of using it. To the extent permitted by applicable law, each     
-     Distributor of My Work excludes the implied warranties of title, 
-     merchantability, fitness for a particular purpose and            
-     non-infringement.                                                
+     My Work is provided "as-is", without warranty. You bear the risk
+     of using it. To the extent permitted by applicable law, each
+     Distributor of My Work excludes the implied warranties of title,
+     merchantability, fitness for a particular purpose and
+     non-infringement.
 
 14.Limitation of Liability
 
-     To the extent permitted by applicable law, in no event will any  
-     Distributor of My Work be liable to You for any damages          
-     whatsoever, whether direct, indirect, special, incidental, or    
-     consequential damages, whether arising under contract, tort      
-     (including negligence), or otherwise, even where the Distributor 
-     knew or should have known about the possibility of such damages. 
+     To the extent permitted by applicable law, in no event will any
+     Distributor of My Work be liable to You for any damages
+     whatsoever, whether direct, indirect, special, incidental, or
+     consequential damages, whether arising under contract, tort
+     (including negligence), or otherwise, even where the Distributor
+     knew or should have known about the possibility of such damages.
 
 15.Severability
 
@@ -157,7 +156,7 @@ Release date: 2016-04-29
 16.Definitions
 
     "Copyleft-Next Project" means the project that maintains the source
-    code repository at 
+    code repository at
     as of the release date of this License.
 
     "Corresponding Source" of a Covered Work in Object Code form means (i)

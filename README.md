@@ -10,7 +10,7 @@
   <meta name="autor" content="Andres Antonio Cardoso">
   <meta name="reply-to" content="zerhocool@gmail.com">
   <link rev="made" href="mailto:zerhocoolo@gmail.com">
-  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseñar Grafico.">
+  <meta name="description" content="Andres Antonio Cardoso, Developer Full Stack y Diseña Grafico.">
   <meta name="copyright" content="Propietario del copyright" />
   <meta name="keywords" contennt="desarrollo web, website, front end developer">
   <meta name="Resource-type" content="Index">
@@ -21,6 +21,7 @@
 <body>
 
 <!-- INICIO BANNER -->
+
 ## HOLA BIENVENIDO A MI PERFIL⠀!!!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531363791503370/Banner_-ZERHO-1.png">
@@ -78,7 +79,6 @@
 
 ### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="90" height="30" />
 
-
  <h3 align="left">📌- Funde mi propia empresa, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
 
 <p align="center">
@@ -101,17 +101,22 @@
 
   <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041596649642/devops-concept.jpg">
 
-
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
-  ### Mas datos: 🚀
+### Mas datos: 🚀
 
-  #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI / Windows 10 Pro. 
-  #### 🧩 Lenguajes: Python, Javascript.
-  #### 🌟 Frameworks preferido: Vue3 con Vite.
-  #### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
-  #### 🕐 Idiomas: Aprendiendo Catalan.
-  #### 📗 Ultimo libro: El libro negro del programador.
+#### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI / Windows 10 Pro.
+
+#### 🧩 Lenguajes: Python, Javascript.
+
+#### 🌟 Frameworks preferido: Vue3 con Vite.
+
+#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
+
+#### 🕐 Idiomas: Aprendiendo Catalan.
+
+#### 📗 Ultimo libro: El libro negro del programador.
+
 <!-- FINAL DE QUIEN SOY  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- INICIO LA EMPRESA  -->
@@ -128,16 +133,15 @@
 
 ## Construyendo simbiosis visual en una industria fragmentada.
 
-### 📌- Ya sea como socio de marcas o colaborador de agencias, nuestro objetivo siempre es dar forma a direcciones visuales originales,	conectando la marca con la creación de contenido y experiencias digitales.
+### 📌- Ya sea como socio de marcas o colaborador de agencias, nuestro objetivo siempre es dar forma a direcciones visuales originales, conectando la marca con la creación de contenido y experiencias digitales.
 
-### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia,	definido por la ciencia, el espacio y la sociedad.!⠀
-
+### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia, definido por la ciencia, el espacio y la sociedad.!⠀
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156366497317392425/grafico.jpg?ex=6514b5b9&is=65136439&hm=c09768746ad411bc01a1ffcd41900cb141c738f6b093d878ac01ed6dafd10ce6&">
 
 ## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
 
-### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.      
+### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.
 
 <p align="center">
 • ━━━━━ ◦ ❖ ◦ ━━━━━ •
@@ -244,11 +248,13 @@
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif?ex=6513bd23&is=65126ba3&hm=e748b35a87522331f68c871d01e394e4910c33d09b3514e75376f83b0cee46c9&" alt="Youtube" height="35">
 
 ## MUSICA QUE ME INSPIRA 📺
+
 <p align="center"><a href="https://www.youtube.com/watch?v=JZ-uoYrXLGw" target="blank"><img align="center" width="270px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155182225248231566/youtube.jpg"/>⠀</a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="270px" src="https://i.ytimg.com/vi/KoT6vkb5W90/maxresdefault_live.jpg"/>⠀</a>&nbsp;&nbsp;
 </p>
 
 ### ULTIMOS LANZAMIENTOS 📺
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
@@ -271,7 +277,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <div align="center">
   <h2 align="left">🎀 Premios</h2>
 </div>
@@ -288,85 +293,84 @@
 
 <!-- https://github.com/zerhocool -->
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-133.9%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 37.5 kB Used in GitHub's Storage 
- > 
+> 📦 37.5 kB Used in GitHub's Storage
+>
 > 🏆 164 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 28 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-🌆 Daytime                72 commits          ███████████░░░░░░░░░░░░░░   42.11 % 
-🌃 Evening                67 commits          ██████████░░░░░░░░░░░░░░░   39.18 % 
-🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+🌆 Daytime                72 commits          ███████████░░░░░░░░░░░░░░   42.11 %
+🌃 Evening                67 commits          ██████████░░░░░░░░░░░░░░░   39.18 %
+🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Tuesday                  83 commits          ████████████░░░░░░░░░░░░░   48.54 % 
-Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Monday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 %
+Tuesday                  83 commits          ████████████░░░░░░░░░░░░░   48.54 %
+Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 %
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
-💬 Programming Languages: 
-Markdown                 24 hrs 28 mins      ████████████████████████░   94.50 % 
-XML                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-ActionScript             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+💬 Programming Languages:
+Markdown                 24 hrs 28 mins      ████████████████████████░   94.50 %
+XML                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+ActionScript             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 
-🔥 Editors: 
-VS Code                  25 hrs 54 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  25 hrs 54 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-zerhocool-main           19 hrs 34 mins      ███████████████████░░░░░░   75.54 % 
-the-readme               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-zerhocool                1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-css-style                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-TextBlockTransitions-main7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🐱‍💻 Projects:
+zerhocool-main           19 hrs 34 mins      ███████████████████░░░░░░   75.54 %
+the-readme               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+zerhocool                1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+css-style                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+TextBlockTransitions-main7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 
-💻 Operating System: 
-Windows                  25 hrs 54 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  25 hrs 54 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-MDX                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 %
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+MDX                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/zerhocool/zerhocool/main/assets/bar_graph.png)
 
+Last Updated on 27/09/2023 01:04:26 UTC
 
- Last Updated on 27/09/2023 01:04:26 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -398,11 +402,13 @@ MDX                      1 repo              ██████░░░░░�
 </p>
 
 ### Información de zona horaria:<a href="#"><img width="50px" alt="Horario" title="Zona horaria" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373229041057943/flash.png"/></a>
-- Madrid UTC +2 Central European Summer Time. 
-- Estonia UTC +3 Eastern European Summer Time. 
+
+- Madrid UTC +2 Central European Summer Time.
+- Estonia UTC +3 Eastern European Summer Time.
 - Horario de atencion: 10:00 a 17:00 / 10:00 AM - 05:00 PM.
 
 ### Ubicacion:<a href="#"><img width="50px" alt="Ubicacion" title="España, Barcelona, Girona y Estonia, Tallin, Condado de Harju." src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
+
 - España. Barcelona, Girona - CP: 17458
 - Estonia, Tallin, Condado de Harju - CP: 10111
 
@@ -450,18 +456,19 @@ MDX                      1 repo              ██████░░░░░�
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia.
 
- EMPRESAS | TRANSFERENCIA
-| :--- | ---
-✔ Alias  | DIBUJO.DRAGA.PRIMO
-✔ CBU  | 0070067230004033073612
-💢💢💢 | 💢💢💢💢💢 
-✔ BTC  | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+| EMPRESAS | TRANSFERENCIA                         |
+| :------- | ------------------------------------- |
+| ✔ Alias  | DIBUJO.DRAGA.PRIMO                    |
+| ✔ CBU    | 0070067230004033073612                |
+| 💢💢💢   | 💢💢💢💢💢                            |
+| ✔ BTC    | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20 |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
 
 ## 💰 Puedes ayudarme invitandome un cafe.
+
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 </details>
@@ -471,6 +478,7 @@ MDX                      1 repo              ██████░░░░░�
 <footer>
 
 ## ZERHOCOOL-DEV / Projectos ⚙️
+
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
     <tr>
@@ -551,6 +559,3 @@ MDX                      1 repo              ██████░░░░░�
 <!-- FINAL FOOTER -->
 </body>
 </html>
-
-
-
