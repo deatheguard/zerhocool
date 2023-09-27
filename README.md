@@ -82,17 +82,17 @@
  <h3 align="left">📌- Funde mi propia empresa, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
 
 <p align="center">
-  <a href="#"><img width="80px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
+  <a href="#"><img width="60px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
+  <a href="#"><img width="60px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
+  <a href="#"><img width="60px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
+  <a href="#"><img width="60px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
+  <a href="#"><img width="60px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
+  <a href="#"><img width="60px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
 </p>
 
   <h3 align="left">📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones utiles, desarrollando experiencias y aplicaciones web ricas.</h3>
@@ -106,8 +106,9 @@
 
   ### Mas datos: 🚀
 
-  #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI. 
+  #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI / Windows 10 Pro. 
   #### 🧩 Lenguajes: Python, Javascript.
+  #### 🌟 Frameworks preferido: Vue3 con Vite.
   #### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
   #### 🕐 Idiomas: Aprendiendo Catalan.
   #### 📗 Ultimo libro: El libro negro del programador.
@@ -451,12 +452,12 @@ MDX                      1 repo              ██████░░░░░�
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia. 
 
- EMPRESAS | METODO
+ EMPRESAS | TRANSFERENCIA
 | :--- | ---
-✔ GalIcia Alias  | DIBUJO.DRAGA.PRIMO
-✔ Galicia CBU  | 0070067230004033073612
-💢💢💢💢💢 | 💢💢💢💢💢 
-✔ AstroPay BTC  | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+✔ Alias  | DIBUJO.DRAGA.PRIMO
+✔ CBU  | 0070067230004033073612
+💢💢💢 | 💢💢💢💢💢 
+✔ BTC  | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
 
