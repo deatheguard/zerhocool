@@ -74,8 +74,6 @@
 
 <br>
 
-<br>
-
 ### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España.
 
 ### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="90" height="30" />
@@ -83,92 +81,85 @@
 
  <h3 align="left">📌- Funde mi propia empresa, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
 
- <p align="center">
-  <a href="#"><img width="60px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
+<p align="center">
+  <a href="#"><img width="80px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
+  <a href="#"><img width="80px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
+  <a href="#"><img width="80px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
+  <a href="#"><img width="80px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
+  <a href="#"><img width="80px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
+  <a href="#"><img width="80px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
 </p>
 
   <h3 align="left">📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones utiles, desarrollando experiencias y aplicaciones web ricas.</h3>
 
   <h3 align="left">📌- Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, Red Hat así como en la gestión de los recursos del sistema, la garantía de la seguridad y la estabilidad del servidor.</h3>
 
+  <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041596649642/devops-concept.jpg">
+
+
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
+  ### Mas datos: 🚀
+
+  #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI. 
+  #### 🧩 Lenguajes: Python, Javascript.
+  #### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
+  #### 🕐 Idiomas: Aprendiendo Catalan.
+  #### 📗 Ultimo libro: El libro negro del programador.
+<!-- FINAL DE QUIEN SOY  -->
+<img src="https://i.imgur.com/BsT3Qux.gif">
+<!-- INICIO LA EMPRESA  -->
 <details>
     <summary>
-        <h3> NUESTROS CLIENTES </h3> ⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="35" height="35" />
+         <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092769113434234941/servicios.png?ex=65140e8b&is=6512bd0b&hm=579d6ea2837f07d952fdb84e0ccfb80c8349e9cc100228ee559dcf00914a098d&" width="300px">⠀</h2>
       </summary>
 
-<h3><img align="left" alt="Coding" width="40" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097379054312763442/star.png">⠀Estos son algunos de nuestros clientes.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996196084428840/coder-anime.gif?ex=651396ed&is=6512456d&hm=2213290c426cd47771c2f0d6983d0d7c0a35afc8c787ac180c768720d2ebf703&">
 
-Empresas | Dev | Diseño Grafico
-| :--- | ---: | :---:
-Spark NZ  | ✔ | 💢
-Staubli Española Sa  | ✔ |💢
-Pruna Motor Sl   | 💢 | ✔
-Staubli Española Sa  | ✔ | ✔
-Ralarsa Holding Sl  | ✔ | ✔
-Estabanell Impulsa S.a  | ✔ | ✔
-La Perla Del Valles Sa  | ✔ | 💢
-Estabanell Impulsa S.a  | 💢 | ✔
+## ZERHO COOL es un estudio creativo que da forma a las marcas del mañana.
+
+### 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos Codigo y Diseño.
+
+## Construyendo simbiosis visual en una industria fragmentada.
+
+### 📌- Ya sea como socio de marcas o colaborador de agencias, nuestro objetivo siempre es dar forma a direcciones visuales originales,	conectando la marca con la creación de contenido y experiencias digitales.
+
+### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia,	definido por la ciencia, el espacio y la sociedad.!⠀
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156366497317392425/grafico.jpg?ex=6514b5b9&is=65136439&hm=c09768746ad411bc01a1ffcd41900cb141c738f6b093d878ac01ed6dafd10ce6&">
+
+## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
+
+### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.      
+
+<p align="center">
+• ━━━━━ ◦ ❖ ◦ ━━━━━ •
+</p>
+
+### Estos son agunos de nuestros clientes:⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
+
+<p align="center">
+  <a href="https://www.spaincares.com"><img width="100px" alt="Spain Cares" title="Spain Cares" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156388273044852806/saoj.png?ex=6514ca00&is=65137880&hm=2487eb6f23e16a6e34f6073873192461823ad9c4afc2d562ebd228faec561052&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://aspidcars.com"><img width="100px" alt="Aspid Cars" title="Aspid Cars" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156394930202214451/logo-IFR-Aspid.png?ex=6514d034&is=65137eb4&hm=af7c48c94422e1221cfac07b1085297b305e7e435b283b7f4216d3cb3ccc96ab&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://bcncl.es"><img width="100px" alt="Bcncl" title="Bcncl" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156397257877356655/bcl-barcelona-catalunya-centre-l.png?ex=6514d25f&is=651380df&hm=a9a8e159ad69dd01cd0ef025b3bef119a287702634c1773747dd76f03b0d1756&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.barcelonahousingsystems.com/"><img width="100px" alt="Barcelona Housing Systems" title="Barcelona Housing Systems" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156398267769290805/prehome_logo.png?ex=6514d34f&is=651381cf&hm=99679e016c62340820e02d0f4a0272cc7ea22fabd21826772b4f482e41251ceb&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.iberdrola.com"><img width="100px" alt="Iberdrola" title="Iberdrola" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156396481696251984/Logo-Iberdrola-600x338.png?ex=6514d1a6&is=65138026&hm=e197ad7d2bfc1ad866a9f9ec46a9f2a50c152cc1359c7a7bdc05a74012a71a57&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.ceaje.es"><img width="80px" alt="Caeje" title="Caeje" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156389286262886501/kisspng.png?ex=6514caf2&is=65137972&hm=5da187702ad3407691b2c7f3e3b775891707fb1a151bc5a48123567006251da8&"/></a>
+</p>
+
 </details>
-
-
-<!-- FINAL QUIEN SOY -->
-
----
-## ZERHOCOOL-DEV / Projectos ⚙️
-<!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">THE-README</h3>
-        <br />
-        <a target="_blank" href="http://github.com/zerhocool">
-            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153725998873989130/readme.jpg" width="100%" alt="Github"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-<a target="_blank" href="http://github.com/zerhocool">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a target="_blank" href="http://github.com/zerhocool">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-      </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ARCH-LINUX</h3>
-        <br />
-      <a target="_blank" href="http://github.com/zerhocool">
-            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153732049040060446/linux2.jpg" width="100%"  alt="Arch Linux"/>
-        </a>
-        <br />
-        <p align="center">
-  <br>
-  <a href="http://github.com/zerhocool" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://github.com/zerhocool" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-  </td>
-  </tr>
-
-</table>
-
+<!-- FINAL LA EMPRESA  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- INICIO SOFTWARE -->
 <details>
@@ -241,16 +232,15 @@ Estabanell Impulsa S.a  | 💢 | ✔
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 </details>
-
+<!-- FINAL DE SOFTWARE  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL SOFTWARE -->
-<!-- INICIO CARPETAS -->
+<!-- INICIO MUSICA -->
 <details>
   <summary>
     <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092778107909455894/musica.png" width="300px">⠀</h2>
   </summary>
 
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="70">
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif?ex=6513bd23&is=65126ba3&hm=e748b35a87522331f68c871d01e394e4910c33d09b3514e75376f83b0cee46c9&" alt="Youtube" height="35">
 
 ## MUSICA QUE ME INSPIRA 📺
 <p align="center"><a href="https://www.youtube.com/watch?v=JZ-uoYrXLGw" target="blank"><img align="center" width="270px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155182225248231566/youtube.jpg"/>⠀</a>&nbsp;&nbsp;
@@ -265,11 +255,9 @@ Estabanell Impulsa S.a  | 💢 | ✔
   <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
 </p>
 
-
 </details>
-
+<!-- FINAL DE MUSICA  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL CARPETAS -->
 <!-- INICIO ANALITICA -->
 <details>
   <summary>
@@ -288,9 +276,12 @@ Estabanell Impulsa S.a  | 💢 | ✔
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zerhocool" style="height: 180px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=zerhocool&margin-w=15" style="height: 180px"  />
 </div>
 
+<p align="center">
+• ━━━━━ ◦ ❖ ◦ ━━━━━ •
+</p>
 
 <h3>⚡ Metricas WakaTime</h3>
 
@@ -381,9 +372,8 @@ MDX                      1 repo              ██████░░░░░�
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </details>
-
+<!-- FINAL DE ANALITICA  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL ANALITICA -->
 <!-- INICIO CONTACTO -->
 <details>
   <summary>
@@ -394,21 +384,30 @@ MDX                      1 repo              ██████░░░░░�
 
 ### Resuelva sus inquietudes sobre los productos, las ventas, el soporte, la capacitación, los servicios y otros temas.
 
-### ✔ Estos son los unicos medios de contacto
-
-### ✔ Nuestros servicios estan expresados en Euros 
-
-### ✔ Presupuesto personalizado SIN CARGO ⭐
-
-
-### ⭐ Ubicacion 1: España. Barcelona, Girona - CP: 17458
-
-### ⭐ Ubicacion 2: Estonia, Tallin, Condado de Harju - CP: 10111
-
-<br/>
+### Soporte y Area Tecnica:<a href="#"><img width="50px" alt="Soporte" title="Urgencias" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097374479858028714/tool.png"/></a>
 
 <p align="center">
-    <a href="https://github.com/zerhocool"><img width="90px" alt="Github" title="https://github.com/zerhocool" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914843194208296/medal-dynamic-premium.png"/></a>
+    <a href="https://t.me/zehocool" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="mailto:zerhocoolg@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-8B89CC?logo=gmail&style=for-the-badge&logoColor=white" alt="Bradge Gmail" />
+    </a>
+</p>
+
+### Información de zona horaria:<a href="#"><img width="50px" alt="Horario" title="Zona horaria" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373229041057943/flash.png"/></a>
+- Madrid UTC +2 Central European Summer Time. 
+- Estonia UTC +3 Eastern European Summer Time. 
+- Horario de atencion: 10:00 a 17:00 / 10:00 AM - 05:00 PM.
+
+### Ubicacion:<a href="#"><img width="50px" alt="Ubicacion" title="España, Barcelona, Girona y Estonia, Tallin, Condado de Harju." src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
+- España. Barcelona, Girona - CP: 17458
+- Estonia, Tallin, Condado de Harju - CP: 10111
+
+### Estos son los unicos medios de contacto:<a href="#"><img width="50px" alt="Contacto" title="Contacto" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373228814581830/pencil.png"/></a>
+
+<p align="center">
+  <a href="https://github.com/zerhocool"><img width="90px" alt="Github" title="https://github.com/zerhocool" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914843194208296/medal-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/zerhocool" alt="Telegram" title="https://t.me/zerhocool"><img width="90px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089912839168344166/chat-text-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -416,16 +415,13 @@ MDX                      1 repo              ██████░░░░░�
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="zerhocool@gmail.com"><img width="90px" alt="Email" title="zerhocool@gmail.com" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089911296188743780/at-dynamic-premium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="90px" alt="Ubicacion" title="España, Barcelona, Girona y Estonia, Tallin, Condado de Harju." src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
-
 </p>
 
 <br/>
 
 </details>
-
+<!-- FINAL DE CONTACTO  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
-<!-- FINAL CONTACTO -->
 <!-- INICIO CREDITOS -->
 <details>
   <summary>
@@ -438,50 +434,92 @@ MDX                      1 repo              ██████░░░░░�
 
 ### ⋙ ‖ 🚨 ‖ No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
 
-### ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
+- ✔ Darme créditos cuando estés utilizando este README, añadiendo un link a este repositorio ⭐
 
-### ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
+- ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
 
 <p><a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=Sigueme!" alt="Button Component"></a></p>
 
----
+<p align="center">
+• ━━━━━ ◦ ❖ ◦ ━━━━━ •
+</p>
 
-## 💰 Puedes ayudarme invitandome un cafe.
-<a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
- 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia. 
-
-- No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
+## 💰 FORMAS DE PAGO:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> Transferencia Bancaria:
- - Alias: DIBUJO.DRAGA.PRIMO
- - CBU:  0070067230004033073612
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia. 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> AstroPay:
- - BTC: 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+ EMPRESAS | METODO
+| :--- | ---
+✔ GalIcia Alias  | DIBUJO.DRAGA.PRIMO
+✔ Galicia CBU  | 0070067230004033073612
+💢💢💢💢💢 | 💢💢💢💢💢 
+✔ AstroPay BTC  | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
+
+## 💰 Puedes ayudarme invitandome un cafe.
+<a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 </details>
-
+<!-- FINAL DE CREDITOS  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
-
-<!-- FINAL CREDITOS -->
 <!-- INICIO FOOTER -->
 <footer>
 
-### Para un proyecto desarrollado por el equipo⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
+## ZERHOCOOL-DEV / Projectos ⚙️
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">THE-README</h3>
+        <br />
+        <a target="_blank" href="http://github.com/zerhocool">
+            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153725998873989130/readme.jpg" width="100%" alt="Github"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+<a target="_blank" href="http://github.com/zerhocool">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a target="_blank" href="http://github.com/zerhocool">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+      </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ARCH-LINUX</h3>
+        <br />
+      <a target="_blank" href="http://github.com/zerhocool">
+            <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153732049040060446/linux2.jpg" width="100%"  alt="Arch Linux"/>
+        </a>
+        <br />
+        <p align="center">
+  <br>
+  <a href="http://github.com/zerhocool" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://github.com/zerhocool" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+  </td>
+  </tr>
+
+</table>
+
+### Apoyamos esta causa⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
 
 <p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
 
 **Diseño y Desarrollo ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
 
-<br>
-
 **Copyrigh © 2022 ZERHO COOL OÜ, Empresa en Tallin, Estonia - Todos los derechos reservados.**
 
-<br>
+---
+
 <a href="https://info.flagcounter.com/FkyQ"><img src="https://s11.flagcounter.com/count2/FkyQ/bg_141306/txt_58D631/border_141306/columns_2/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <a href="https://github.com/zerhocool"></a>
@@ -492,9 +530,18 @@ MDX                      1 repo              ██████░░░░░�
 
 ---
 
-<a rel="license" href="https://www.gnu.org/"><img alt="License GNU General Public " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" />⠀⠀⠀⠀<img alt="License Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" /></a><br />Esta obra está bajo <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.html">License GNU General Public (GNU GPL v3.0).</a>
-<a rel="license" href="http://next.copyleft.org/pages/current-release.html">License Copyletf.</a>
-<a rel="license" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
+<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" />⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0)-</a>
+<a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Licencia Copyletf-</a>
+<a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.</a>
+
+<a rel="licencia" href="https://opensource.org//"><img alt="Open Source" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156244833363566716/os5.png?ex=6514446a&is=6512f2ea&hm=8e7ac1e9d3a95477e0c058cf8b83b9f98b9b84a87f6669c556673483d828c320&" width="100" />⠀⠀⠀<img alt="Clearly Licensed " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156319005875896411/ClearlyLicensed_color_h.png?ex=6514897e&is=651337fe&hm=e52082d0d4d77a6c6dfc4d0786a39a5d2db817ebd766a65b460f6f4cf975b8f0&" width="250" />⠀⠀⠀</a><br />Brindamos nuestro apoyo a: <a rel="licencia" href="https://opensource.org/programs/">Open Source Iniative-</a>
+<a rel="licencia" href="https://clearlydefined.io/about">Clearly Defined.</a>
+
+<p align="right">
+  <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156311180692951170/geotrust-trust-seal1.png?ex=65148234&is=651330b4&hm=d0a8894085f01ef224318775176625b2b644b0b254991f927576dade460c800f&" width="90" /></a>
+</p>
 
 ---
 
@@ -502,4 +549,6 @@ MDX                      1 repo              ██████░░░░░�
 <!-- FINAL FOOTER -->
 </body>
 </html>
+
+
 
