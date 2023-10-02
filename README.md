@@ -32,6 +32,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Developer+%F0%9F%91%8B+Full+Stack;Python,+Vue,+Javascript.;17+a%C3%B1os+de+experiencia.+%F0%9F%98%84;Encantado+de+Conocerte+!!!..." alt="Typing SVG" /></a>
 </p>
+
 <!-- FINAL TYPING  -->
 
 ---
@@ -51,12 +52,39 @@
     </a>
 </p>
 <!-- FINAL MENSAJE -->
+<p align="center">
+• ━━━━━ ◦ ❖ ◦ ━━━━━ •
+</p>
+<!-- INICIO IDIOMAS -->
+<p align="center">
+    <i>SELECIONA TU IDIOMA, PROXIMAMENTE</i>⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089905211759411240/lock-dynamic-premium.png?ex=651c1853&is=651ac6d3&hm=35e01c756f94ba867c1d2c75622f744d79d3404710de4c7bc6c7a9811eab7b4f&" width="40px">
+    <br/><br/>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/es.png" srcset="https://flagcdn.com/48x36/es.png 2x,
+    https://flagcdn.com/72x54/es.png 3x" width="24" height="18" alt="España"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/ad.png" srcset="https://flagcdn.com/48x36/ad.png 2x,
+    https://flagcdn.com/72x54/ad.png 3x" width="24" height="18" alt="Andorra"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/us.png" srcset="https://flagcdn.com/48x36/us.png 2x,
+    https://flagcdn.com/72x54/us.png 3x" width="24" height="18" alt="Estados Unidos"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/fr.png" srcset="https://flagcdn.com/48x36/fr.png 2x,
+    https://flagcdn.com/72x54/fr.png 3x" width="24" height="18" alt="Francia"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/br.png" srcset="https://flagcdn.com/48x36/br.png 2x,
+    https://flagcdn.com/72x54/br.png 3x" width="24" height="18" alt="Brasil"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/pl.png" srcset="https://flagcdn.com/48x36/pl.png 2x,
+    https://flagcdn.com/72x54/pl.png 3x" width="24" height="18" alt="Polonia"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/pt.png" srcset="https://flagcdn.com/48x36/pt.png 2x,
+    https://flagcdn.com/72x54/pt.png 3x" width="24" height="18" alt="Portugal"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/ru.png" srcset="https://flagcdn.com/48x36/ru.png 2x,
+    https://flagcdn.com/72x54/ru.png 3x" width="24" height="18" alt="Rusia"></a>
+    <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/ua.png" srcset="https://flagcdn.com/48x36/ua.png 2x,
+    https://flagcdn.com/72x54/ua.png 3x" width="24" height="18" alt="Ucrania"></a>
+</p>
+<!-- FINAL IDIOMAS -->
 
 ---
 
 <!-- INICIO CONTADORES -->
 <p align="left">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia">⠀<a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia">⠀<a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>⠀<a href="https://app.codacy.com/gh/zerhocool/zerhocool/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/fa9fe8ec867842f5afd8e05d4de6ea36"/></a>
 </p>
 
 ### v2.0.0⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="35" height="35" />
@@ -103,7 +131,7 @@
 
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
-### Mas datos: 🚀
+### EXTRAS: 🚀
 
 #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI / Windows 10 Pro.
 
@@ -137,7 +165,7 @@
 
 ### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia, definido por la ciencia, el espacio y la sociedad.!⠀
 
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156366497317392425/grafico.jpg?ex=6514b5b9&is=65136439&hm=c09768746ad411bc01a1ffcd41900cb141c738f6b093d878ac01ed6dafd10ce6&">
+<img align="left" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156366497317392425/grafico.jpg?ex=6514b5b9&is=65136439&hm=c09768746ad411bc01a1ffcd41900cb141c738f6b093d878ac01ed6dafd10ce6&">
 
 ## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
 
@@ -255,6 +283,9 @@
 
 ### ULTIMOS LANZAMIENTOS 📺
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="190px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
@@ -282,7 +313,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zerhocool&margin-w=15" style="height: 180px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=zerhocool&margin-w=15" style="height: 200px"  />
 </div>
 
 <p align="center">
@@ -524,9 +555,7 @@ Last Updated on 27/09/2023 01:04:26 UTC
 
 <p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
 
-**Diseño y Desarrollo ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados.**
-
-**Copyrigh © 2022 ZERHO COOL OÜ, Empresa en Tallin, Estonia - Todos los derechos reservados.**
+**Diseño y Desarrollo ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados - Empresa en Tallin, Estonia.**
 
 ---
 
@@ -540,14 +569,13 @@ Last Updated on 27/09/2023 01:04:26 UTC
 
 ---
 
-<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092463443912708116/copyleftorg-green-stylized.png" />⠀⠀⠀⠀<img alt="Licencia Copyleft " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0)-</a>
-<a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Licencia Copyletf-</a>
+<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.</a>
-
-<a rel="licencia" href="https://opensource.org//"><img alt="Open Source" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156244833363566716/os5.png?ex=6514446a&is=6512f2ea&hm=8e7ac1e9d3a95477e0c058cf8b83b9f98b9b84a87f6669c556673483d828c320&" width="100" />⠀⠀⠀<img alt="Clearly Licensed " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156319005875896411/ClearlyLicensed_color_h.png?ex=6514897e&is=651337fe&hm=e52082d0d4d77a6c6dfc4d0786a39a5d2db817ebd766a65b460f6f4cf975b8f0&" width="250" />⠀⠀⠀</a><br />Brindamos nuestro apoyo a: <a rel="licencia" href="https://opensource.org/programs/">Open Source Iniative-</a>
-<a rel="licencia" href="https://clearlydefined.io/about">Clearly Defined.</a>
+<a rel="licencia" href="https://communityovercode.org"><img alt="Community Over Code" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350356288815155/community_over_code_logo.png?ex=651b95c3&is=651a4443&hm=ea0dca0350c9b5540d7d16a0874103a16a294bc67ac65137cb9fe584965b0fc0&" width="170" /></a>⠀⠀<a rel="licencia" href="https://apache.org"><img alt="The Apache Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350357014433893/foundation.png?ex=651b95c3&is=651a4443&hm=97ec8daa593d750d4cf861ae73b7e8469d488dac620d28490d866575ea23646c&" width="170" /></a>⠀⠀<a rel="licencia" href="https://opensource.org"><img alt="Open Source Initiative" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417100893855794/osi_symbol_100X100_0.png?ex=651c2b7f&is=651ad9ff&hm=6641e26c6dd1193b517dbf2ed12d2a575b3d0505487ae540f38455f7be0884c4&" width="90" /></a>⠀⠀<a rel="licencia" href="https://www.fsf.org"><img alt="Free Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417103108440094/logo-new.png?ex=651c2b7f&is=651ad9ff&hm=80a58e2f28889eeaddd5d3d9a26cc8782b1e284f83bc96f456a83a70489edce6&" width="170" /> </a><br />Agradecemos a: <a rel="licencia" href="https://communityovercode.org">Community Over Code -</a>
+<a rel="licencia" href="https://apache.org">The Apache Software Foundation -</a>
+<a rel="licencia" href="https://opensource.org">Open Source Initiative -</a>
+<a rel="licencia" href="https://www.fsf.org">Free Software Foundation.</a>
 
 <p align="right">
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156311180692951170/geotrust-trust-seal1.png?ex=65148234&is=651330b4&hm=d0a8894085f01ef224318775176625b2b644b0b254991f927576dade460c800f&" width="90" /></a>
