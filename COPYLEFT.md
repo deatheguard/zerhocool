@@ -236,3 +236,5 @@ Jost font is copyright 2020 The Jost Project Authors, SIL Open Font License v1.1
 Tachyons CSS is copyright 2020 Adam Morse & John Otander, MIT License
 Velocity JS is copyright 2014 Julian Shapiro, MIT License
 Pelican is licensed under AGPL v3.0. (Sources)
+
+<a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" /></a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0).</a>

@@ -24,7 +24,7 @@
 
 ## HOLA BIENVENIDO A MI PERFIL⠀!!!.<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">
 
-<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092531363791503370/Banner_-ZERHO-1.png">
+<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1158863850930700398/Banner_-ZERHO-2-min.png?ex=651dcb90&is=651c7a10&hm=d2d314e3a384de8e29e4282a132d31db145042f95a8c8b14135a271e1539bd0e&">
 <!-- FINAL DE BANNER  -->
 
 <!-- INICIO TYPING  -->
@@ -98,7 +98,7 @@
 
 <!-- INICIO CONTADORES -->
 <p align="left">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia">⠀<a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>⠀<a href="https://app.codacy.com/gh/zerhocool/zerhocool/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/fa9fe8ec867842f5afd8e05d4de6ea36"/></a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>⠀<img alt="" src="https://img.shields.io/github/repo-size/zerhocool/zerhocool" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zerhocool/zerhocool" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/zerhocool/zerhocool" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/zerhocool/zerhocool" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/zerhocool/zerhocool" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/zerhocool/zerhocool" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/zerhocool/zerhocool" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/zerhocool/zerhocool" /> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="100">  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=main%20-%20OK" alt="Project Badge"><a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a> <a href="http://monip.org/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="Website monip.org"></a>⠀<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&amp;logoColor=white" alt="Conventional Commits" />⠀<img src="https://img.shields.io/badge/CI-GitHub_Actions-yellow?logo=github-actions&logoColor=white" alt="Made with GH Actions">⠀<img src="https://madewithlove.now.sh/es?heart=true&text=Espa%C3%B1a" alt="Made with love in">⠀<img src="https://madewithlove.now.sh/ee?heart=true&colorA=%23400000" alt="Made with love in Estonia">⠀<a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine"></a>⠀
 </p>
 <!-- FINAL DE CONTADORES -->
 
@@ -137,7 +137,7 @@
 
   <h3 align="left">📌- Siendo competente en el uso de herramientas de línea de comandos y secuencias de comandos en Arch Linux, Red Hat así como en la gestión de los recursos del sistema, la garantía de la seguridad y la estabilidad del servidor.</h3>
 
-  <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041596649642/devops-concept.jpg">
+  <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158883986282663996/dev-ops-min.png?ex=651dde51&is=651c8cd1&hm=bcb2866b407ecdc4f772692efb76325b2878dbcac1f8c25856a4d954a91b3ad5&">
 
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
@@ -151,12 +151,12 @@
 
 #### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
 
-#### 🕐 Idiomas: Aprendiendo Catalan.
+#### 🕐 Idiomas: Aprendiendo Catalan, Estonio y mejorando mi Ingles.
 
-#### 📗 Ultimo libro: El libro negro del programador.
+#### 📗 Ultimo libro: El libro negro del programador, El arte de la invisibilidad, Blue Team Handbook.
 
 <p align="center">
- <img align="center" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158556782667505764/hkr.jpg?ex=651cad95&is=651b5c15&hm=299585f1b925f89d5e304ff025f1279b0ee55cd6d05007514a33401cdf381df3&">
+ <img align="center" alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158883986693689515/actividad-min.png?ex=651dde51&is=651c8cd1&hm=57a1365fc1ff0f7f4185b81382e2a6c974ceb711ac4f47f288dd8ada4e14fedb&">
 </p>
 
 <!-- FINAL DE QUIEN SOY  -->
@@ -179,7 +179,7 @@
 
 ### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia, definido por la ciencia, el espacio y la sociedad.!⠀
 
-<img align="left" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156366497317392425/grafico.jpg?ex=6514b5b9&is=65136439&hm=c09768746ad411bc01a1ffcd41900cb141c738f6b093d878ac01ed6dafd10ce6&">
+<img align="left" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158863851236892802/Banner_-ZERHO-3-min.png?ex=651dcb90&is=651c7a10&hm=26d1af9959d7e2149d9929bc5b597d59339b5835124e1eddd19a88815ad4f698&">
 
 ## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
 
@@ -452,7 +452,7 @@ MDX                      1 repo              █████░░░░░░�
 ### Ubicacion:<a href="#"><img width="50px" alt="Ubicacion" title="España, Barcelona, Girona y Estonia, Tallin, Condado de Harju." src="https://cdn.discordapp.com/attachments/1072960128820715602/1090471555718467605/map-pin-dynamic-premium.png"/></a>
 
 - España. Barcelona, Girona - CP: 17458
-- Estonia, Tallin, Condado de Harju - CP: 10111
+- Estonia, Tallinn, Condado de Harju - CP: 10111
 
 ### Estos son los unicos medios de contacto:<a href="#"><img width="50px" alt="Contacto" title="Contacto" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373228814581830/pencil.png"/></a>
 
@@ -490,9 +490,7 @@ MDX                      1 repo              █████░░░░░░�
 
 <p><a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=Sigueme!" alt="Button Component"></a></p>
 
-<p align="center">
-• ━━━━━ ◦ ❖ ◦ ━━━━━ •
-</p>
+---
 
 ## 💰 FORMAS DE PAGO:
 
