@@ -142,7 +142,7 @@
 
   <h3 align="left">📌- Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.</h3>
 
-### EXTRAS: 🚀
+### EXTRAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" />
 
 #### 🖥️ Sistema Operativo: Arch Linux, teminal Xterm o eDEX-UI / Windows 10 Pro.
 
@@ -156,8 +156,34 @@
 
 #### 📗 Ultimo libro: El libro negro del programador, El arte de la invisibilidad, Blue Team Handbook.
 
+## INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
+
 <p align="center">
- <img align="center" alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158883986693689515/actividad-min.png?ex=651dde51&is=651c8cd1&hm=57a1365fc1ff0f7f4185b81382e2a6c974ceb711ac4f47f288dd8ada4e14fedb&">
+  <a href="#"><img width="80px" alt="Digital Ocean" title="Digital Ocean" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159051398160404/hack1-min.png?ex=651ede7d&is=651d8cfd&hm=7d86b30aed7b32fdacdd1172b84f4baa965f3f3e5230e5a9c5cd6b072e166761&g"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Hack level 1" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159051096162395/hack2-min.png?ex=651ede7d&is=651d8cfd&hm=57dde69a85dd94dc5d00a0b049f46be8519e7cfbb76a121aa33dd4775b521b4a&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Hack level 2" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159050680938518/hack3-min.png?ex=651ede7d&is=651d8cfd&hm=6788693d337d812b460d785858393389cdadc60206cc8e3f2e8be7b7359b055d&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Hack level 3" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159050387333140/hack4-min.png?ex=651ede7d&is=651d8cfd&hm=9de2aada5456ed1c1b57d65013e7e92b32bc268f6b86c9d3152322846973849d&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Hack level 4" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159050131472545/hack5-min.png?ex=651ede7d&is=651d8cfd&hm=4c24adcb6cf7d38cec18899d5e15fe9580d1714be8b56bfce7ca35a404ad80ce&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Participante 2022" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158912537346139/hack7-min.png?ex=651ede5c&is=651d8cdc&hm=6cf4aa795024c4bdee2e5dc558839d07b2e3d1c043d5c47c4f9bd9d26b880672&&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Appwrite Hacktoberfest 2023 " src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158911488770089/hack10-min.png?ex=651ede5c&is=651d8cdc&hm=a4714fcad245b799443b866430323ea66a0b6421ed5a97b0c6e8324c5aa0431d&&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="DigitalOcean Smiley" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910645710979/hack11-min.png?ex=651ede5c&is=651d8cdc&hm=24c70e3c8a18717ae15b55ea1ba2e5e08586779ca71a06bba7f8c7f9115e16f9&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="ILLA Hacktoberfest 2023 " src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158912256323726/hack8-min.png?ex=651ede5c&is=651d8cdc&hm=8cf5d0adf96cfc77a30c5f5c0b22d321ff6638ef8132251bc530448f005361ab&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Surfer Moby Dock" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158912969355314/hack6-min.png?ex=651ede5c&is=651d8cdc&hm=0cb12ffea34df78739356f031f653f892cfe4368eb09f178ae0fb3f11f61550d&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="80px" alt="Hack" title="Hacktoberfest 2023: Registered" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910230462474/hack12-min.png?ex=651ede5c&is=651d8cdc&hm=692c6fb6a33a131a6267853b5d37d1dd5c8288ae2ffd501c0164541ed1b6cf47&"/></a>
+</p>
+
+<p align="center">
+ <img align="center" alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158969415832969236/empezamos3-min.png?ex=651e2de1&is=651cdc61&hm=3693ce4fc41c43b3472da8aeb3b2b110ff02aa65ab0c0ef8a729bee58cb87226&">
 </p>
 
 <!-- FINAL DE QUIEN SOY  -->
@@ -325,9 +351,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=zerhocool&margin-w=15" style="height: 200px"  />
 </div>
 
-<p align="center">
-• ━━━━━ ◦ ❖ ◦ ━━━━━ •
-</p>
+---
 
 <h3>⚡ Metricas WakaTime</h3>
 
