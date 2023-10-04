@@ -54,12 +54,13 @@
 <!-- FINAL MENSAJE -->
 
 <!-- INICIO UCRANIA -->
+
 ## Apoyamos esta causa⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
 
 <p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg" alt="Stand With Ukraine"></a></p>
 <!-- FINAL UCRANIA -->
 
--------
+---
 
 <!-- INICIO IDIOMAS -->
 <p align="center">
@@ -185,7 +186,6 @@
 
 ### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.
 
-
 ### Estos son agunos de nuestros clientes:⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
 
 <p align="center">
@@ -294,7 +294,6 @@
 
 ### ULTIMOS LANZAMIENTOS 📺
 
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=bZRemXbO7kU" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/bZRemXbO7kU/maxresdefault.jpg"/></a>&nbsp;&nbsp;
@@ -334,85 +333,84 @@
 
 <!-- https://github.com/zerhocool -->
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125.8%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 38.3 kB Used in GitHub's Storage 
- > 
+> 📦 38.3 kB Used in GitHub's Storage
+>
 > 🏆 186 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 30 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-🌆 Daytime                75 commits          ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌃 Evening                80 commits          ██████████░░░░░░░░░░░░░░░   41.88 % 
-🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+🌆 Daytime                75 commits          ██████████░░░░░░░░░░░░░░░   39.27 %
+🌃 Evening                80 commits          ██████████░░░░░░░░░░░░░░░   41.88 %
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  83 commits          ███████████░░░░░░░░░░░░░░   43.46 % 
-Wednesday                47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Monday                   36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 %
+Tuesday                  83 commits          ███████████░░░░░░░░░░░░░░   43.46 %
+Wednesday                47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
-💬 Programming Languages: 
-Markdown                 24 hrs 1 min        ███████████████████░░░░░░   77.93 % 
-HTML                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Vue.js                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-XML                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+💬 Programming Languages:
+Markdown                 24 hrs 1 min        ███████████████████░░░░░░   77.93 %
+HTML                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Vue.js                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+XML                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 
-🔥 Editors: 
-VS Code                  30 hrs 49 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  30 hrs 49 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-zerhocool                15 hrs 49 mins      █████████████░░░░░░░░░░░░   51.33 % 
-PORFOLIO                 4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Andres                   4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-best-template            3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-vue3-master              2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🐱‍💻 Projects:
+zerhocool                15 hrs 49 mins      █████████████░░░░░░░░░░░░   51.33 %
+PORFOLIO                 4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Andres                   4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+best-template            3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+vue3-master              2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 
-💻 Operating System: 
-Windows                  30 hrs 49 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  30 hrs 49 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/zerhocool/zerhocool/main/assets/bar_graph.png)
 
+Last Updated on 03/10/2023 01:04:51 UTC
 
- Last Updated on 03/10/2023 01:04:51 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -502,7 +500,7 @@ MDX                      1 repo              █████░░░░░░�
 | :------- | ------------------------------------- |
 | ✔ Alias  | DIBUJO.DRAGA.PRIMO                    |
 | ✔ CBU    | 0070067230004033073612                |
-| 💢💢💢   | 💢💢💢💢💢                           |
+| 💢💢💢   | 💢💢💢💢💢                            |
 | ✔ BTC    | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20 |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
@@ -517,8 +515,7 @@ MDX                      1 repo              █████░░░░░░�
 <!-- INICIO FOOTER -->
 <footer>
 
-<p>Diseño y Desarrollo por ZERHO COOL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25"  height="25" /> v2.0.0 - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados - Empresa en Tallinn, Estonia. </p>
-
+<p>Diseño y Desarrollo por ZERHO COOL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25"  height="25" /> - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados - Empresa en Tallinn, Estonia. </p>
 
 <p><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092200247205298196/nsolid.png" alt="N|Solid"></p>
 
@@ -555,6 +552,3 @@ MDX                      1 repo              █████░░░░░░�
 <!-- FINAL FOOTER -->
 </body>
 </html>
-
-
-

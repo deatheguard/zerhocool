@@ -85,9 +85,9 @@ Pronto estaré fusionando tus cambios (haciendo _merge_) con la rama master de e
 - Licencia Copyleft Copyright (c) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
 - Licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional Copyright (c) 2023 Andres Antonio Cardoso <https://github.com/zerhocool>
 
-**Diseño y Desarrollo por ZERHO COOL - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados - Empresa en Tallinn, Estonia.**
-
 ---
+
+<p>Diseño y Desarrollo por ZERHO COOL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="25"  height="25" /> - Copyrigh © 1999-2023 ZERHO COOL - Todos los derechos reservados - Empresa en Tallinn, Estonia. </p>
 
 <a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
 <a rel="licencia" href="http://next.copyleft.org/pages/current-release.html">Software Freedom Conservancy.</a>
