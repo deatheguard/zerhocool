@@ -93,6 +93,7 @@
     <a href="https://github.com/zerhocool"><img src="https://flagcdn.com/24x18/me.png" srcset="https://flagcdn.com/48x36/me.png 2x,
     https://flagcdn.com/72x54/me.png 3x" width="24" height="18" alt="Montenegro"></a>
 </p>
+
 <!-- FINAL IDIOMAS -->
 
 ---
@@ -149,7 +150,7 @@
 
 #### 🌟 Frameworks preferido: Vue3 con Vite.
 
-#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía, Documentacion de Software, Prompt Engineering Y AI.
+#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía, Documentacion de Software, Prompt Engineering, AI.
 
 #### 🕐 Idiomas: Aprendiendo Catalan, Estonio y mejorando mi Ingles.
 
@@ -234,7 +235,7 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
 
-## Heramientas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="35" height="35" />
+## Herramientas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="35" height="35" />
 
 - Este es el software y herramientas que utilizo diariamente:
 - Lenguajes, Frameworks, Bases de datos y Cloud Hosting, etc.
@@ -420,7 +421,7 @@ Last Updated on 09/10/2023 01:04:28 UTC
 
 <details>
   <summary>
-    <h2>  METRICS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /></h2>
+    <h2>⠀METRICS⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /></h2>
   </summary>
   
   ![Metrics](https://metrics.lecoq.io/zerhocool?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&introduction=1&activity=1&people=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=America%2FArgentina%2FBuenos_Aires)
