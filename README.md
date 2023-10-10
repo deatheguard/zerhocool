@@ -149,7 +149,7 @@
 
 #### 🌟 Frameworks preferido: Vue3 con Vite.
 
-#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía y  Documentacion de Software.
+#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía y Documentacion de Software.
 
 #### 🕐 Idiomas: Aprendiendo Catalan, Estonio y mejorando mi Ingles.
 
@@ -331,8 +331,6 @@
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ---
 
 <h3>⚡ Metricas WakaTime</h3>
@@ -346,35 +344,35 @@
 
 **🐱 My GitHub Data**
 
-> 📦 38.5 kB Used in GitHub's Storage 
- > 
+> 📦 38.5 kB Used in GitHub's Storage
+>
 > 🏆 197 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 30 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-🌆 Daytime                77 commits          ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                81 commits          ██████████░░░░░░░░░░░░░░░   40.10 % 
-🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+🌆 Daytime                77 commits          ██████████░░░░░░░░░░░░░░░   38.12 %
+🌃 Evening                81 commits          ██████████░░░░░░░░░░░░░░░   40.10 %
+🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
 ```
 
 📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Tuesday                  86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
-Wednesday                55 commits          ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 %
+Tuesday                  86 commits          ███████████░░░░░░░░░░░░░░   42.57 %
+Wednesday                55 commits          ███████░░░░░░░░░░░░░░░░░░   27.23 %
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 📊 **This Week I Spent My Time On**
@@ -405,19 +403,22 @@ Windows                  15 hrs 39 mins      ███████████�
 **I Mostly Code in JavaScript**
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/zerhocool/zerhocool/main/assets/bar_graph.png)
 
- Last Updated on 09/10/2023 01:04:28 UTC
+Last Updated on 09/10/2023 01:04:28 UTC
+
 <!--END_SECTION:waka-->
 
 ---
+
+### METRICS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
 
 </details>
 <!-- FINAL DE ANALITICA  -->
@@ -531,7 +532,7 @@ MDX                      1 repo              █████░░░░░░�
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/zerhocool)
 
-- Traduccion realizada por: 
+- Traduccion realizada por:
 
 <a href="https://github.com/zerhocool/zerhocool/graphs/lowlighter/contributors">
   <img src="https://contrib.rocks/image?repo=zerhocool/zerhocool" />
