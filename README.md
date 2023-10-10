@@ -16,7 +16,7 @@
   <meta name="Resource-type" content="Index">
   <meta name="Revisit-after" content="1 days">
   <meta name="robots" content="all">
- 
+ <title>⠀</title>
 </head>
 <body>
 
@@ -114,24 +114,23 @@
 
 <br>
 
-### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España.
+### 👱 Hola, soy ZERHO COOL un Developer Full Stack y Diseñador Grafico, desde España al mundo.
 
-### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.⠀<img src="https://cdn.discordapp.com/attachments/1072960128820715602/1153785857707356230/Red-Hat-Logo2.png" alt="Bullseye" width="90" height="30" />
+### 🎓 Soy un colaborador en el equipo de Developer Sandbox para Red Hat OpenShift !!!.
 
- <h3 align="left">📌- Funde mi propia empresa, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
+ <h3 align="left">📌- Funde mi propia empresa ZERHO COOL, me especializo en Python, Javascript, Vue, Kali, etc. con 17 años de experiencia. Actualmente con repositorios privados en otras plataformas, los cuales estoy migrando a GitHub.</h3>
 
-<p align="center">
+### PREFERENCIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Old%20Key.webp" alt="Old Key" width="35" height="35" />
+
+ <p align="center">
   <a href="#"><img width="60px" alt="Python" title="Python" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350340120616/python.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="60px" alt="Vue" title="Vue" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346350088454224/vue.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="Github" title="Github" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153346349841002537/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="60px" alt="GitLab" title="GitLab Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883041965744178/pngwing.com4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="60px" alt="GitKraken" title="GitKraken" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155883042599088149/pngwing.com2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="60px" alt="VS Code" title="VS Code" src="https://cdn.discordapp.com/attachments/1072960128820715602/1153380520365928508/vsc.png"/></a>
 </p>
 
   <h3 align="left">📌- Me gusta resolver problemas de diseño, crear interfaces de usuario inteligentes e imaginar interacciones utiles, desarrollando experiencias y aplicaciones web ricas.</h3>
@@ -150,13 +149,13 @@
 
 #### 🌟 Frameworks preferido: Vue3 con Vite.
 
-#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía.
+#### 🍸 Intereses: DevOps, Protocolos de Comunicación, Seguridad informática, Criptografía y  Documentacion de Software.
 
 #### 🕐 Idiomas: Aprendiendo Catalan, Estonio y mejorando mi Ingles.
 
 #### 📗 Ultimo libro: El libro negro del programador, El arte de la invisibilidad, Blue Team Handbook.
 
-## INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
+### INSIGNIAS: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="35" height="35" />
 
 <p align="center">
   <a href="#"><img width="80px" alt="Digital Ocean" title="Digital Ocean" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159159051398160404/hack1-min.png?ex=651ede7d&is=651d8cfd&hm=7d86b30aed7b32fdacdd1172b84f4baa965f3f3e5230e5a9c5cd6b072e166761&g"/></a>
@@ -173,17 +172,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="80px" alt="Hack" title="Appwrite Hacktoberfest 2023 " src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158911488770089/hack10-min.png?ex=651ede5c&is=651d8cdc&hm=a4714fcad245b799443b866430323ea66a0b6421ed5a97b0c6e8324c5aa0431d&&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="Hack" title="DigitalOcean Smiley" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910645710979/hack11-min.png?ex=651ede5c&is=651d8cdc&hm=24c70e3c8a18717ae15b55ea1ba2e5e08586779ca71a06bba7f8c7f9115e16f9&"/></a>
+  <a href="#"><img width="80px" alt="Hack" title="Hacktoberfest 2023: Registered" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910230462474/hack12-min.png?ex=651ede5c&is=651d8cdc&hm=692c6fb6a33a131a6267853b5d37d1dd5c8288ae2ffd501c0164541ed1b6cf47&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="80px" alt="Hack" title="ILLA Hacktoberfest 2023 " src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158912256323726/hack8-min.png?ex=651ede5c&is=651d8cdc&hm=8cf5d0adf96cfc77a30c5f5c0b22d321ff6638ef8132251bc530448f005361ab&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="80px" alt="Hack" title="Surfer Moby Dock" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158912969355314/hack6-min.png?ex=651ede5c&is=651d8cdc&hm=0cb12ffea34df78739356f031f653f892cfe4368eb09f178ae0fb3f11f61550d&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="80px" alt="Hack" title="Hacktoberfest 2023: Registered" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910230462474/hack12-min.png?ex=651ede5c&is=651d8cdc&hm=692c6fb6a33a131a6267853b5d37d1dd5c8288ae2ffd501c0164541ed1b6cf47&"/></a>
-</p>
-
-<p align="center">
- <img align="center" alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158969415832969236/empezamos3-min.png?ex=651e2de1&is=651cdc61&hm=3693ce4fc41c43b3472da8aeb3b2b110ff02aa65ab0c0ef8a729bee58cb87226&">
+  <a href="#"><img width="80px" alt="Hack" title="DigitalOcean Smiley" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910645710979/hack11-min.png?ex=653001dc&is=651d8cdc&hm=30f1cfa7e5634ebb99dd69898793a00ea85e5ef4bc56434fad26c2dfee4ed807&"/></a>
 </p>
 
 <!-- FINAL DE QUIEN SOY  -->
@@ -198,7 +193,7 @@
 
 ## ZERHO COOL es un estudio creativo que da forma a las marcas del mañana.
 
-### 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos Codigo y Diseño.
+### 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico.
 
 ## Construyendo simbiosis visual en una industria fragmentada.
 
@@ -206,27 +201,26 @@
 
 ### 📌- Todo lo que hacemos está profundamente arraigado en la cultura visual contemporánea y proviene de un claro punto de referencia, definido por la ciencia, el espacio y la sociedad.!⠀
 
-<img align="left" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158863851236892802/Banner_-ZERHO-3-min.png?ex=651dcb90&is=651c7a10&hm=26d1af9959d7e2149d9929bc5b597d59339b5835124e1eddd19a88815ad4f698&">
+<img align="left" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158863851236892802/Banner_-ZERHO-3-min.png?ex=651dcb90&is=651c7a10&hm=26d1af9959d7e2149d9929bc5b597d59339b5835124e1eddd19a88815ad4f698&">
 
 ## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
 
 ### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.
 
-### Estos son agunos de nuestros clientes:⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
+### Estos son algunos de nuestros clientes:⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="35" height="35" />
 
 <p align="center">
-  <a href="https://www.spaincares.com"><img width="100px" alt="Spain Cares" title="Spain Cares" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156388273044852806/saoj.png?ex=6514ca00&is=65137880&hm=2487eb6f23e16a6e34f6073873192461823ad9c4afc2d562ebd228faec561052&"/></a>
+  <a href="https://www.spaincares.com"><img width="160px" alt="Spain Cares" title="Spain Cares" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156388273044852806/saoj.png?ex=6514ca00&is=65137880&hm=2487eb6f23e16a6e34f6073873192461823ad9c4afc2d562ebd228faec561052&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://aspidcars.com"><img width="100px" alt="Aspid Cars" title="Aspid Cars" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156394930202214451/logo-IFR-Aspid.png?ex=6514d034&is=65137eb4&hm=af7c48c94422e1221cfac07b1085297b305e7e435b283b7f4216d3cb3ccc96ab&"/></a>
+  <a href="https://aspidcars.com"><img width="160px" alt="Aspid Cars" title="Aspid Cars" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156394930202214451/logo-IFR-Aspid.png?ex=6514d034&is=65137eb4&hm=af7c48c94422e1221cfac07b1085297b305e7e435b283b7f4216d3cb3ccc96ab&"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bcncl.es"><img width="100px" alt="Bcncl" title="Bcncl" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156397257877356655/bcl-barcelona-catalunya-centre-l.png?ex=6514d25f&is=651380df&hm=a9a8e159ad69dd01cd0ef025b3bef119a287702634c1773747dd76f03b0d1756&"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.barcelonahousingsystems.com/"><img width="100px" alt="Barcelona Housing Systems" title="Barcelona Housing Systems" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156398267769290805/prehome_logo.png?ex=6514d34f&is=651381cf&hm=99679e016c62340820e02d0f4a0272cc7ea22fabd21826772b4f482e41251ceb&"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.iberdrola.com"><img width="100px" alt="Iberdrola" title="Iberdrola" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156396481696251984/Logo-Iberdrola-600x338.png?ex=6514d1a6&is=65138026&hm=e197ad7d2bfc1ad866a9f9ec46a9f2a50c152cc1359c7a7bdc05a74012a71a57&"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.ceaje.es"><img width="80px" alt="Caeje" title="Caeje" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156389286262886501/kisspng.png?ex=6514caf2&is=65137972&hm=5da187702ad3407691b2c7f3e3b775891707fb1a151bc5a48123567006251da8&"/></a>
 </p>
+
+<p align="center">
+  <img  alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161362394711335072/reglas3.png?ex=65380603&is=65259103&hm=e340ff3416aabe09c1e5580e7ed41795550952106acfc860bf8cd48be123728d&">
+</p>
+
+- Gracias por ser parte de este equipo.
 
 </details>
 <!-- FINAL LA EMPRESA  -->
@@ -240,67 +234,17 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
   width="50px">
 
-## Programacion y Marcado de Lenguaje.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="35" height="35"/>
+## Heramientas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="35" height="35" />
 
-<p>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-  <img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+- Este es el software y herramientas que utilizo diariamente:
+- Lenguajes, Frameworks, Bases de datos y Cloud Hosting, etc.
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,ts,java,markdown,nodejs,latex,postman,php,svg,flask,vue,vite,nextjs,symfony,svelte,heroku,mongodb,mysql,postgresql,vercel,jest,docker,aws,ps,ai,pr,ae,linux,git,github,githubactions,gitlab,vscode" />
+  </a>
 </p>
 
-## Frameworks y Librerias.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" />
-
-<p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
-  <img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white">
-  <img alt="Praw" src="https://custom-icon-badges.demolab.com/badge/Praw-ff3c0c.svg?logo=praw">
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white">
-</p>
-
-## Bases de datos y Cloud Hosting.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="35" height="35" />
-
-<p>
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
-  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
-  <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white">
-  <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-</p>
-
-## Software.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="35" height="35" />
-
-<p>
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
-  <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white">
-  <img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-</p>
 </details>
 <!-- FINAL DE SOFTWARE  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
@@ -312,13 +256,33 @@
 
 <img src="https://cdn.discordapp.com/attachments/1072960128820715602/1089601406903795874/youtube.gif?ex=6513bd23&is=65126ba3&hm=e748b35a87522331f68c871d01e394e4910c33d09b3514e75376f83b0cee46c9&" alt="Youtube" height="35">
 
-## MUSICA QUE ME INSPIRA 📺
+## MUSICA QUE ME INSPIRA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="35" height="35" />
 
-<p align="center"><a href="https://www.youtube.com/watch?v=JZ-uoYrXLGw" target="blank"><img align="center" width="120px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1155182225248231566/youtube.jpg"/>⠀</a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="120px" src="https://i.ytimg.com/vi/KoT6vkb5W90/maxresdefault_live.jpg"/>⠀</a>&nbsp;&nbsp;
+- Sin musica no puedo trabajar 📺 !!!
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JZ-uoYrXLGw" target="blank"><img align="center" width="300px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161242464389177384/musica1.jpg?ex=65379652&is=65252152&hm=95204e40399a9cf5fb7acb246f36a88b19cf5f6247ffab753b152e5a837bfe3d&"/>⠀</a>&nbsp;&nbsp;
+  <br> 
+  
+  <a href="https://www.youtube.com/watch?v=KoT6vkb5W90" target="blank"><img align="center" width="300px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161243361466929222/musica2.jpg?ex=65379728&is=65252228&hm=db96a5d92884c4cccb869f07157c8ccb9d09fe63126f683dd97826e611fc8ac4&"/>⠀</a>&nbsp;&nbsp;
 </p>
 
-### ULTIMOS LANZAMIENTOS 📺
+<p align="center"><a href="https://www.youtube.com/watch?v=QbPN_Xs-efY&t=6319s" target="blank"><img align="center" width="300px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161241194907586612/musica3.jpg?ex=65379523&is=65252023&hm=a8625fc53e0e6ca84a2473dfb058b158bfb25d35a53dea65bc040109482f542f&"/>⠀</a>&nbsp;&nbsp;
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=LWBRJP0s0gE" target="blank"><img align="center" width="300px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161244444935335936/musica4.jpg?ex=6537982a&is=6525232a&hm=57bfdf23c0f9e18ecf392ad6fdd1b89c20b8c86f58789b876edc492225c84484&"/>⠀</a>&nbsp;&nbsp;
+  <br>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eCs8LT290a4" target="blank"><img align="center" width="300px" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161245376502825050/musica5.jpg?ex=65379908&is=65252408&hm=252f6b687ed8be96ba6ceb31f7bb327df0623d8725893ebfac21baf8c6ccfc19&"/>⠀</a>&nbsp;&nbsp;
+  <br> 
+</p>
+
+### ULTIMOS LANZAMIENTOS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Mirror%20Ball.webp" alt="Mirror Ball" width="35" height="35" />
+
+- Lista Coder 03 📺
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eUAd5f936Yg" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/eUAd5f936Yg/maxresdefault.jpg"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YmFasIFdQ2c" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/YmFasIFdQ2c/maxresdefault_live.jpg"/></a>&nbsp;&nbsp;
@@ -326,6 +290,20 @@
   <a href="https://www.youtube.com/watch?v=rSc_K7KjEGo" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/rSc_K7KjEGo/maxresdefault.jpg"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=YHDansdSzrE" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/YHDansdSzrE/maxresdefault.jpg"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=MNLfCH6WsAU" target="blank"><img align="center" width="80px" src="https://i.ytimg.com/vi/ClB8vbPivDU/hqdefault.jpg"/></a>&nbsp;&nbsp;
+</p>
+<br>
+
+### CANALES: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="35" height="35" />
+
+ <p align="center">
+  <a href="#"><img width="60px" alt="Ru Deep Vibes" title="Ru Deep Vibes" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161259020611485806/canal1.jpg?ex=6537a5bd&is=652530bd&hm=d1ca59e5a25599f40a2adcfbcbea473287f54b8b52fb00451eb718032f1ffdba&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="Deep Viral" title="Deep Viral" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161259811502039080/canal2.jpg?ex=6537a67a&is=6525317a&hm=cbebd8418b1e8e8c02ff7ae62418381446b7908935c143ba9798cbfb8af6b05d&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="Legend Music - Música Electrónica " title="Legend Music - Música Electrónica" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161260516774269038/canal3.jpg?ex=6537a722&is=65253222&hm=1b8141d8ef5ad86cfa538a02a37d0fdd3be5730a9afb5d3f3f2f5911522de5e6&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="60px" alt="FilFar" title="FilFar" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161261303759908874/canal4.jpg?ex=6537a7de&is=652532de&hm=3196e76ec664ad574cd4b318bd0e2f6b3daf5b44a0f879d88919d6fb6fad91ec&"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 </details>
@@ -344,12 +322,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2 align="left">🎀 Premios</h2>
+  <h2 align="left">🎀 Contribucion</h2>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zerhocool&margin-w=15" style="height: 200px"  />
+  <p><a href="https://github.com/zerhocool"><img src="https://github-contribution-stats.vercel.app/api/?username=zerhocool" alt="Contribution Stats"></a></p>
 </div>
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -357,89 +339,86 @@
 
 <!-- https://github.com/zerhocool -->
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125.8%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 38.5 kB Used in GitHub's Storage 
- > 
+> 📦 38.5 kB Used in GitHub's Storage
+>
 > 🏆 197 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 30 Public Repositories
+>
+> 🔑 1 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-🌆 Daytime                77 commits          ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                81 commits          ██████████░░░░░░░░░░░░░░░   40.10 % 
-🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+🌆 Daytime                77 commits          ██████████░░░░░░░░░░░░░░░   38.12 %
+🌃 Evening                81 commits          ██████████░░░░░░░░░░░░░░░   40.10 %
+🌙 Night                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Tuesday                  86 commits          ███████████░░░░░░░░░░░░░░   42.57 % 
-Wednesday                55 commits          ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 %
+Tuesday                  86 commits          ███████████░░░░░░░░░░░░░░   42.57 %
+Wednesday                55 commits          ███████░░░░░░░░░░░░░░░░░░   27.23 %
+Thursday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
-💬 Programming Languages: 
-Markdown                 14 hrs 33 mins      ███████████████████████░░   93.03 % 
-XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+💬 Programming Languages:
+Markdown                 14 hrs 33 mins      ███████████████████████░░   93.03 %
+XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 
-🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  15 hrs 39 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-zerhocool                10 hrs 29 mins      █████████████████░░░░░░░░   66.99 % 
-best-template            3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Andres                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-PORFOLIO                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+🐱‍💻 Projects:
+zerhocool                10 hrs 29 mins      █████████████████░░░░░░░░   66.99 %
+best-template            3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+Andres                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+PORFOLIO                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 
-💻 Operating System: 
-Windows                  15 hrs 39 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  15 hrs 39 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 %
+MDX                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/zerhocool/zerhocool/main/assets/bar_graph.png)
 
+Last Updated on 09/10/2023 01:04:28 UTC
 
- Last Updated on 09/10/2023 01:04:28 UTC
 <!--END_SECTION:waka-->
 
 ---
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </details>
 <!-- FINAL DE ANALITICA  -->
@@ -476,7 +455,7 @@ MDX                      1 repo              █████░░░░░░�
 - España. Barcelona, Girona - CP: 17458
 - Estonia, Tallinn, Condado de Harju - CP: 10111
 
-### Estos son los unicos medios de contacto:<a href="#"><img width="50px" alt="Contacto" title="Contacto" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373228814581830/pencil.png"/></a>
+### Contacto:<a href="#"><img width="50px" alt="Contacto" title="Contacto" src="https://cdn.discordapp.com/attachments/1072960128820715602/1097373228814581830/pencil.png"/></a>
 
 <p align="center">
   <a href="https://github.com/zerhocool"><img width="90px" alt="Github" title="https://github.com/zerhocool" src="https://cdn.discordapp.com/attachments/1072960128820715602/1089914843194208296/medal-dynamic-premium.png"/></a>
@@ -553,6 +532,12 @@ MDX                      1 repo              █████░░░░░░�
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Gracias+Por+Visitar+Mi+Perfil+!!!...)](https://github.com/zerhocool)
 
+- Traduccion realizada por: 
+
+<a href="https://github.com/zerhocool/zerhocool/graphs/lowlighter/contributors">
+  <img src="https://contrib.rocks/image?repo=zerhocool/zerhocool" />
+</a>
+
 ---
 
 <a rel="licencia" href="https://www.gnu.org/"><img alt="Licencia GNU General Publica " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092305619681300520/gplv3-with-text-136x68.png" />⠀⠀⠀⠀<img alt="Software Freedom Conservancy " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1092474752779694181/conservancy-header.png" />⠀⠀⠀⠀⠀</a><br />Esta obra está bajo <a rel="licencia" href="https://www.gnu.org/licenses/gpl-3.0.html">Licencia GNU General Publica (GNU GPL v3.0) -</a>
@@ -560,11 +545,12 @@ MDX                      1 repo              █████░░░░░░�
 
 <br>
 
-<a rel="licencia" href="https://communityovercode.org"><img alt="Community Over Code" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350356288815155/community_over_code_logo.png?ex=651b95c3&is=651a4443&hm=ea0dca0350c9b5540d7d16a0874103a16a294bc67ac65137cb9fe584965b0fc0&" width="170" /></a>⠀⠀<a rel="licencia" href="https://apache.org"><img alt="The Apache Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350357014433893/foundation.png?ex=651b95c3&is=651a4443&hm=97ec8daa593d750d4cf861ae73b7e8469d488dac620d28490d866575ea23646c&" width="170" /></a>⠀⠀<a rel="licencia" href="https://opensource.org"><img alt="Open Source Initiative" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417100893855794/osi_symbol_100X100_0.png?ex=651c2b7f&is=651ad9ff&hm=6641e26c6dd1193b517dbf2ed12d2a575b3d0505487ae540f38455f7be0884c4&" width="90" /></a>⠀⠀<a rel="licencia" href="https://www.fsf.org"><img alt="Free Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417103108440094/logo-new.png?ex=651c2b7f&is=651ad9ff&hm=80a58e2f28889eeaddd5d3d9a26cc8782b1e284f83bc96f456a83a70489edce6&" width="170" /> </a>⠀⠀<a rel="licencia" href="https://valitsus.ee/en"><img alt="Republic of Estonia" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158609181432102994/DNsFQSSVQAIemTm.png?ex=651cde62&is=651b8ce2&hm=85155fe04d5e471649259f14cf2d6814ed94c11d1e3355c9a65de250487c699c&" width="90" /> </a><br/>Agradecemos a: <a rel="licencia" href="https://communityovercode.org">Community Over Code -</a>
+<img alt="Community Over Code" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350356288815155/community_over_code_logo.png?ex=651b95c3&is=651a4443&hm=ea0dca0350c9b5540d7d16a0874103a16a294bc67ac65137cb9fe584965b0fc0&" width="170" />⠀⠀<img alt="The Apache Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1157350357014433893/foundation.png?ex=651b95c3&is=651a4443&hm=97ec8daa593d750d4cf861ae73b7e8469d488dac620d28490d866575ea23646c&" width="170" />⠀⠀<img alt="Open Source Initiative" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417100893855794/osi_symbol_100X100_0.png?ex=651c2b7f&is=651ad9ff&hm=6641e26c6dd1193b517dbf2ed12d2a575b3d0505487ae540f38455f7be0884c4&" width="90" />⠀⠀<img alt="Free Software Foundation" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158417103108440094/logo-new.png?ex=651c2b7f&is=651ad9ff&hm=80a58e2f28889eeaddd5d3d9a26cc8782b1e284f83bc96f456a83a70489edce6&" width="170" />⠀⠀<img alt="Republic of Estonia" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158609181432102994/DNsFQSSVQAIemTm.png?ex=651cde62&is=651b8ce2&hm=85155fe04d5e471649259f14cf2d6814ed94c11d1e3355c9a65de250487c699c&" width="90" />⠀⠀<img alt="Gobierno de España" style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161367363841695754/Logo-maetd-min.png?ex=65380aa4&is=652595a4&hm=83a73361c8cfaddcda7e90fe60c8bb591ad5592e6adf1380f26e425fd7df8ed0&" width="200" /><br/>Agradecemos a: <a rel="licencia" href="https://communityovercode.org">Community Over Code -</a>
 <a rel="licencia" href="https://apache.org">The Apache Software Foundation -</a>
 <a rel="licencia" href="https://opensource.org">Open Source Initiative -</a>
 <a rel="licencia" href="https://www.fsf.org">Free Software Foundation -</a>
-<a rel="licencia" href="https://www.fsf.org">Republic of Estonia.</a>
+<a rel="licencia" href="https://valitsus.ee/en">Republic of Estonia -</a>
+<a rel="licencia" href="https://www.red.es/es/iniciativas/proyectos/kit-digital">Gobierno de España y Red.es.</a>
 
 <p align="right">
   <a rel="licencia" href="https://www.geocerts.com/geotrust/geotrust-ov-wildcard-ssl"><img alt="Open Source " style="border-width:0" src="https://cdn.discordapp.com/attachments/1072960128820715602/1156311180692951170/geotrust-trust-seal1.png?ex=65148234&is=651330b4&hm=d0a8894085f01ef224318775176625b2b644b0b254991f927576dade460c800f&" width="90" /></a>
