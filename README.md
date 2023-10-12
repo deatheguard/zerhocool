@@ -106,8 +106,30 @@
 
 ---
 
+## RESUMEN <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="130" height="130" />
+</p>
+
+## " No hagas lo que los demás hacen, HAZ lo que los demás quisieran hacer y no se atreven. "
+
+<p align="center">
+  <img width="60px" alt="Flag Spain" title="Flag Spain" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="60px" alt="Flag Estonia" title="Flag Estonia" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Estonia.webp"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<img src="./metrics/metrics4.svg" width="800" />
+
+<img src="https://i.imgur.com/BsT3Qux.gif">
+
 <!-- INICIO QUIEN SOY -->
-<h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092767687417024512/sobremi2.png" width="300px">⠀</h2>
+<details>
+    <summary>
+         <h2><img src="https://cdn.discordapp.com/attachments/1072960128820715602/1092767687417024512/sobremi2.png" width="300px">⠀</h2>
+      </summary>
 
 ## QUIEN SOY !!!.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="35" height="35" />
 
@@ -182,6 +204,8 @@
   <a href="#"><img width="80px" alt="Hack" title="DigitalOcean Smiley" src="https://cdn.discordapp.com/attachments/1072960128820715602/1159158910645710979/hack11-min.png?ex=653001dc&is=651d8cdc&hm=30f1cfa7e5634ebb99dd69898793a00ea85e5ef4bc56434fad26c2dfee4ed807&"/></a>
 </p>
 
+</details>
+
 <!-- FINAL DE QUIEN SOY  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
 <!-- INICIO LA EMPRESA  -->
@@ -192,11 +216,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1072960128820715602/1094996196084428840/coder-anime.gif?ex=651396ed&is=6512456d&hm=2213290c426cd47771c2f0d6983d0d7c0a35afc8c787ac180c768720d2ebf703&">
 
-## ZERHO COOL es un estudio creativo que da forma a las marcas del mañana.
+## ✏️- ZERHO COOL es un estudio creativo que da forma a las marcas del mañana.
 
 ### 📌- Formamos mundos e identidades visuales, construidos sobre la base del pensamiento y el diseño interdisciplinarios, siempre desafiando el status quo. Fusionamos el arte del Codigo con el Diseño Grafico.
 
-## Construyendo simbiosis visual en una industria fragmentada.
+## ✏️- Construyendo simbiosis visual en una industria fragmentada.
 
 ### 📌- Ya sea como socio de marcas o colaborador de agencias, nuestro objetivo siempre es dar forma a direcciones visuales originales, conectando la marca con la creación de contenido y experiencias digitales.
 
@@ -204,7 +228,7 @@
 
 <img align="left" alt="Coding" width="600" src="https://cdn.discordapp.com/attachments/1072960128820715602/1158863851236892802/Banner_-ZERHO-3-min.png?ex=651dcb90&is=651c7a10&hm=26d1af9959d7e2149d9929bc5b597d59339b5835124e1eddd19a88815ad4f698&">
 
-## Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
+## ✏️- Guiados por la estética y la innovación, trabajamos con las marcas mas progresistas para diseñar su futuro.
 
 ### 📌- Podemos confiar en un grupo de talentos global innovador y cuidadosamente seleccionado, que nos permite trabajar para pequeñas y grandes empresas, en varias industrias, y encontrar respuestas a informes complejos de las maneras más efectivas.
 
@@ -221,7 +245,7 @@
   <img  alt="Coding" width="800" src="https://cdn.discordapp.com/attachments/1072960128820715602/1161362394711335072/reglas3.png?ex=65380603&is=65259103&hm=e340ff3416aabe09c1e5580e7ed41795550952106acfc860bf8cd48be123728d&">
 </p>
 
-- Gracias por ser parte de este equipo.
+- Gracias a estas empresas por su apoyo y confianza en este equipo.
 
 </details>
 <!-- FINAL LA EMPRESA  -->
@@ -330,8 +354,6 @@
   <p><a href="https://github.com/zerhocool"><img src="https://github-contribution-stats.vercel.app/api/?username=zerhocool" alt="Contribution Stats"></a></p>
 </div>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 <h3>⚡ Metricas WakaTime</h3>
@@ -416,16 +438,6 @@ MDX                      1 repo              ████░░░░░░░�
  Last Updated on 12/10/2023 01:02:13 UTC
 <!--END_SECTION:waka-->
 
----
-
-<details>
-  <summary>
-    <h2>⠀METRICS⠀<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" /></h2>
-  </summary>
-  
-![Metrics](https://metrics.lecoq.io/zerhocool?template=classic&isocalendar=1&lines=1&achievements=1&introduction=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Europe%2FParis)
-</details>
-
 </details>
 <!-- FINAL DE ANALITICA  -->
 <img src="https://i.imgur.com/BsT3Qux.gif">
@@ -495,7 +507,7 @@ MDX                      1 repo              ████░░░░░░░�
 
 - ✔ Dándole una estrella (starring) y compartiendo el proyecto 🚀
 
-<p><a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=Sigueme!" alt="Button Component"></a></p>
+<p><a href="https://github.com/zerhocool/zerhocool"><img src="https://readme-components.vercel.app/api?component=button&amp;text=zerho%20cool" alt="Button Component"></a></p>
 
 ---
 
@@ -503,7 +515,9 @@ MDX                      1 repo              ████░░░░░░░�
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En el resto del mundo Bitcoin (BTC), Euros y Tarjeta de credito.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina solo Transferencia Bancaria, dolares a la cotizacion BLUE del dia.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="35" height="35" />⠀En Argentina Solo  dolares a la cotizacion BLUE del dia, en efectivo. SIN EXEPCIONES debido a la situacion que  atravieza el pais.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
 
 | EMPRESAS | TRANSFERENCIA                         |
 | :------- | ------------------------------------- |
@@ -512,9 +526,7 @@ MDX                      1 repo              ████░░░░░░░�
 | 💢💢💢   | 💢💢💢💢💢                            |
 | ✔ BTC    | 3DdHEzjvzYimqjBxyujnSrCiBaj9rhB423%20 |
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="35" height="35" /> No ACEPTAMOS Pesos Argentinos, ni Mercado Pago. ‼️
-
-## 💰 Puedes ayudarme invitandome un cafe.
+## Puedes ayudarme invitandome un cafe.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp" alt="Money With Wings" width="35" height="35" />
 
 <a href="https://payment-link.astropay.com/pnt5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
@@ -568,3 +580,4 @@ MDX                      1 repo              ████░░░░░░░�
 <!-- FINAL FOOTER -->
 </body>
 </html>
+
